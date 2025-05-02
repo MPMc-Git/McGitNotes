@@ -26,3 +26,7 @@ Build the following Macro<br />
 `End Function`<br />
 Use the following in an empty cell<br />
 `=GetURL(A6)`
+
+#### Tab ID Hyperlink
+`=HYPERLINK("#gid="&A2,REGEXEXTRACT(CELL("address",SheetName!$A$1),"'?([^']+)'?!"))`
+A2 being the Google Sheets Tab ID
