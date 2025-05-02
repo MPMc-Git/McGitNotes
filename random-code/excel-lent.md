@@ -37,4 +37,4 @@ Use the following in an empty cell<br />
 
 #### Tab ID Hyperlink
 > =HYPERLINK("#gid="&A2,REGEXEXTRACT(CELL("address",SheetName!$A$1),"'?([^']+)'?!"))
-A2 being the Google Sheets Tab ID
+A2 being the Google Sheets Tab ID (gid=1896709346)
