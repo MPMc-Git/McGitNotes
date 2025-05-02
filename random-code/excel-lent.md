@@ -1,8 +1,16 @@
+#### Conditional Formatting for Google Sheets
+`=regexmatch(C3,"Keyword")`<br />
+`=COUNTIF (A:A, A1)>1`
+
 #### Concat Fields with Carriage Returns
 `=A2&IF(B2<>"",CHAR(10)&B2,"")&IF(C2<>"",CHAR(10)&C2,"")`
 
 #### Convert All Zips Variants to Leading Zeroes
 `=SWITCH(LEN(A2),4,TEXT(A2,"00000"),5,A2,8,TEXT(A2,"00000-0000"),9,TEXT(A2,"00000-0000"))`
+
+#### Day in Previous Quarter (First / Last)
+`=DATE(YEAR(DateCell),FLOOR(MONTH(DateCell)-1,3)-1,0)`<br />
+`=DATE(YEAR(DateCell),FLOOR(MONTH(DateCell)-1,3)+1,0)`
 
 #### Macro To Export Each Row as Text File (1 Cell Per Row)
 For row = 1 assumes no column header<br />
