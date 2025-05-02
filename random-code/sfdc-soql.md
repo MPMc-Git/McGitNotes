@@ -44,6 +44,11 @@ Sometimes there just isn't a Report already put together to show me the data I'm
 > GROUP BY UserType, ProfileId, Profile.Name<br />
 > ORDER BY Profile.Name
 
+#### Users with their License Type
+> SELECT Id, FirstName, LastName, Profile.UserLicense.LicenseDefinitionKey, Profile.UserLicense.MasterLabel<br />
+> FROM User<br />
+> WHERE IsActive = TRUE
+
 #### Users with their Roles & Profiles
 > SELECT Id,Name, UserRole.Name, Profile.Name<br />
 > FROM User<br />
