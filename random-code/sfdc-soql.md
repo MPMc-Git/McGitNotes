@@ -85,6 +85,10 @@ Sometimes there just isn't a Report already put together to show me the data I'm
 > WHERE UserId = '005...'<br />
 > AND RecordId = '001...'
 
+#### All Permission Sets in Permission Set Groups
+> SELECT Id, PermissionSetGroupId, PermissionSetGroup.MasterLabel, PermissionSetId, PermissionSet.Name<br />
+> FROM PermissionSetGroupComponent
+
 #### SOQL Custom Permission
 ###### Gotta be honest, I forget why I did this 
 > SELECT ParentId, Parent.Name<br />
