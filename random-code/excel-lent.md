@@ -6,7 +6,7 @@
 ###### This shows the actual column number, but I also have it doing math so I can do VLOOKUP without having to physically count everything
 > ="Column "&COLUMN()&CHAR(10)&"PermColumn "&COLUMN()-21
 
-#### CONCATENATE Alternative - both do the same thing
+#### CONCATENATE - both do the same thing
 > =CONCATENATE(A1," ",B1)<br />
 > =A1&" "&B1<br />
 ![image](https://github.com/user-attachments/assets/d96bfb6b-0a17-446a-88e0-bc5868561e1e)
