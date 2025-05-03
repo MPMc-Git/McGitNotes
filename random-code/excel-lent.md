@@ -1,6 +1,7 @@
 #### CONCATENATE Alternative - both do the same thing
 > =CONCATENATE(A1," ",B1)<br />
-> =A1&" "&B1
+> =A1&" "&B1<br />
+![image](https://github.com/user-attachments/assets/d96bfb6b-0a17-446a-88e0-bc5868561e1e)
 
 #### Conditional Formatting for Google Sheets
 > =regexmatch(C3,"Keyword")<br />
