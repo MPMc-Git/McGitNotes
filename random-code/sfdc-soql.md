@@ -85,6 +85,14 @@ Sometimes there just isn't a Report already put together to show me the data I'm
 > WHERE UserId = '005...'<br />
 > AND RecordId = '001...'
 
+#### SOQL Custom Permission
+###### Gotta be honest, I forget why I did this 
+> SELECT ParentId, Parent.Name<br />
+> FROM SetupEntityAccess<br />
+> WHERE SetupEntityId IN (SELECT Id<br />
+>  FROM CustomPermission<br />
+>  WHERE DeveloperName = 'Salesforce_CPQ_Permission')
+
 #### Object Permissions based on Profile
 > SELECT Id, SobjectType, PermissionsCreate, PermissionsRead, PermissionsEdit, PermissionsDelete, PermissionsViewAllRecords, PermissionsModifyAllRecords, ParentId, Parent.Profile.Name<br />
 > FROM ObjectPermissions<br />
@@ -169,6 +177,15 @@ Other Objects:
 ^ How To Interpret That In Excel ^<br />
 SWITCH Command for Excel to interpret the JobType (this is likely out of date): 
 > =SWITCH(CELL,1,"Data Export",3,"Dashboard Refresh",4,"Reporting Snapshot",6,"Scheduled Flow",7,"Scheduled Apex",8,"Report Run",9,"Batch Job","A","Reporting Notification","E","Search Engine Incremental Optimization","G","Search Engine Optimization Generation")
+
+## Other
+#### SOQL Lightning Component
+(if you have the name)<br />
+###### Gotta be honest, I forget why I did this
+> SELECT AuraDefinitionBundleInfoId, AuraDefinitionId, DefType, DeveloperName, DurableId, Format, Id, LastModifiedDate, NamespacePrefix, Source<br />
+> FROM AuraDefinitionInfo<br />
+> WHERE DeveloperName = 'IconByFileExtension'<br />
+> LIMIT 100
 
 ## Financial Services Cloud
 Yeah... I know it's going away... but it MIGHT still be useful
