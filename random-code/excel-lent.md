@@ -1,19 +1,19 @@
-#### CONCATENATE Alternative - both do the same thing
-> =CONCATENATE(A1," ",B1)<br />
-> =A1&" "&B1<br />
-![image](https://github.com/user-attachments/assets/d96bfb6b-0a17-446a-88e0-bc5868561e1e)
-
-#### Conditional Formatting for Google Sheets
-> =regexmatch(C3,"Keyword")<br />
-> =COUNTIF (A:A, A1)>1
-
 #### Column Letter & Row Number
 ###### This must have had a purpose at some point, but I'm too tired to remember.
 > =SUBSTITUTE(ADDRESS(1,COLUMN(),4),"1","")
 > =COLUMN()
 
-#### Concat Fields with Carriage Returns
+#### CONCATENATE Alternative - both do the same thing
+> =CONCATENATE(A1," ",B1)<br />
+> =A1&" "&B1<br />
+![image](https://github.com/user-attachments/assets/d96bfb6b-0a17-446a-88e0-bc5868561e1e)
+
+#### Concatenate Fields with Carriage Returns
 > =A2&IF(B2<>"",CHAR(10)&B2,"")&IF(C2<>"",CHAR(10)&C2,"")
+
+#### Conditional Formatting for Google Sheets
+> =regexmatch(C3,"Keyword")<br />
+> =COUNTIF (A:A, A1)>1
 
 #### Convert All Zips Variants to Leading Zeroes
 > =SWITCH(LEN(A2),4,TEXT(A2,"00000"),5,A2,8,TEXT(A2,"00000-0000"),9,TEXT(A2,"00000-0000"))
