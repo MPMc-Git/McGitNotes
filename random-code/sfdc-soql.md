@@ -183,12 +183,15 @@ SWITCH Command for Excel to interpret the JobType (this is likely out of date):
 > =SWITCH(CELL,1,"Data Export",3,"Dashboard Refresh",4,"Reporting Snapshot",6,"Scheduled Flow",7,"Scheduled Apex",8,"Report Run",9,"Batch Job","A","Reporting Notification","E","Search Engine Incremental Optimization","G","Search Engine Optimization Generation")
 
 ## Other
-#### SOQL Lightning Component
-(if you have the name)<br />
-###### Gotta be honest, I forget why I did this
+#### Gathering info from SetupAuditTrail
+###### The "Section" may change from month-to-month. Why this is called Section and not Type is beyond me. If you know, don't ruin the mystery for me.
+> SELECT Id, CreatedDate, CreatedBy.UserName, ResponsibleNamespacePrefix, Display, Section, DelegateUser<br />
+> FROM SetupAuditTrail WHERE CreatedDate >= 2024-01-01T00:00:00.000Z<br />
+> AND CreatedDate < 2024-02-01T00:00:00.000Z
+
+#### SOQL Lightning Components
 > SELECT AuraDefinitionBundleInfoId, AuraDefinitionId, DefType, DeveloperName, DurableId, Format, Id, LastModifiedDate, NamespacePrefix, Source<br />
 > FROM AuraDefinitionInfo<br />
-> WHERE DeveloperName = 'IconByFileExtension'<br />
 > LIMIT 100
 
 ## Financial Services Cloud
