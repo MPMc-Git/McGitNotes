@@ -28,6 +28,10 @@ Sometimes I like to make things more difficult 😁
 #### ...via REST Explorer Utility in Workbench
 > /services/data/v50.0/tooling/query?q=Select+Id,DeveloperName,SenderType+From+WorkflowAlert
 
+## All Lightning Pages
+### ...via REST Explorer Utility in Workbench
+> /services/data/v58.0/tooling/query?q=SELECT+Id,Description,DeveloperName,EntityDefinitionId+FROM+FlexiPage
+
 ## Where Is This Used?
 NOT overly useful but there are suggestions cooler functionality may be coming
 #### ...via Developer Console using Tooling API
