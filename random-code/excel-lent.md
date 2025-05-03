@@ -1,3 +1,7 @@
+#### CONCATENATE Alternative - both do the same thing
+> =CONCATENATE(A1," ",B1)<br />
+> =A1&" "&B1
+
 #### Conditional Formatting for Google Sheets
 > =regexmatch(C3,"Keyword")<br />
 > =COUNTIF (A:A, A1)>1
