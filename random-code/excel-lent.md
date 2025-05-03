@@ -2,6 +2,11 @@
 > =regexmatch(C3,"Keyword")<br />
 > =COUNTIF (A:A, A1)>1
 
+#### Column Letter & Row Number
+###### This must have had a purpose at some point, but I'm too tired to remember.
+> =SUBSTITUTE(ADDRESS(1,COLUMN(),4),"1","")
+> =COLUMN()
+
 #### Concat Fields with Carriage Returns
 > =A2&IF(B2<>"",CHAR(10)&B2,"")&IF(C2<>"",CHAR(10)&C2,"")
 
