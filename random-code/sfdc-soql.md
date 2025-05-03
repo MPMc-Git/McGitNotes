@@ -18,7 +18,18 @@
 > WHERE Name = 'Salesforce'
 
 ## Users
-Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised
+###### Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised
+
+#### New Users
+> SELECT Id, CreatedDate<br />
+> FROM User<br />
+> WHERE CreatedDate = LAST_QUARTER
+
+#### Frozen Users
+> SELECT IsFrozen, UserId<br />
+> FROM UserLogin<br />
+> WHERE IsFrozen = TRUE
+
 #### Find by Email
 > SELECT Id, Name, Username, Email, UserRole.Name, Profile.Name<br />
 > FROM User<br />
@@ -88,6 +99,11 @@ Sometimes there just isn't a Report already put together to show me the data I'm
 #### All Permission Sets in Permission Set Groups
 > SELECT Id, PermissionSetGroupId, PermissionSetGroup.MasterLabel, PermissionSetId, PermissionSet.Name<br />
 > FROM PermissionSetGroupComponent
+
+#### All Permission Sets - YAY
+###### Type = Profile will have the Label of '00e...', but that's why Profile.Name exists
+> SELECT Id, Type, Label, Profile.Name, ProfileId<br />
+> FROM PermissionSet
 
 #### SOQL Custom Permission
 ###### Gotta be honest, I forget why I did this 
@@ -177,7 +193,6 @@ Other Objects:
 > SELECT CreatedDate, TimesTriggered, CronExpression, CreatedBy.Name, CronJobDetail.Name, CronJobDetail.JobType<br />
 > FROM CronTrigger<br />
 > ORDER BY CronJobDetail.Name
-
 ^ How To Interpret That In Excel ^<br />
 SWITCH Command for Excel to interpret the JobType (this is likely out of date): 
 > =SWITCH(CELL,1,"Data Export",3,"Dashboard Refresh",4,"Reporting Snapshot",6,"Scheduled Flow",7,"Scheduled Apex",8,"Report Run",9,"Batch Job","A","Reporting Notification","E","Search Engine Incremental Optimization","G","Search Engine Optimization Generation")
