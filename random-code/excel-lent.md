@@ -2,6 +2,7 @@
 ###### This must have had a purpose at some point, but I'm too tired to remember.
 > =SUBSTITUTE(ADDRESS(1,COLUMN(),4),"1","")<br />
 > =COLUMN()<br />
+> =ROW()
 ###### This shows the actual column number, but I also have it doing math so I can do VLOOKUP without having to physically count everything
 > ="Column "&COLUMN()&CHAR(10)&"PermColumn "&COLUMN()-21
 
