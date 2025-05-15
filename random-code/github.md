@@ -11,3 +11,15 @@
 
 #### GitHub Audit Logs use Epoch Date - you can convert in Excel/Sheets
 > =EPOCHTODATE(A2,2)
+
+#### Repos
+> git init                 // Initialize a new Repo<br />
+> git clone <repo-url>     // Clone a Repo
+
+#### Basics
+> git status               // Show Changes Status<br />
+> git add <file>           // Add Changes to Staging<br />
+> git commit -m "Message"  // Commit Changes with Message<br />
+> git log                  // View Commit History
+
+#### Branching
