@@ -28,7 +28,7 @@
 
 ## Formula Fields
 #### Hyperlink to Record
-Mostly used for Email Alerts, but this creates a Hyperlink that'll work in any Salesforce Organization - no hardcoding the URL
+Mostly used for Email Alerts, but this creates a Hyperlink that'll work in any Salesforce Organization - no hardcoding the URL<br />
 'Task Link' is what will be displayed<br />
 >HYPERLINK(<br />
 > LEFT($Api.Partner_Server_URL_260, FIND( '/services', $Api.Partner_Server_URL_260)) & Id, 'Task Link')<br />
