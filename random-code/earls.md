@@ -8,3 +8,4 @@
 - [RegExr Tool](https://regexr.com/) - learn & practice RegEx
 - [Smartsheet Formula Handbook Template](https://www.smartsheet.com/template-gallery/formula-handbook) - this is pretty neat
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
+- [Prismic Style Guide](https://prismic.io/glossary/style-guide)
