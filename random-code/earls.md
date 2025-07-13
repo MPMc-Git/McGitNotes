@@ -13,3 +13,4 @@
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [CI/CD for Org Development Model](https://github.com/salto-io/salesforce-ci-cd-org-dev/tree/master)
 - [SF Ben :: Python & SFDC](https://www.salesforceben.com/a-step-by-step-guide-to-salesforce-integration-with-python/)
+- [Python CSVing](https://docs.python.org/3/library/csv.html)
