@@ -10,3 +10,4 @@
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
 - [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
 - [Salesforce Trailblazer Profile](https://www.salesforce.com/trailblazer/profile/)
+- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
