@@ -15,3 +15,4 @@
 - [SF Ben :: Python & SFDC](https://www.salesforceben.com/a-step-by-step-guide-to-salesforce-integration-with-python/)
 - [Python CSVing](https://docs.python.org/3/library/csv.html)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
+- [Salesforce Apex Test Class with an Example & Best Practices](https://jayakrishnasfdc.wordpress.com/2021/01/02/salesforce-apex-test-class-with-an-example-annotations-best-practices-of-test-class/)
