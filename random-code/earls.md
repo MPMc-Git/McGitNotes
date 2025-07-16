@@ -4,6 +4,7 @@
 #### Salesforce-related
 - [ApexSandbox.io](https://www.apexsandbox.io/) - practice Apex in a Dev Org
 - [Focus on Force](https://focusonforce.com/) - training for certifications
+- [Salesforce+](https://www.salesforce.com/plus/)
 - [Salesforce Trailblazer Profile](https://www.salesforce.com/trailblazer/profile/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [CI/CD for Org Development Model](https://github.com/salto-io/salesforce-ci-cd-org-dev/tree/master)
