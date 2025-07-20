@@ -20,4 +20,5 @@
 - [Smartsheet Formula Handbook Template](https://www.smartsheet.com/template-gallery/formula-handbook) - this is pretty neat
 - [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
 - [Python CSVing](https://docs.python.org/3/library/csv.html)
+- [Snowflake Documentation](https://docs.snowflake.com/)
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
