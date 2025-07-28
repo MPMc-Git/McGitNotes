@@ -27,3 +27,5 @@
 - [RegExr Tool](https://regexr.com/) - learn & practice RegEx
 - [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
+- [GitHub Emojis Gist](https://gist.github.com/MPMc-Git/e8a444b30845753c65aab41fd824fbd2) - my fork
+- [LinkedIn Emojis](https://www.linkedin.com/pulse/emojis-linkedin-full-list-including-special-george-oliveira/)
