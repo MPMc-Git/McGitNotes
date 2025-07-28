@@ -10,6 +10,7 @@
 - [CI/CD for Org Development Model](https://github.com/salto-io/salesforce-ci-cd-org-dev/tree/master)
 - [SF Ben :: Python & SFDC](https://www.salesforceben.com/a-step-by-step-guide-to-salesforce-integration-with-python/)
 - [Salesforce Apex Test Class with an Example & Best Practices](https://jayakrishnasfdc.wordpress.com/2021/01/02/salesforce-apex-test-class-with-an-example-annotations-best-practices-of-test-class/)
+- [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
 
 #### Database-y
@@ -29,3 +30,6 @@
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
 - [GitHub Emojis Gist](https://gist.github.com/MPMc-Git/e8a444b30845753c65aab41fd824fbd2) - my fork
 - [LinkedIn Emojis](https://www.linkedin.com/pulse/emojis-linkedin-full-list-including-special-george-oliveira/)
+
+#### SF Ben Articles
+- [Ultimate Guide to Salesforce Dynamic Related Lists](https://www.salesforceben.com/ultimate-guide-to-salesforce-dynamic-related-lists/?utm_source=linkedin&utm_medium=social&utm_content=413522124)
