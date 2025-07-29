@@ -1,1 +1,1 @@
-#### Things I've found on LinkedIn that I wanted to keep
+# Things I've found on [LinkedIn](https://www.linkedin.com/)
