@@ -11,6 +11,7 @@
 - [SF Ben :: Python & SFDC](https://www.salesforceben.com/a-step-by-step-guide-to-salesforce-integration-with-python/)
 - [Salesforce Apex Test Class with an Example & Best Practices](https://jayakrishnasfdc.wordpress.com/2021/01/02/salesforce-apex-test-class-with-an-example-annotations-best-practices-of-test-class/)
 - [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
+- [Scale Center](https://help.salesforce.com/s/articleView?id=xcloud.scale_center_overview.htm&type=5)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
 
 #### Database-y
@@ -35,4 +36,5 @@
 - [Ultimate Guide to Salesforce Dynamic Related Lists](https://www.salesforceben.com/ultimate-guide-to-salesforce-dynamic-related-lists/?utm_source=linkedin&utm_medium=social&utm_content=413522124)
 
 #### SF Trailmixes
-- [Prepare for your Salesforce Certified AI Associate Credential](https://trailhead.salesforce.com/users/strailhead/trailmixes/prepare-for-your-salesforce-ai-associate-credential)
+- [Salesforce Certified Agentforce Specialist Exam Guide](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Agentforce-Specialist-Exam-Guide)
+- [Agentblazer Status](https://trailhead.salesforce.com/agentblazer)
