@@ -33,3 +33,6 @@
 
 #### SF Ben Articles
 - [Ultimate Guide to Salesforce Dynamic Related Lists](https://www.salesforceben.com/ultimate-guide-to-salesforce-dynamic-related-lists/?utm_source=linkedin&utm_medium=social&utm_content=413522124)
+
+#### SF Trailmixes
+- [Prepare for your Salesforce Certified AI Associate Credential](https://trailhead.salesforce.com/users/strailhead/trailmixes/prepare-for-your-salesforce-ai-associate-credential)
