@@ -35,6 +35,7 @@
 #### SF Ben Articles
 - [Ultimate Guide to Salesforce Dynamic Related Lists](https://www.salesforceben.com/ultimate-guide-to-salesforce-dynamic-related-lists/?utm_source=linkedin&utm_medium=social&utm_content=413522124)
 
-#### SF Trailmixes
-- [Salesforce Certified Agentforce Specialist Exam Guide](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Agentforce-Specialist-Exam-Guide)
+#### SF Trails
 - [Agentblazer Status](https://trailhead.salesforce.com/agentblazer)
+- [Cert Prep: Agentforce Specialist](https://trailhead.salesforce.com/content/learn/modules/cert-prep-agentforce-specialist)
+- [Salesforce Certified Agentforce Specialist Exam Guide](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Agentforce-Specialist-Exam-Guide)
