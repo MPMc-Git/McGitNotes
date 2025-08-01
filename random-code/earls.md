@@ -14,6 +14,18 @@
 - [Scale Center](https://help.salesforce.com/s/articleView?id=xcloud.scale_center_overview.htm&type=5)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
 
+#### SF Trails
+- [Agentblazer Status](https://trailhead.salesforce.com/agentblazer)
+- [Cert Prep: Agentforce Specialist](https://trailhead.salesforce.com/content/learn/modules/cert-prep-agentforce-specialist)
+- [Salesforce Certified Agentforce Specialist Exam Guide](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Agentforce-Specialist-Exam-Guide)
+
+#### SF Ben Articles
+- [Ultimate Guide to Salesforce Dynamic Related Lists](https://www.salesforceben.com/ultimate-guide-to-salesforce-dynamic-related-lists/?utm_source=linkedin&utm_medium=social&utm_content=413522124)
+- [Salesforce Model Context Protocol Explained: How MCP Bridges AI and Your CRM](https://www.salesforceben.com/salesforce-model-context-protocol-explained-how-mcp-bridges-ai-and-your-crm/?utm_source=linkedin&utm_medium=social&utm_content=417051869)
+
+#### Compliance-Related
+- [SOX Compliance 2025 Complete Guide](https://auditboard.com/blog/sox-compliance)
+
 #### Database-y
 - [Python CSVing](https://docs.python.org/3/library/csv.html)
 - [Snowflake Badges](https://ysa.snowflakeuniversity.com/)
@@ -26,16 +38,10 @@
 - [Diagrams.net](https://app.diagrams.net/) - free Visio-like software
 - [Google Cloud](https://console.cloud.google.com/)
 - [IT Tools](https://it-tools.tech/) - most of these tools I don't even understand yet :)
+- [MCP Servers Explained](https://cline.bot/blog/mcp-servers-explained-what-they-are-how-they-work-and-why-cline-is-revolutionizing-ai-tools)
+- [O365 App Passwords](https://account.live.com/proofs/Manage/additional?mkt=en-us)
 - [RegExr Tool](https://regexr.com/) - learn & practice RegEx
 - [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
 - [GitHub Emojis Gist](https://gist.github.com/MPMc-Git/e8a444b30845753c65aab41fd824fbd2) - my fork
 - [LinkedIn Emojis](https://www.linkedin.com/pulse/emojis-linkedin-full-list-including-special-george-oliveira/)
-
-#### SF Ben Articles
-- [Ultimate Guide to Salesforce Dynamic Related Lists](https://www.salesforceben.com/ultimate-guide-to-salesforce-dynamic-related-lists/?utm_source=linkedin&utm_medium=social&utm_content=413522124)
-
-#### SF Trails
-- [Agentblazer Status](https://trailhead.salesforce.com/agentblazer)
-- [Cert Prep: Agentforce Specialist](https://trailhead.salesforce.com/content/learn/modules/cert-prep-agentforce-specialist)
-- [Salesforce Certified Agentforce Specialist Exam Guide](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Agentforce-Specialist-Exam-Guide)
