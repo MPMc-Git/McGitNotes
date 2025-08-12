@@ -23,3 +23,6 @@
 > git log                  // View Commit History
 
 #### Branching
+
+#### Clone your GitHub Wiki
+git clone https://github.com/user/project.wiki.git
