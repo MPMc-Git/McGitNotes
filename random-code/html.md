@@ -19,7 +19,7 @@
 ```
 
 
-##### You should see one ore the other - switch your modes. Try it!
+##### You should see one or the other - switch your modes. Try it!
 <picture>
     <!-- light mode -->
      <source srcset="images/github-mark.png" width="75" height="75" media="(prefers-color-scheme: light)">
