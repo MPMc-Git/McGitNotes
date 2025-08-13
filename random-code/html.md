@@ -11,8 +11,10 @@
 <picture>
     <!-- light mode -->
      <source srcset="images/github-mark.png" width="75" height="75" media="(prefers-color-scheme: light)">
-    <!-- dark mode --><source srcset="images/github-mark-white.png" width="75" height="75" media="(prefers-color-scheme: dark)">
-    <!-- no  preference: --><img src="images/github-mark.png" width="75" height="75">
+    <!-- dark mode -->
+     <source srcset="images/github-mark-white.png" width="75" height="75" media="(prefers-color-scheme: dark)">
+    <!-- no  preference: -->
+     <img src="images/github-mark.png" width="75" height="75">
 </picture>
 ```
 
