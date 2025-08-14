@@ -14,9 +14,22 @@ Replace all "ZipCode" with appropriate field and "tTable" with appropriate table
 > END<br />
 > FROM tTable
 
-#### Store Procedure to Search All Tables
+#### Stored Procedure to Search All Tables
 https://gist.github.com/chrispret/959420810973b60d2c3b7f136f5f1cc0<br />
 SP_SearchTables.sql
+
+## Data Cleaning
+#### I got this list from LinkedIn but I forgot where :worried:
+| Steps | Commands |
+| :--- | :--- |
+| 1: Remove Duplicates | SELECT DISTINCT * FROM table; | 
+| 2: Trim Whitespace | SELECT TRIM(column) AS column<br/>FROM table; |
+| 3: Filter Invalid Values | SELECT * FROM table<br/>WHERE column IS NOT NULL<br/>AND column <> '';
+| 4: Standardize Formats | SELECT FORMAT(date_column,'yyyy-MM-dd') AS clean_date<br/>FROM table; |
+| 5: Handle NULLs | SELECT COALESCE(column,'default') AS column<br/>FROM table; |
+| 6: Fix Inconsistent Case | SELECT LOWER(column) AS column<br/>FROM table; |
+| 7: Correct Data Types | SELECT CAST(column AS INT) AS column<br/>FROM table; |
+| 8: Remove Invalid Char | UPDATE table_name<br/>SET column_name = REPLACE(column_name,'#',''); |
 
 ## System Specific Examples
 #### Get Labels / API Names - Dynamics CRM
@@ -38,7 +51,7 @@ Note the line above ORDER BY can be changed to reflect other tables/objects<br /
 /* ^^^ This can be changed to Contact, etc. ^^^ */<br />
 > ORDER BY EntityName, AttributeName<br />
 
-#### An XML PATH example
+#### An XML PATH example (I think this is from Junxure)
 If you want counts, I’ve only been able to do that via Excel (Remove Duplicates)<br />
 > SELECT DISTINCT tc.ID,<br />
 >  (SELECT SUBSTRING(<br />
