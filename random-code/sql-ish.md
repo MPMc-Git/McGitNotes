@@ -1,11 +1,19 @@
 ## Information Gathering
-#### Get All Tables & Fields
+### Get All Tables & Fields
 ```sql
 SELECT TABLE_NAME, COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE
 FROM INFORMATION_SCHEMA.COLUMNS
 ```
 
-#### Search for Column in all Tables
+### Column Info from Specific Table
+```sql
+SELECT column_name 'Column Name', data_type 'Data Type', Character_maximum_length 'Maximum Length'
+FROM information_schema.columns
+WHERE table_name = tTable
+ORDER BY column_name
+```
+
+### Search for %Column% in all Tables
 ```sql
 SELECT O.Name 'Table', C.Name 'Column'
 FROM Sys.columns C
@@ -14,15 +22,18 @@ WHERE C.name LIKE '%class%'
 ORDER by O.name;
 ```
 
-#### Column Info from Specific Table
+### Search for %Column% in all %Tables%
 ```sql
-SELECT column_name 'Column Name', data_type 'Data Type', Character_maximum_length 'Maximum Length'
-FROM information_schema.columns
-WHERE table_name = table_name
-ORDER BY column_name
+SELECT O.Name 'Table', C.Name 'Column'
+FROM Epicor905.Sys.columns C
+INNER JOIN Epicor905.sys.objects O ON C.object_id=O.object_id
+WHERE C.name LIKE '%part%'
+	AND O.name LIKE '%rma%'
+ORDER by O.name;
 ```
 
-#### Columns that match between two Tables (this was from Epicor v9.0.5)
+### Columns that match between two Tables (this was from Epicor v9.0.5)
+Replace 'part' and 'partbin' with appropriate table names
 ```sql
 SELECT A.COLUMN_NAME 'Column Name',
 	A.TABLE_NAME 'Table 1',
@@ -42,8 +53,8 @@ ORDER BY A.COLUMN_NAME;
 ```
 
 ## Data Manipulation (CAST, FOR XML PATH, etc.)
-#### Zips Variants wLeading Zeros
-Replace all "ZipCode" with appropriate field and "tTable" with appropriate table name
+### Zips Variants wLeading Zeros
+Replace all **ZipCode** with appropriate field and **tTable** with appropriate table name
 ```sql
 SELECT CASE
  WHEN LEN(ZipCode) = 4 THEN FORMAT(CAST(ZipCode AS numeric),'00000')
@@ -55,7 +66,7 @@ END
 FROM tTable
 ```
 
-#### An XML PATH example (This is from Junxure)
+### An XML PATH example (This is from Junxure)
 If you want counts, I’ve only been able to do that via Excel (Remove Duplicates)
 ```sql
 SELECT DISTINCT tc.ID,
@@ -81,7 +92,7 @@ FROM tblClients tc
 ```
 
 ## Data Cleaning
-#### I got this list from LinkedIn but I forgot where :worried:
+I got this list from LinkedIn but I forgot where :worried:
 | Steps | Commands |
 | :--- | :--- |
 | 1: Remove Duplicates | SELECT DISTINCT * FROM table; | 
@@ -93,8 +104,24 @@ FROM tblClients tc
 | 7: Correct Data Types | SELECT CAST(column AS INT) AS column<br/>FROM table; |
 | 8: Remove Invalid Char | UPDATE table_name<br/>SET column_name = REPLACE(column_name,'#',''); |
 
+### Detect Fragmentation
+Replace **tTable** with appropriate table name
+```sql
+SELECT * FROM sys.dm_db_index_physical_stats (
+DB_ID(N'tTable'),NULL,NULL,NULL,NULL)
+```
+If you want more detail
+```sql
+SELECT OBJECT_NAME(object_id) AS 'Object Name',
+	index_id,index_type_desc, avg_fragmentation_in_percent,page_count
+FROM sys.dm_db_index_physical_stats (
+DB_ID(N'tTable'),NULL,NULL,NULL,NULL)
+WHERE avg_fragmentation_in_percent > 1
+ORDER BY page_count DESC
+```
+
 ## System Specific Examples
-#### Get Labels / API Names - Dynamics CRM
+### Get Labels / API Names - Dynamics CRM
 - [AxForum Link](https://axforum.info/forums/showthread.php?t=27429)
 - [Blog Post](http://mscrm-chandan.blogspot.com/2013/04/get-all-attribute-detail-of-entity-in.html)
 
