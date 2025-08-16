@@ -42,7 +42,9 @@
 - [MCP Servers Explained](https://cline.bot/blog/mcp-servers-explained-what-they-are-how-they-work-and-why-cline-is-revolutionizing-ai-tools)
 - [O365 App Passwords](https://account.live.com/proofs/Manage/additional?mkt=en-us)
 - [RegExr Tool](https://regexr.com/) - learn & practice RegEx
+- [Rex Egg](https://www.rexegg.com/regex-quickstart.php)
+    - The world's most tyrannosaurical regex tutorial
 - [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
+- [W3 HTML5 Character Reference Chart](https://html.spec.whatwg.org/multipage/named-characters.html)
+    - Precede the Name with a &
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
-- [GitHub Emojis Gist](https://gist.github.com/MPMc-Git/e8a444b30845753c65aab41fd824fbd2) - my fork
-- [LinkedIn Emojis](https://www.linkedin.com/pulse/emojis-linkedin-full-list-including-special-george-oliveira/)
