@@ -2,7 +2,8 @@
 ###### This just goes to the Wiki page
 
 #### Hashtags I Likely Use
-- #TechMerc #BattleTested #McGit #GitHubWiki #OpenSource #VSCode #ContinuousLearning
+- #TechMerc #BattleTested #ContinuousLearning
+- #McGit #GitHubWiki #OpenSource #VSCode
 - #Salesforce #SFDC #AwesomeAdmins #SalesforceAdmin #SalesforceDeveloper #SalesforceFlow #SalesforceCommunity #SalesforceJobs #SalesforceTips #SalesforceCertified
 - #Apex #SOQL #SQL #Excel #HTML #Markdown
 - #Trailblazer #Trailhead #AgentBlazer #AgentForce
