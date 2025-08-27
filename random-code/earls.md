@@ -2,9 +2,10 @@
 ###### Right-click and Open in New Tab
 
 #### Salesforce-related
-- [RenameForce](https://renameforce.com/) - A fun and hopefully useful tracker for every Salesforce product rename.
 - [ApexSandbox.io](https://www.apexsandbox.io/) - practice Apex in a Dev Org
+- [Apex Well Architected](https://awaf.dev/)
 - [Focus on Force](https://focusonforce.com/) - training for certifications
+- [RenameForce](https://renameforce.com/) - A fun and hopefully useful tracker for every Salesforce product rename.
 - [Salesforce+](https://www.salesforce.com/plus/)
 - [Salesforce Trailblazer Profile](https://www.salesforce.com/trailblazer/profile/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
