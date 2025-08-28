@@ -14,6 +14,7 @@
 - [Salesforce Apex Test Class with an Example & Best Practices](https://jayakrishnasfdc.wordpress.com/2021/01/02/salesforce-apex-test-class-with-an-example-annotations-best-practices-of-test-class/)
 - [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 - [Scale Center](https://help.salesforce.com/s/articleView?id=xcloud.scale_center_overview.htm&type=5)
+- [Record-Triggered Automation](https://architect.salesforce.com/decision-guides/trigger-automation)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
 
 #### SF Trails
