@@ -4,6 +4,7 @@
 #### Salesforce-related
 - [ApexSandbox.io](https://www.apexsandbox.io/) - practice Apex in a Dev Org
 - [Apex Well Architected](https://awaf.dev/)
+- [Expand Exchange](https://thesalesforcerecruiter.com/resources/expand-exchange/)
 - [Focus on Force](https://focusonforce.com/) - training for certifications
 - [RenameForce](https://renameforce.com/) - A fun and hopefully useful tracker for every Salesforce product rename.
 - [Salesforce+](https://www.salesforce.com/plus/)
