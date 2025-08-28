@@ -25,6 +25,7 @@
 - [Ultimate Guide to Salesforce Dynamic Related Lists](https://www.salesforceben.com/ultimate-guide-to-salesforce-dynamic-related-lists/?utm_source=linkedin&utm_medium=social&utm_content=413522124)
 - [Salesforce Model Context Protocol Explained: How MCP Bridges AI and Your CRM](https://www.salesforceben.com/salesforce-model-context-protocol-explained-how-mcp-bridges-ai-and-your-crm/?utm_source=linkedin&utm_medium=social&utm_content=417051869)
 - [How to Identify Unused Salesforce Fields With Python: A Step-by-Step Guide](https://www.salesforceben.com/how-to-identify-unused-salesforce-fields-with-python-a-step-by-step-guide/?utm_source=linkedin&utm_medium=social&utm_content=418098407)
+- [Salesforce Admin’s Guide to In-App Help Hacks](https://www.salesforceben.com/salesforce-admins-guide-to-in-app-help-hacks/?utm_source=linkedin&utm_medium=social&utm_content=430430429)
 
 #### Compliance-Related
 - [SOX Compliance 2025 Complete Guide](https://auditboard.com/blog/sox-compliance)
