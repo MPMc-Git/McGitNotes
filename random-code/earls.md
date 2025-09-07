@@ -50,6 +50,7 @@
 - [Rex Egg](https://www.rexegg.com/regex-quickstart.php)
     - The world's most tyrannosaurical regex tutorial
 - [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
+- [Star Wars Galaxy Map - Official](https://www.starwars.com/star-wars-galaxy-map)
 - [W3 HTML5 Character Reference Chart](https://html.spec.whatwg.org/multipage/named-characters.html)
     - Precede the Name with a &
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
