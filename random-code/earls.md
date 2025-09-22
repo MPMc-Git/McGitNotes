@@ -46,10 +46,10 @@
 - [IT Tools](https://it-tools.tech/) - most of these tools I don't even understand yet :)
 - [MCP Servers Explained](https://cline.bot/blog/mcp-servers-explained-what-they-are-how-they-work-and-why-cline-is-revolutionizing-ai-tools)
 - [O365 App Passwords](https://account.live.com/proofs/Manage/additional?mkt=en-us)
+- [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
 - [RegExr Tool](https://regexr.com/) - learn & practice RegEx
 - [Rex Egg](https://www.rexegg.com/regex-quickstart.php)
     - The world's most tyrannosaurical regex tutorial
-- [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
 - [Star Wars Galaxy Map - Official](https://www.starwars.com/star-wars-galaxy-map)
 - [W3 HTML5 Character Reference Chart](https://html.spec.whatwg.org/multipage/named-characters.html)
     - Precede the Name with a &
