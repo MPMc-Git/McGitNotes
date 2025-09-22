@@ -43,6 +43,7 @@
 #### Other
 - [Diagrams.net](https://app.diagrams.net/) - free Visio-like software
 - [Google Cloud](https://console.cloud.google.com/)
+- [Have I Been Pwned](https://haveibeenpwned.com/) - free email address lookup related to data breaches
 - [IT Tools](https://it-tools.tech/) - most of these tools I don't even understand yet :)
 - [MCP Servers Explained](https://cline.bot/blog/mcp-servers-explained-what-they-are-how-they-work-and-why-cline-is-revolutionizing-ai-tools)
 - [O365 App Passwords](https://account.live.com/proofs/Manage/additional?mkt=en-us)
