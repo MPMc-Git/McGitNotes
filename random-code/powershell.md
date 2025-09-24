@@ -5,4 +5,6 @@ The OperatingSystem & PasswordLastSet attributes are self-explanatory, though we
 The computer password should change every ~30 days by default. We can correlate the PasswordLastSet & LastLogonDate attribute values to determine if a computer is active or not. 
 A blank LastLogonDate value means the computer object is just that and not associated with an actual system. 
 
+```ps
 get-adcomputer -filter * -Prop * | sort OperatingSystem | select name,OperatingSystem,LastLogonDate,PasswordLastSet
+```
