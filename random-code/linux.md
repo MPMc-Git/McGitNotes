@@ -2,7 +2,7 @@
 
 | What | Why |
 | :--- | :--- |
-| `systemctl list-unit-files --type=service` | Running services |
+| `systemctl list-unit-files --type=service` | See running services |
 | `sudo systemctl soft-reboot` | "Soft reboot" user-space services |
 | `sync` | Flush filesystem buffers |
 | `sudo sh -c 'echo 3 > /proc/sys/vm/drop_caches'` | Clear page cache, dentries, and inodes |
