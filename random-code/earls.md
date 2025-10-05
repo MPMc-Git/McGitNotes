@@ -41,6 +41,7 @@
 - [Smartsheet Formula Handbook Template](https://www.smartsheet.com/template-gallery/formula-handbook) - this is pretty neat
 
 #### Other
+- [APA Generator](https://www.mybib.com/tools/apa-citation-generator)
 - [Diagrams.net](https://app.diagrams.net/) - free Visio-like software
 - [Google Cloud](https://console.cloud.google.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/) - free email address lookup related to data breaches
