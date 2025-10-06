@@ -9,3 +9,7 @@
 | `sudo systemctl restart <PROCESS>` | Restart a specific process |
 | `kill <PID>` | Kill Process by Number |
 | `kill -9 <PID>` | Force Kill Process by Number |
+---
+#### KEEBMONKEY Megalodon Triple Knob Macro Pad Programmable Designer Mini Keyboard 16 Keys (via Vial)
+[Keyboard](https://www.keebmonkey.com/products/megalodon-triple-knob-macro-pad)
+[Configuring udev rules for VIA and Vial on Linux](https://get.vial.today/manual/linux-udev.html)
