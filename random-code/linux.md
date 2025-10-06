@@ -11,5 +11,7 @@
 | `kill -9 <PID>` | Force Kill Process by Number |
 ---
 #### KEEBMONKEY Megalodon Triple Knob Macro Pad Programmable Designer Mini Keyboard 16 Keys (via Vial)
-[Keyboard](https://www.keebmonkey.com/products/megalodon-triple-knob-macro-pad)
-[Configuring udev rules for VIA and Vial on Linux](https://get.vial.today/manual/linux-udev.html)
+- [Keyboard](https://www.keebmonkey.com/products/megalodon-triple-knob-macro-pad)
+- [Configuring udev rules for VIA and Vial on Linux](https://get.vial.today/manual/linux-udev.html)
+- [Create keyboard definition JSON](https://get.vial.today/docs/porting-to-via.html)
+- [Vial](https://get.vial.today/)
