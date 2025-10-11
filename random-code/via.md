@@ -1,4 +1,4 @@
-### Macros from the site [Use Via](https://usevia.app/)
+## Macros from the site [Use Via](https://usevia.app/)
 
 #### For Linux
 - Launch Terminal
