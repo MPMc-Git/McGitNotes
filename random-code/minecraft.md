@@ -1,5 +1,9 @@
 ## Minecraft stuffs, mostly command blocks
 
+#### Show Feedback
+- /gamerule sendcommandfeedback true
+- /gamerule commandBlockOutput true
+
 #### Building an automatic Iron Golem spawner
 *Obviously, you can change this to something else<br/>
 *This is in 1.21.10 Java Edition*
