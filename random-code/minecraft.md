@@ -1,7 +1,7 @@
 ## Minecraft stuffs, mostly command blocks
 
 #### Show Feedback
-- /gamerule sendcommandfeedback true
+- /gamerule sendCommandFeedback true
 - /gamerule commandBlockOutput true
 
 #### Building an automatic Iron Golem spawner
