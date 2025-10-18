@@ -5,7 +5,7 @@
 - /gamerule commandBlockOutput true
 
 #### Building an automatic Iron Golem spawner
-*Obviously, you can change this to something else<br/>
+*Obviously*, you can change this to something else<br/>
 *This is in 1.21.10 Java Edition*
 1. Perform the following commands
    - `/scoreboard objectives add WorldTime dummy`
@@ -19,4 +19,5 @@
     - `/execute if score #WorldTime WorldTime matches 12000 run scoreboard players set #Flag IsNight 1`
 1. Create a Conditional, Chain, Always Active Command Block with the following:
     - `/execute if score #WorldTime WorldTime matches 14000 run scoreboard players set #Flag IsNight 0`
+
 **IMPORTANT**: You need to put each block connected to teach other, facing the same direction.  
