@@ -15,9 +15,9 @@
 1. Create a Chain, Conditional, Always Active Command Block with the following:
     - `/execute if score #WorldTime WorldTime matches 13000 if score #Flag IsNight matches 0 run summon minecraft:iron_golem ~ -1 ~`
     - **NOTE**: Replace ~ -1 ~ to the location you want the Iron Golem summoned
-1. Create a Chain, Conditional, Always Active Command Block with the following:
+1. Create a Chain, Unconditional, Always Active Command Block with the following:
     - `/execute if score #WorldTime WorldTime matches 12000 run scoreboard players set #Flag IsNight 0`
-1. Create a Chain, Conditional, Always Active Command Block with the following:
+1. Create a Chain, Unconditional, Always Active Command Block with the following:
     - `/execute if score #WorldTime WorldTime matches 14000 run scoreboard players set #Flag IsNight 1`
 
 **IMPORTANT**: You need to put each block connected to teach other, facing the same direction.  
