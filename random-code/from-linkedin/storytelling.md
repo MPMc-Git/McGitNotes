@@ -27,8 +27,24 @@ Inspire action through purpose-driven narrative.
     - `How`: Your unique process
     - `What`: What you actually deliver
 
+1. Minto Pyramid Principle
+    - Main Point: Then Why #1, Why #2, Why #3
 
 ##### Hmm... Not sure about these
+1. **STAR** Method
+Tell work stories with clear facts and results
+    1. Situation
+    1. Task
+    1. Action
+    1. Result
+
+1. **AIDA** Framework
+Hook attention first, then build to action
+    1. Attention
+    1. Interest
+    1. Desire
+    1. Action
+
 1. **StoryBrand Framework**
     1. A character has a problem
     1. Meets a guide
