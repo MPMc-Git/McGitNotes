@@ -2,6 +2,7 @@
 
 | What | Why |
 | :--- | :--- |
+| `sudo strings /sys/firmware/acpi/tables/MSDM` | Get Product Key from BIOS/UEFI |
 | `systemctl list-unit-files --type=service` | See running services |
 | `sudo systemctl soft-reboot` | "Soft reboot" user-space services |
 | `sync` | Flush filesystem buffers |
