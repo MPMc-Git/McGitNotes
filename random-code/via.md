@@ -11,3 +11,7 @@
 - Enter Creative Mode
   - {KC_T}{100}{KC_SLSH}{KC_G}{KC_A}{KC_M}{KC_E}{KC_M}{KC_O}{KC_D}{KC_E}{KC_SPC}{KC_C}{KC_R}{KC_E}{KC_A}{KC_T}{KC_I}{KC_V}{KC_E}{100}{KC_ENT}
 
+#### Get Linux to detect it
+SOLVED IT! Checked Chrome's Device-Log to get the device ID, then...
+sudo chmod a+rw hidraw7
+BOOM!
