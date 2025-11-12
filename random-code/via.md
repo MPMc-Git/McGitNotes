@@ -13,6 +13,5 @@
 
 #### Get Linux to detect it
 Chrome Event Log :: chrome://system/#device_event_log
-- SOLVED IT! Checked Chrome's Device-Log to get the device ID, then...
-sudo chmod a+rw hidraw7
-BOOM!
+- SOLVED IT! Checked Chrome's Device-Log to get the device ID (search for "hidraw"), then... BOOM!
+- `sudo chmod a+rw hidraw7`
