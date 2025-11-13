@@ -11,3 +11,7 @@
 - Enter Creative Mode
   - {KC_T}{100}{KC_SLSH}{KC_G}{KC_A}{KC_M}{KC_E}{KC_M}{KC_O}{KC_D}{KC_E}{KC_SPC}{KC_C}{KC_R}{KC_E}{KC_A}{KC_T}{KC_I}{KC_V}{KC_E}{100}{KC_ENT}
 
+#### Get Linux to detect it
+Chrome Event Log :: chrome://system/#device_event_log
+- SOLVED IT! Checked Chrome's Device-Log to get the device ID (search for "DOIO DOIO"), then... BOOM!
+- `sudo chmod a+rw /dev/hidraw1`
