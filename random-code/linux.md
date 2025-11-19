@@ -4,7 +4,7 @@
 | :--- | :--- |
 | `sudo strings /sys/firmware/acpi/tables/MSDM` | Get Product Key from BIOS/UEFI |
 | `systemctl list-unit-files --type=service` | See running services |
-| `sudo systemctl soft-reboot` | "Soft reboot" user-space services |
+| `sudo systemctl soft-reboot` | Reboots the O/S but not the computer |
 | `sync` | Flush filesystem buffers |
 | `sudo sh -c 'echo 3 > /proc/sys/vm/drop_caches'` | Clear page cache, dentries, and inodes |
 | `sudo systemctl restart <PROCESS>` | Restart a specific process |
