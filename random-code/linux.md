@@ -65,6 +65,28 @@ done
 
 echo "Processing complete. Results saved to $OUTPUT_FILE"
 ```
+#### Strawberry via MPRIS
+###### Programming the Keebmonkey to control Strawberry Music Player using playerctl
+```bash
+sudo apt update
+sudo apt install playerctl
+```
+##### Keyboard Custom Shortcuts
+| Name | Command | Keebmonkey |
+| :--- | :--- | :--: |
+| Strawberry Play/Pause | `playerctl play-pause -p strawberry` | KC_MPLY |
+| Strawberry Next | `playerctl next -p strawberry` | KC_MPRV |
+| Strawberry Previous | `playerctl previous -p strawberry` | KC_MNXT |
+| Strawberry Shuffle | `playerctl shuffle toggle -p strawberry` | KC_MFFD* |
+| Strawberry Loop Playlist | `playerctl loop Playlist -p strawberry` | KC_MRWD* |
+###### \* = No default keys for this in Via, so I improvised.
+
+##### Backup/Load Custom Keyboard Shortcuts
+```bash
+dconf dump /org/cinnamon/desktop/keybindings/ > ~/cinnamon-custom-keybinds.dconf
+dconf load /org/cinnamon/desktop/keybindings/ < ~/cinnamon-custom-keybinds.dconf
+```
+
 ---
 #### KEEBMONKEY Megalodon Triple Knob Macro Pad Programmable Designer Mini Keyboard 16 Keys (via Vial)
 - [Keyboard](https://www.keebmonkey.com/products/megalodon-triple-knob-macro-pad)
