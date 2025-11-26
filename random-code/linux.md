@@ -10,6 +10,7 @@
 | `sudo systemctl restart <PROCESS>` | Restart a specific process |
 | `kill <PID>` | Kill Process by Number |
 | `kill -9 <PID>` | Force Kill Process by Number |
+| `cinnamon-looking-glass` | Troubleshooting Tool |
 ---
 
 #### Converting FILE to PDF then Combining PDFs
