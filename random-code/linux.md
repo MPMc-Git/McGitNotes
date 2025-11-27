@@ -2,6 +2,8 @@
 
 | What | Why |
 | :--- | :--- |
+| `sudo apt update` | Seriously, have APT run an Update Check |
+| `sudo apt install code` | You guessed it, update ONLY VSCode |
 | `sudo strings /sys/firmware/acpi/tables/MSDM` | Get Product Key from BIOS/UEFI |
 | `systemctl list-unit-files --type=service` | See running services |
 | `sudo systemctl soft-reboot` | Reboots the O/S but not the computer |
