@@ -1,13 +1,18 @@
-#### Column Letter & Row Number
-###### This must have had a purpose at some point, but I'm too tired to remember.
+## Basic Info
+This returns the Column Letter but removes the Row Number
 ```excel
 =SUBSTITUTE(ADDRESS(1,COLUMN(),4),"1","")
-=COLUMN()
-=ROW()
 ```
-###### This shows the actual column number, but I also have it doing math so I can do VLOOKUP without having to physically count everything
+
+The column number, but also doing math so I can do VLOOKUP without having to physically count everything
 ```excel
-="Column "&COLUMN()&CHAR(10)&"PermColumn "&COLUMN()-21
+="ColNUM "&COLUMN()&CHAR(10)&"ColSUM "&COLUMN()-21
+```
+
+Conditional Formatting for Google Sheets
+```excel
+=regexmatch(C3,"Keyword")
+=COUNTIF (A:A, A1)>1
 ```
 
 #### CONCAT or NOT - both do the same thing
@@ -21,11 +26,6 @@
 #### Concatenate Fields with Carriage Returns
 ```excel
 =A2&IF(B2<>"",CHAR(10)&B2,"")&IF(C2<>"",CHAR(10)&C2,"")
-```
-#### Conditional Formatting for Google Sheets
-```excel
-=regexmatch(C3,"Keyword")
-=COUNTIF (A:A, A1)>1
 ```
 
 #### Convert All Zips Variants to Leading Zeroes
