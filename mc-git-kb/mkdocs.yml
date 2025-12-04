@@ -9,7 +9,15 @@ theme:
         - navigation.tabs # Top-level navigation
         - search.suggest # Helpful search suggestions
         - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
-        
+    palette:
+        # Set the scheme to 'slate' to force Dark Mode
+        - scheme: slate
+            primary: blue
+            accent: indigo
+            toggle:
+                icon: material/brightness-4 # Sets the default toggle icon to 'light mode'
+                name: Switch to light mode
+
 # Define the navigation structure
 nav:
     - Home: index.md
