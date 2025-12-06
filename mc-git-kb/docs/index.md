@@ -1,5 +1,7 @@
 # Welcome to the McKnowledgeBase
-↖ Click on the hamburger!
+↖ Click on the hamburger!<br/>
+Y'know, the 3 lines up and to the left.<br/>
+Click it. You know you want to.
 
 #### Hashtags I Likely Use
 - \#TechMerc #BattleTested #ExpertGeneralist #AlwaysBeCurious
