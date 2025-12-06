@@ -1,0 +1,1 @@
+[Minecraft](minecraft.md) :: I hate looking things up all the time, so I'm putting it here
