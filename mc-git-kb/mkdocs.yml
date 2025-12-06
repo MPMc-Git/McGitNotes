@@ -2,6 +2,10 @@ site_name: McKnowledge Base
 site_url: https://mpmc-git.github.io/McGitNotes/
 site_description: A collection of formulas, SOQL queries, and technical notes.
 
+# Enable Markdown extensions
+markdown_extensions:
+  - attr_list
+
 # Use the Material theme
 theme:
     name: material
