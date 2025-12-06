@@ -4,7 +4,7 @@ site_description: A collection of formulas, SOQL queries, and technical notes.
 
 # Enable Markdown extensions
 markdown_extensions:
-  - attr_list
+  - admonition
 
 # Use the Material theme
 theme:

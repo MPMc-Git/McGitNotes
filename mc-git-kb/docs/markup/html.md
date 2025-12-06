@@ -20,5 +20,10 @@
 
 
 ##### You should see one or the other - switch your modes. Try it!
-![Light](../../images/github-mark-light.png){.img-light width="75" height="75"}
-![Dark](../../images/github-mark-dark.png){.img-dark width="75" height="75"}
+<div class="img-light">
+  <img src="../../images/github-mark-light.png" width="75" height="75" alt="Light Mode">
+</div>
+
+<div class="img-dark">
+  <img src="../../images/github-mark-dark.png" width="75" height="75" alt="Dark Mode">
+</div>
