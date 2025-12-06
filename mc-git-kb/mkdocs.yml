@@ -33,7 +33,8 @@ nav:
     - Gaming-Related:
       - Minecraft: gaming/minecraft.md
     - Linux Things: linux/index.md
-    - Markup Languages: markup/index.md
+    - Markup Languages:
+      - HTML: markup/html.md
     - Points to Ponder: pts2p/index.md
     - Programming Languages: programming/index.md
     - Querying Languages: querying/index.md
