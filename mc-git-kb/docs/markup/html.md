@@ -22,9 +22,9 @@
 ##### You should see one or the other - switch your modes. Try it!
 <picture>
     <!-- light mode -->
-     <source srcset="../../images/github-mark-light.png" width="75" height="75" media="(prefers-color-scheme: light)">
+     <source srcset="../../images/github-mark-light.png" width="75" height="75" media="(prefers-color-scheme: light)">{.img-light}
     <!-- dark mode -->
-     <source srcset="../../images/github-mark-dark.png" width="75" height="75" media="(prefers-color-scheme: dark)">
-    <!-- no  preference: -->
-     <img src="../../images/github-mark.png" width="75" height="75">
+     <source srcset="../../images/github-mark-dark.png" width="75" height="75" media="(prefers-color-scheme: dark)">{.img-dark}
+    <!-- no  preference: (this does not exist via Mkdocs)  -->
+    <!--  <img src="../../images/github-mark.png" width="75" height="75"> -->
 </picture>
