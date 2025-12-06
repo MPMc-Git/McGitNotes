@@ -37,6 +37,15 @@ Same code but for a Flow<br />
 > HYPERLINK(<br />
 > LEFT($Api.Partner_Server_URL_550, FIND( '/services', $Api.Partner_Server_URL_550)) & {!$Record.Id}, 'Task Link')
 
+#### Show a Date Field as YYYY-MM-DD
+```excel
+TEXT(YEAR(TODAY()))
+&"-"&
+LPAD(TEXT(MONTH(TODAY())),2,"0")
+&"-"&
+LPAD(TEXT(MONTH(DAY())),2,"0")
+```
+
 #### How Long Have You Been Employed?
 > IF(ISBLANK(<HireDate>),'',<br />
 > TEXT(FLOOR((TODAY() - <HireDate>)/365)) &' Year(s)' & ' ' &<br />
