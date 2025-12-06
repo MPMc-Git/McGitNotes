@@ -31,6 +31,7 @@ nav:
     - URLs: urlz/index.md
     - Excel / Sheets / Smartsheet: spreadsheets/index.md
     - Gaming-Related: gaming/index.md
+      - Minecraft: gaming/minecraft.md
     - Linux Things: linux/index.md
     - Markup Languages: markup/index.md
     - Points to Ponder: pts2p/index.md
