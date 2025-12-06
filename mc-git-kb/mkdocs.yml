@@ -6,20 +6,6 @@ site_description: A collection of formulas, SOQL queries, and technical notes.
 markdown_extensions:
   - admonition
 
-extra:
-  header: |
-    <style>
-      /* 1. HIDE THE DARK DIV in Light Mode ('default') */
-      [data-md-color-scheme="default"] .img-dark {
-        display: none !important;
-      }
-      
-      /* 2. HIDE THE LIGHT DIV in Dark Mode ('slate') */
-      [data-md-color-scheme="slate"] .img-light {
-        display: none !important;
-      }
-    </style>
-
 # Use the Material theme
 theme:
   name: material

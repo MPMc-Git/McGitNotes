@@ -20,16 +20,39 @@
 
 
 ##### You should see one or the other - switch your modes. Try it!
-<div class="img-light">
-    <picture>
-        <source srcset="../../assets/images/github-mark-light.png" width="75" height="75"  media="prefers-color-scheme: light)">
-        <img src="../../assets/images/github-mark-light.png" width="75" height="75" alt="Light Mode">
-    </picture>
+<div id="light-logo" style="display: none;">
+  <img src="../../assets/images/github-mark-light.png" width="75" height="75" alt="Light Mode">
 </div>
 
-<div class="img-dark">
-    <picture>
-        <source srcset="../../assets/images/github-mark-dark.png" width="75" height="75" media="prefers-color-scheme: dark)">
-        <img src="../../assets/images/github-mark-dark.png" width="75" height="75" alt="Dark Mode">
-    </picture>
+<div id="dark-logo" style="display: block;">
+  <img src="../../assets/images/github-mark-dark.png" width="75" height="75" alt="Dark Mode">
 </div>
+
+<script>
+  // Get the logo containers
+  const lightLogo = document.getElementById('light-logo');
+  const darkLogo = document.getElementById('dark-logo');
+
+  // Function to switch based on scheme name
+  function switchLogo(scheme) {
+    if (scheme === 'slate') { // Dark Mode
+      darkLogo.style.display = 'block';
+      lightLogo.style.display = 'none';
+    } else { // Light Mode ('default')
+      darkLogo.style.display = 'none';
+      lightLogo.style.display = 'block';
+    }
+  }
+
+  // 1. Run immediately on load based on current scheme
+  switchLogo(document.body.getAttribute('data-md-color-scheme'));
+
+  // 2. Add listener to body attribute changes (what the theme toggle does)
+  new MutationObserver(mutations => {
+    mutations.forEach(mutation => {
+      if (mutation.attributeName === 'data-md-color-scheme') {
+        switchLogo(mutation.target.getAttribute('data-md-color-scheme'));
+      }
+    });
+  }).observe(document.body, { attributes: true });
+</script>
