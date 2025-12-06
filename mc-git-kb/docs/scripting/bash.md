@@ -1,5 +1,5 @@
 #### List MP3s in their subfolders and show their duration HH:MM:SS
-###### I used Gemini to put this together. Only took me 3 questions...
+<small>I used Gemini to put this together. Only took me 3 questions...</small>
 ```bash
 #!/bin/bash
 
