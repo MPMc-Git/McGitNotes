@@ -1,5 +1,5 @@
 # Welcome to the McKnowledgeBase
-<small>**NOTE**: Nothing is ever truly complete...</small>
+<small>**NOTE**: Nothing is ever truly complete...</small><br/>
 **NOTE**: Some items are in multiple places, so you may be teleported elsewhere.
 
 #### Hashtags I Try To Use
