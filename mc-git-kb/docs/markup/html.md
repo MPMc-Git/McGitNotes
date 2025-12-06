@@ -20,6 +20,15 @@
 
 
 ##### You should see one or the other - switch your modes. Try it!
+<picture>
+    <!-- light mode -->
+     <source srcset="../../images/github-mark-light.png" width="75" height="75" media="(prefers-color-scheme: light)">
+    <!-- dark mode -->
+     <source srcset="../../images/github-mark-dark.png" width="75" height="75" media="(prefers-color-scheme: dark)">
+</picture>
+
+
+
 <div class="img-light">
   <img src="../../images/github-mark-light.png" width="75" height="75" alt="Light Mode">
 </div>
