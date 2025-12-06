@@ -1,12 +1,12 @@
 /* --- Rule to control image visibility based on the active color scheme. --- */
 
 /* 1. HIDE THE DARK IMAGE: When the scheme is 'default' (Light Mode) */
-[data-md-color-scheme="default"] img.img-dark {
+[data-md-color-scheme="default"] .img-dark {
   display: none !important;
 }
 
 /* 2. HIDE THE LIGHT IMAGE: When the scheme is 'slate' (Dark Mode) */
-[data-md-color-scheme="slate"] img.img-light {
+[data-md-color-scheme="slate"] .img-light {
   display: none !important;
 }
 /* --- End of image visibility control rules. --- */
