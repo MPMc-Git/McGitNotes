@@ -1,4 +1,5 @@
 # Welcome to the McKnowledgeBase
+↖ Click on the hamburger!
 
 #### Hashtags I Likely Use
 - \#TechMerc #BattleTested #ExpertGeneralist #AlwaysBeCurious
