@@ -9,8 +9,8 @@
 *This is in 1.21.10 Java Edition*
 
 1. Perform the following commands
-   - `/scoreboard objectives add WorldTime dummy`
-   - `/scoreboard objectives add IsNight dummy`
+    - `/scoreboard objectives add WorldTime dummy`
+    - `/scoreboard objectives add IsNight dummy`
 
 1. Create a Repeat, Unconditional, Always Active Command Block with the following:
     - `/execute store result score #WorldTime WorldTime run time query daytime`
