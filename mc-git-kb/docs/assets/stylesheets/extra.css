@@ -6,6 +6,6 @@
 }
 
 /* 2. Hide the Light image in Dark Mode (Scheme is 'slate') */
-[data-md-color-scheme="slate"] img.img.img-light {
+[data-md-color-scheme="slate"] img.img-light {
   display: none;
 }
