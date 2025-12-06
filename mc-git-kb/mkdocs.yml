@@ -10,21 +10,20 @@ theme:
         - search.suggest # Helpful search suggestions
         - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
     palette:
-        # 1. Light Mode Palette (Default or desired light state)
-        - scheme: default 
-          primary: indigo
-          accent: orange
-          toggle:
-            icon: material/brightness-7 # Icon for Sun/Light
-            name: Switch to dark mode
-
-        # 2. Dark Mode Palette (The one you want it to switch to)
+        # 1. Dark Mode Palette (Default or desired light state)
         - scheme: slate
           primary: blue
           accent: indigo
           toggle:
             icon: material/brightness-4
             name: "Switch to light mode"
+        # 2. Light Mode Palette (The one you want it to switch to)
+        - scheme: default 
+          primary: indigo
+          accent: orange
+          toggle:
+            icon: material/brightness-7 # Icon for Sun/Light
+            name: Switch to dark mode
 
 # Define the navigation structure
 nav:
