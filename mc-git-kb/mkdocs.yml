@@ -9,8 +9,6 @@ markdown_extensions:
 # Use the Material theme
 theme:
   name: material
-  extra_css:
-    - assets/stylesheets/extra.css
   features:
     - navigation.tabs # Top-level navigation
     - search.suggest # Helpful search suggestions
