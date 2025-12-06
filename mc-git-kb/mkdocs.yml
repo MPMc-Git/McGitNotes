@@ -28,7 +28,7 @@ theme:
 # Define the navigation structure
 nav:
     - Home: index.md
-    - Earls: urlz/index.md
+    - URLs: urlz/index.md
     - Excel / Sheets / Smartsheet: spreadsheets/index.md
     - Gaming-Related: gaming/index.md
     - Linux Things: linux/index.md
