@@ -16,7 +16,7 @@ theme:
           accent: indigo
           toggle:
             icon: material/brightness-4
-            name: "Switch to light mode"
+            name: Switch to light mode
         # 2. Light Mode Palette (The one you want it to switch to)
         - scheme: default 
           primary: indigo
