@@ -12,11 +12,11 @@ theme:
     palette:
         # Set the scheme to 'slate' to force Dark Mode
         - scheme: slate
-            primary: blue
-            accent: indigo
-            toggle:
-                icon: material/brightness-4
-                name: "Switch to light mode"
+          primary: blue
+          accent: indigo
+          toggle:
+            icon: material/brightness-4
+            name: "Switch to light mode"
 
 # Define the navigation structure
 nav:
