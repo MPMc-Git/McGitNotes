@@ -4,9 +4,9 @@
 
 #### Hashtags I Try To Use
 - \#TechMerc #BattleTested #ExpertGeneralist #AlwaysBeCurious
-- \#McGit #GitHubWiki #OpenSource #VSCode
+- \#McKB #OpenSource
 - \#Salesforce #SFDC #AwesomeAdmins #SalesforceAdmin #SalesforceDeveloper #SalesforceFlow #SalesforceCommunity #SalesforceJobs #SalesforceTips #SalesforceCertified
-- \#Apex #SOQL #SQL #Excel #HTML #Markdown #Python
+- \#Apex #SOQL #SQL #Excel #HTML #Markdown #Python #VSCode
 - \#Trailblazer #Trailhead #AgentBlazer #AgentForce
 - \#MarketingCloud #ServiceCloud #SalesCloud #DataCloud
 

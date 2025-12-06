@@ -1,5 +1,10 @@
-## Macros from the site [Use Via](https://usevia.app/)
+#### KEEBMONKEY Megalodon Triple Knob Macro Pad Programmable Designer Mini Keyboard 16 Keys (via Vial)
+- [Keyboard](https://www.keebmonkey.com/products/megalodon-triple-knob-macro-pad)
+- [Configuring udev rules for VIA and Vial on Linux](https://get.vial.today/manual/linux-udev.html)
+- [Create keyboard definition JSON](https://get.vial.today/docs/porting-to-via.html)
+- [Vial](https://get.vial.today/)
 
+## Macros from the site [Use Via](https://usevia.app/)
 #### For Linux
 - Launch Terminal
   - {KC_LGUI}{10}{KC_T,KC_E,KC_R,KC_M,KC_I,KC_N,KC_A,KC_L}{10}{KC_ENT}
@@ -13,5 +18,5 @@
 
 #### Get Linux to detect it
 Chrome Event Log :: chrome://system/#device_event_log
-- SOLVED IT! Checked Chrome's Device-Log to get the device ID (search for "DOIO DOIO"), then... BOOM!
-- `sudo chmod a+rw /dev/hidraw1`
+    - SOLVED IT! Checked Chrome's Device-Log to get the device ID (search for "DOIO DOIO"), then... BOOM!
+    - `sudo chmod a+rw /dev/hidraw1`
