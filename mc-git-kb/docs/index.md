@@ -1,7 +1,6 @@
 # Welcome to the McKnowledgeBase
-↖ ☰ Click on the hamburger!<br/>
-<small>The 3 lines in the upper left-hand corner. Click it. You know you want to.</small><br/>
-**NOTE**: Nothing is ever truly complete...
+<small>**NOTE**: Nothing is ever truly complete...</small>
+**NOTE**: Some items are in multiple places, so you may be teleported elsewhere.
 
 #### Hashtags I Try To Use
 - \#TechMerc #BattleTested #ExpertGeneralist #AlwaysBeCurious
