@@ -1,6 +1,7 @@
 # Use SPACES, not TABS for indentation
 # settings.json was edited to make the tabs work as 2 spaces
 # Check Gemini for Reusable Workflows if needed - involves another repo to pull from
+# Gemini still thinks this is called ci.yml
 name: Deploy MkDocs
 
 on:
@@ -15,10 +16,12 @@ permissions:
 
 jobs:
   deploy:
+    environment:
+      name: github-pages # The environment name for GitHub Pages
+      url: ${{ steps.deployment.outputs.page_url }} # Automatically links to the live site
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
