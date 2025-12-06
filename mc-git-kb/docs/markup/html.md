@@ -22,14 +22,14 @@
 ##### You should see one or the other - switch your modes. Try it!
 <div class="img-light">
     <picture>
-        <source srcset="../../images/github-mark-light.png" width="75" height="75"  media="prefers-color-scheme: light)">
-        <img src="../../images/github-mark-light.png" width="75" height="75" alt="GitHub Mark - Light">
+        <source srcset="../../assets/images/github-mark-light.png" width="75" height="75"  media="prefers-color-scheme: light)">
+        <img src="../../assets/images/github-mark-light.png" width="75" height="75" alt="Light Mode">
     </picture>
 </div>
 
 <div class="img-dark">
     <picture>
-        <source srcset="../../images/github-mark-dark.png" width="75" height="75" media="prefers-color-scheme: dark)">
-        <img src="../../images/github-mark-dark.png" width="75" height="75" alt="GitHub Mark - Dark">
+        <source srcset="../../assets/images/github-mark-dark.png" width="75" height="75" media="prefers-color-scheme: dark)">
+        <img src="../../assets/images/github-mark-dark.png" width="75" height="75" alt="Dark Mode">
     </picture>
 </div>
