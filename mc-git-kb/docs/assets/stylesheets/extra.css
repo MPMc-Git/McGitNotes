@@ -1,0 +1,9 @@
+/* 1. HIDE THE DARK DIV: When the scheme is 'default' (Light Mode) */
+[data-md-color-scheme="default"] .img-dark {
+  display: none !important;
+}
+
+/* 2. HIDE THE LIGHT DIV: When the scheme is 'slate' (Dark Mode) */
+[data-md-color-scheme="slate"] .img-light {
+  display: none !important;
+}
