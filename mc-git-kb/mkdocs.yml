@@ -8,39 +8,41 @@ markdown_extensions:
 
 # Use the Material theme
 theme:
-    name: material
-    features:
-        - navigation.tabs # Top-level navigation
-        - search.suggest # Helpful search suggestions
-        - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
-    palette:
-        # 1. Dark Mode Palette (Default or desired light state)
-        - scheme: slate
-          primary: blue
-          accent: indigo
-          toggle:
-            icon: material/brightness-4
-            name: Switch to light mode
-        # 2. Light Mode Palette (The one you want it to switch to)
-        - scheme: default 
-          primary: indigo
-          accent: orange
-          toggle:
-            icon: material/brightness-7 # Icon for Sun/Light
-            name: Switch to dark mode
+  name: material
+  extra_css:
+    - assets/stylesheets/extra.css
+  features:
+    - navigation.tabs # Top-level navigation
+    - search.suggest # Helpful search suggestions
+    - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
+  palette:
+    # 1. Dark Mode Palette (Default or desired light state)
+    - scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # 2. Light Mode Palette (The one you want it to switch to)
+    - scheme: default 
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/brightness-7 # Icon for Sun/Light
+        name: Switch to dark mode
 
 # Define the navigation structure
 nav:
-    - Home: index.md
-    - URLs: urlz/earls.md
-    - Excel / Sheets / Smartsheet: spreadsheets/index.md
-    - Gaming-Related:
-      - Minecraft: gaming/minecraft.md
-    - Linux Things: linux/index.md
-    - Markup Languages:
-      - HTML: markup/html.md
-    - Points to Ponder: pts2p/index.md
-    - Programming Languages: programming/index.md
-    - Querying Languages: querying/index.md
-    - Salesforce: salesforce/index.md
-    - Scripting Languages: scripting/index.md
+  - Home: index.md
+  - URLs: urlz/earls.md
+  - Excel / Sheets / Smartsheet: spreadsheets/index.md
+  - Gaming-Related:
+    - Minecraft: gaming/minecraft.md
+  - Linux Things: linux/index.md
+  - Markup Languages:
+    - HTML: markup/html.md
+  - Points to Ponder: pts2p/index.md
+  - Programming Languages: programming/index.md
+  - Querying Languages: querying/index.md
+  - Salesforce: salesforce/index.md
+  - Scripting Languages: scripting/index.md
