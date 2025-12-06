@@ -30,7 +30,7 @@ nav:
     - Home: index.md
     - URLs: urlz/index.md
     - Excel / Sheets / Smartsheet: spreadsheets/index.md
-    - Gaming-Related: gaming/index.md
+    - Gaming-Related:
       - Minecraft: gaming/minecraft.md
     - Linux Things: linux/index.md
     - Markup Languages: markup/index.md
