@@ -35,6 +35,10 @@ jobs:
         run: mkdocs build
         working-directory: ./mc-git-kb
         
+# 1.5. Stop Jekyll from interfering
+      - name: Add .nojekyll
+        run: touch ./mc-git-kb/site/.nojekyll
+
 # 2. Upload the built 'site' directory as a Pages artifact
 # The path is now relative to the root of the repository, pointing into the 'mc-git-kb' folder.
       - name: Upload artifact
