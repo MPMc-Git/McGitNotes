@@ -33,14 +33,40 @@ theme:
 nav:
   - Home: index.md
   - URLs: urlz/earls.md
-  - Excel / Sheets / Smartsheet: spreadsheets/index.md
   - Gaming-Related:
     - Minecraft: gaming/minecraft.md
-  - Linux Things: linux/index.md
+    - Via: oses/via.md
   - Markup Languages:
     - HTML: markup/html.md
+    - Mkdocs: markup/mkdocs.md
+    - Markdown: markup/markdown.md
+    - YAML: markup/yaml.md
+  - OS Specifics: 
+    - Bash (Used in Linux): scripting/bash.md
+    - Linux: oses/linux.md
+    - Via (Used in Linux): oses/via.md
   - Points to Ponder: pts2p/index.md
-  - Programming Languages: programming/index.md
-  - Querying Languages: querying/index.md
-  - Salesforce: salesforce/index.md
-  - Scripting Languages: scripting/index.md
+    - From LinkedIn: pts2p/from-linkedin.md
+  - Programming Languages: 
+    - Apex: programming/apex.md
+    - GitHub: programming/github.md
+    - REST/Tooling API: programming/sfdc-rest-tool.md
+  - Querying Languages: 
+    - JQL/Jira: programming/jira.md
+    - Regex: querying/regex.md
+    - SOQL: querying/soql.md
+    - SQL: querying/sql.md
+  - Salesforce:
+    - Apex: programming/apex.md
+    - Formulas: salesforce/sfdc-formulae.md
+    - Rest/Tooling API: programming/sfdc-rest-tool.md
+    - SOQL: querying/soql.md
+    - Validation Rules: salesforce/sfdc-val-rulz.md
+  - Scripting Languages: 
+    - Bash: scripting/bash.md
+    - PowerShell: scripting/powershell.md
+    - VBA: scripting/vba.md
+  - Spreadsheets: 
+    - Excel / Sheets: spreadsheets/excel-lent.md
+    - Smartsheet: spreadsheets/smartsheet.md
+    - VBA: scripting/vba.md

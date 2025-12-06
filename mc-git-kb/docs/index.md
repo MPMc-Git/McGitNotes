@@ -1,9 +1,9 @@
 # Welcome to the McKnowledgeBase
 ↖ ☰ Click on the hamburger!<br/>
-<small>The 3 lines in the upper left-hand corner.<br/>
-Click it. You know you want to.</small>
+<small>The 3 lines in the upper left-hand corner. Click it. You know you want to.</small><br/>
+**NOTE**: Nothing is ever truly complete...
 
-#### Hashtags I Likely Use
+#### Hashtags I Try To Use
 - \#TechMerc #BattleTested #ExpertGeneralist #AlwaysBeCurious
 - \#McGit #GitHubWiki #OpenSource #VSCode
 - \#Salesforce #SFDC #AwesomeAdmins #SalesforceAdmin #SalesforceDeveloper #SalesforceFlow #SalesforceCommunity #SalesforceJobs #SalesforceTips #SalesforceCertified
