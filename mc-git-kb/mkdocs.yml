@@ -45,7 +45,7 @@ nav:
     - Bash (Used in Linux): scripting/bash.md
     - Linux: oses/linux.md
     - Via (Used in Linux): oses/via.md
-  - Points to Ponder: pts2p/index.md
+  - Points to Ponder:
     - From LinkedIn: pts2p/from-linkedin.md
   - Programming Languages: 
     - Apex: programming/apex.md
