@@ -15,7 +15,7 @@ theme:
             primary: blue
             accent: indigo
             toggle:
-                icon: material/brightness-4 # Sets the default toggle icon to 'light mode'
+                icon: material/brightness-4
                 name: "Switch to light mode"
 
 # Define the navigation structure
