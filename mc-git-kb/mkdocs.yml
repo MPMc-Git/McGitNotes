@@ -16,15 +16,15 @@ theme:
     - search.suggest # Helpful search suggestions
     - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
   palette:
-    # 1. Dark Mode Palette (Default or desired light state)
-    - scheme: dark-scheme
+    # 1. Dark Mode Palette
+    - scheme: slate
       primary: blue
       accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-    # 2. Light Mode Palette (The one you want it to switch to)
-    - scheme: light-scheme
+    # 2. Light Mode Palette
+    - scheme: default
       primary: indigo
       accent: orange
       toggle:
