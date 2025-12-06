@@ -9,20 +9,40 @@ on:
     - main # Trigger on push to main branch
 
 permissions:
-  contents: write # Needed for gh-deploy to push to gh-pages branch
+  contents: read # Read permission for checkout
+  pages: write   # Write permission to deploy to GitHub Pages
+  id-token: write # Needed to authenticate with the GitHub Pages service
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: 3.x
+
 # Install MkDocs and the Material theme
       - name: Install dependencies 
         run: pip install mkdocs mkdocs-material
-# Run the native MkDocs deploy command to build and push to 'gh-pages'
-      - name: Deploy MkDocs site
-        run: mkdocs gh-deploy --force
+
+# 1. Build the MkDocs site
+# The 'working-directory' tells the runner to execute the command inside the 'mc-git-kb' folder.
+# This knows that my source files will be docs and the files to be pushed to Pages will be in the 'site' folder inside 'mc-git-kb'.
+      - name: Build MkDocs site
+        run: mkdocs build
+        working-directory: ./mc-git-kb
+        
+# 2. Upload the built 'site' directory as a Pages artifact
+# The path is now relative to the root of the repository, pointing into the 'mc-git-kb' folder.
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./mc-git-kb/site 
+          
+# 3. Deploy the artifact to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
