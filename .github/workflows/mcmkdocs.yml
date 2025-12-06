@@ -1,0 +1,28 @@
+# Use SPACES, not TABS for indentation
+# settings.json was edited to make the tabs work as 2 spaces
+# Check Gemini for Reusable Workflows if needed - involves another repo to pull from
+name: Deploy MkDocs
+
+on:
+  push:
+    branches:
+    - main # Trigger on push to main branch
+
+permissions:
+  contents: write # Needed for gh-deploy to push to gh-pages branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+# Install MkDocs and the Material theme
+      - name: Install dependencies 
+        run: pip install mkdocs mkdocs-material
+# Run the native MkDocs deploy command to build and push to 'gh-pages'
+      - name: Deploy MkDocs site
+        run: mkdocs gh-deploy --force
