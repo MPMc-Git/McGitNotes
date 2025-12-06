@@ -36,26 +36,26 @@ just deliverables.
     - You don’t have to say “no” forever—just
 not now.
     - Try:
-       - → “Happy to explore this—can we revisit
+        - → “Happy to explore this—can we revisit
 next week?”
-       - → “This deserves full attention, but I’m focused elsewhere today.”
+        - → “This deserves full attention, but I’m focused elsewhere today.”
     - You protect priorities by protecting your focus.
 
 1. Share your focus with your team
     - Tell your team what you’re working on—
 and why.
     - This creates:
-       - ✓ Alignment
-       - ✓ Accountability
-       - ✓ Fewer interruptions
+        - ✓ Alignment
+        - ✓ Accountability
+        - ✓ Fewer interruptions
     - You can’t lead with clarity if you
 prioritize in silence.
 
 1. Check in weekly—what’s noise vs what
 matters?
     - Each week, ask:
-       - → What’s the most valuable thing I did?
-       - → What could I drop with no real
+        - → What’s the most valuable thing I did?
+        - → What could I drop with no real
 consequence?
     - Over time, you’ll learn to spot true
 priorities faster.
