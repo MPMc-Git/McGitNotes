@@ -13,6 +13,7 @@
 [//]: # ( A Markdown Comment. HIDDEN! )
 
 #### Random Sayings About Inspiration
+###### Pretty sure I can't pronounce any of these
 
 | Lang | Phrase | Meaning |
 | :--: | :--- | :--- |
