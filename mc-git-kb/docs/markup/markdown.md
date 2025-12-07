@@ -13,8 +13,7 @@
    <td><code>note</code></td>
    <td>
     !!! note "Important"
-        Example Text
-
+        Example Text        
     </td>
   </tr>
  </tbody>
