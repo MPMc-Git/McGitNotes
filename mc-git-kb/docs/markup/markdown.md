@@ -1,9 +1,9 @@
 ## Extensions
-#### Admonition
+#### Admonition & PyMdownX Suite
 
 | Type | Example |
 | :--: | :--- |
-| ```note``` | !!! note "Important"<br>    Example|
+| ```note``` |    !!! note "Important"<br>    Example Text |
 
 
 
