@@ -3,7 +3,7 @@
 Sometimes I like to make things more difficult 😁
 
 #### NOTE about tooling in Workbench
-Precede all the SELECTs below with...
+Precede all the SELECTs below with...<br/>
 ```/services/data/v60.0/tooling/query?q=```
 
 ## Apex Code Coverage
