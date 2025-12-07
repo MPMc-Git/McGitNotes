@@ -3,7 +3,7 @@
 Sometimes I like to make things more difficult 😁
 
 #### NOTE
-Precede the REST Explorer SELECTs below with...<br/>
+<small>Precede the REST Explorer SELECTs below with...</small><br/>
 ```/services/data/v60.0/tooling/query?q=```
 
 ## Apex Code Coverage
