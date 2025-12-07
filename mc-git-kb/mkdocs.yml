@@ -34,39 +34,40 @@ nav:
   - Home: index.md # Formatted
   - URLs: urlz/earls.md # Formatted
   - Gaming-Related:
-    - Minecraft: gaming/minecraft.md
-    - Via: oses/via.md
+    - Minecraft: gaming/minecraft.md # Formatted
+    - Via: oses/via.md # Formatted
   - Markup Languages:
-    - HTML: markup/html.md
-    - Mkdocs: markup/mkdocs.md
-    - Markdown: markup/markdown.md
-    - YAML: markup/yaml.md
+    - HTML: markup/html.md # Formatted
+    - Mkdocs: markup/mkdocs.md # Formatted
+    - Markdown: markup/markdown.md # Currently blank
+    - YAML: markup/yaml.md # Currently blank
   - OS Specifics: 
-    - Bash (Used in Linux): scripting/bash.md
-    - Linux: oses/linux.md
-    - Via (Used in Linux): oses/via.md
+    - Bash (Used in Linux): scripting/bash.md # Formatted
+    - Linux: oses/linux.md # Formatted
+    - Via (Used in Linux): oses/via.md # Formatted
   - Points to Ponder:
     - From LinkedIn: pts2p/from-linkedin.md
   - Programming Languages: 
-    - Apex: programming/apex.md
-    - GitHub: programming/github.md
-    - REST/Tooling API: programming/sfdc-rest-tool.md
+    - Apex: programming/apex.md # Formatted
+    - GitHub: programming/github.md # Formatted
+    - REST/Tooling API: programming/sfdc-rest-tool.md # Formatted
   - Querying Languages: 
-    - JQL/Jira: programming/jira.md
-    - Regex: querying/regex.md
+    - JQL/Jira: querying/jira.md # Formatted
+    - Regex: querying/regex.md # Formatted
     - SOQL: querying/soql.md
-    - SQL: querying/sql.md
+    - SQL: querying/sql.md # Formatted
   - Salesforce:
-    - Apex: programming/apex.md
+    - Apex: programming/apex.md # Formatted
+    - Apps / Extensions: salesforce/sfdc-apps-exts.md
     - Formulas: salesforce/sfdc-formulae.md
-    - Rest/Tooling API: programming/sfdc-rest-tool.md
+    - Rest/Tooling API: programming/sfdc-rest-tool.md # Formatted
     - SOQL: querying/soql.md
-    - Validation Rules: salesforce/sfdc-val-rulz.md
+    - Validation Rules: salesforce/sfdc-val-rulz.md # Formatted
   - Scripting Languages: 
-    - Bash: scripting/bash.md
-    - PowerShell: scripting/powershell.md
-    - VBA: scripting/vba.md
+    - Bash: scripting/bash.md # Formatted
+    - PowerShell: scripting/powershell.md # NEEDS TESTING AND FORMATTING
+    - VBA: scripting/vba.md # Formatted
   - Spreadsheets: 
-    - Excel / Sheets: spreadsheets/excel-lent.md
-    - Smartsheet: spreadsheets/smartsheet.md
-    - VBA: scripting/vba.md
+    - Excel / Sheets: spreadsheets/excel-lent.md # Formatted
+    - Smartsheet: spreadsheets/smartsheet.md # Formatted
+    - VBA: scripting/vba.md # Formatted

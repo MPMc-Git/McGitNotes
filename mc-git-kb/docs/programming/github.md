@@ -1,28 +1,38 @@
-###### This assumes you have GH CLI installed locally
-###### If there's a problem
-> winget install -e --id Git.Git
+## Install GH CLI on Windows
+```cmd
+winget install -e --id Git.Git
+```
 
-#### GitHub Login
-> gh auth login<br />
+GitHub Login
+```cmd
+gh auth login
+```
 
-#### Github People and People on a given Team
-> gh api /orgs/ORGNAME/members -X GET --jq ".[].login" -F per_page=100 --paginate<br />
-> gh api /orgs/ORGNAME/teams/TEAMNAME/members -X GET --jq ".[] | .login" -F per_page=100 --paginate
+Github People and Team Members
+```cmd
+gh api /orgs/ORGNAME/members -X GET --jq ".[].login" -F per_page=100 --paginate<br />
 
-#### GitHub Audit Logs use Epoch Date - you can convert in Excel/Sheets
-> =EPOCHTODATE(A2,2)
+gh api /orgs/ORGNAME/teams/TEAMNAME/members -X GET --jq ".[] | .login" -F per_page=100 --paginate
+```
 
-#### Repos
-> git init                 // Initialize a new Repo<br />
-> git clone <repo-url>     // Clone a Repo
+GitHub Audit Logs use Epoch Date - you can convert in Excel/Sheets
+```excel
+=EPOCHTODATE($A2,2)
+```
 
-#### Basics
-> git status               // Show Changes Status<br />
-> git add <file>           // Add Changes to Staging<br />
-> git commit -m "Message"  // Commit Changes with Message<br />
-> git log                  // View Commit History
+| <b><u>OTHER</b></u> | |
+| :--- | :--- |
+| **Repos** | |
+| <small>Initialize a new Repo</small> | ```git init``` |
+| <small>Clone a Repo</small> | ```git clone <repo-url>``` |
+| **Basics** | |
+| <small>Show Changes Status</small> | ```cmd git status ``` |
+| <small>Add Changes to Staging</small> | ```git add <file>``` |
+| <small>Commit Changes with Message</small> | ```git commit -m "Message"``` |
+| <small>View Commit History</small> | ```git log``` |
 
 #### Branching
-
-#### Clone your GitHub Wiki
+Clone your GitHub Wiki
+```
 git clone https://github.com/user/project.wiki.git
+```

@@ -1,5 +1,5 @@
 #### Stripping folders & filenames via Sheets
-###### Using an Audiobook as an example
+<small>Using an Audiobook as an example</small>
 
 | What | Value |
 | :--- | :--- |

@@ -1,9 +1,9 @@
 ## Account
 #### Billing / Shipping Zip Code if in the US
-- Rule Name :: Billing_Zip_Code_US / Shipping_Zip_Code_US
-- Description :: US Zip code must be in 99999 or 99999-9999 format.
-- Error Message :: US ZIP code must be in 99999 or 99999-9999 format.
-- Error Location :: Field [Billing Zip/Postal Code] / [Shipping Zip/Postal Code]
+**Rule Name** :: Billing_Zip_Code_US / Shipping_Zip_Code_US<br>
+**Description** :: US Zip code must be in 99999 or 99999-9999 format.<br>
+**Error Message** :: US ZIP code must be in 99999 or 99999-9999 format.<br>
+**Error Location** :: Field [Billing Zip/Postal Code] / [Shipping Zip/Postal Code]
 ```js
 AND(
 OR(BillingCountry = "USA", BillingCountry = "US"),
@@ -15,7 +15,7 @@ OR(ShippingCountry = "USA", ShippingCountry = "US"),
 NOT(REGEX(ShippingPostalCode, "\\d{5}(-\\d{4})?"))
 )
 ```
-- **NOTE**: If your org assumes USA as the default, you can add either of the below in the OR statement in case anyone forgets.
+- **NOTE**: You could add either of the below in the OR segment.
     - ISBLANK(BillingCountry)
     - ISBLANK(ShippingCountry)
 

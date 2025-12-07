@@ -1,3 +1,5 @@
+#### Huh. Not sure I recall what this is all for. Will have to do some testing.
+
 Active Directory computers should be reviewed about once a year. 
 Old operating systems can hold back security progress like keeping SMBv1 and NTLMv1 active. Inactive computers should be discovered and disabled when no longer in use (and eventually removed). 
 
