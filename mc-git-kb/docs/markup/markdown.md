@@ -11,7 +11,9 @@
    <td><code>note</code></td>
    <td>
     !!! note "Important"
-        Example Text</td>
+        Example Text
+        
+    </td>
   </tr>
  </thead>
 </table>
