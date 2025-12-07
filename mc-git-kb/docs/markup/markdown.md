@@ -1,9 +1,26 @@
 ## Extensions
 #### Admonition & PyMdownX Suite
 
-| Type | Example |
-| :--: | :--- |
-| `note` | !!! note "Important"<br>    Example Text |
+<table>
+ <thead>
+  <tr>
+   <th>Type</th>
+   <th>Example</th>
+  </tr>
+  <tr>
+   <td><code>note</code></td>
+   <td>!!! note "Important"<br>    Example Text</td>
+  </tr>
+  <tr>
+   <td><code></code></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td><code></code></td>
+   <td></td>
+  </tr>
+ </thead>
+</table>
 
 
 
