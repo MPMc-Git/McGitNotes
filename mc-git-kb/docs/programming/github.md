@@ -23,13 +23,13 @@ GitHub Audit Logs use Epoch Date - you can convert in Excel/Sheets
 | <b><u>OTHER</b></u> | |
 | :--- | :--- |
 | **Repos** | |
-| <small>Initialize a new Repo</small> | ```git init``` |
-| <small>Clone a Repo</small> | ```git clone <repo-url>``` |
+| <small>Initialize a new Repo</small> | `git init` |
+| <small>Clone a Repo</small> | `git clone <repo-url>` |
 | **Basics** | |
-| <small>Show Changes Status</small> | ```cmd git status ``` |
-| <small>Add Changes to Staging</small> | ```git add <file>``` |
-| <small>Commit Changes with Message</small> | ```git commit -m "Message"``` |
-| <small>View Commit History</small> | ```git log``` |
+| <small>Show Changes Status</small> | `cmd git status ` |
+| <small>Add Changes to Staging</small> | `git add <file>` |
+| <small>Commit Changes with Message</small> | `git commit -m "Message"` |
+| <small>View Commit History</small> | `git log` |
 
 #### Branching
 Clone your GitHub Wiki

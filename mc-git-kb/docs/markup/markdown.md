@@ -3,7 +3,7 @@
 
 | Type | Example |
 | :--: | :--- |
-| ```note``` | !!! note "Important"<br>    Example Text |
+| `note` | !!! note "Important"<br>&nbsp;&nbsp;&nbsp;&nbsp;Example Text |
 
 
 
