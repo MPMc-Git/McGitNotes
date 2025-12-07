@@ -7,15 +7,17 @@
    <th>Type</th>
    <th>Example</th>
   </tr>
+ </thead>
+ <tbody>
   <tr>
    <td><code>note</code></td>
    <td>
     !!! note "Important"
         Example Text
-        
+
     </td>
   </tr>
- </thead>
+ </tbody>
 </table>
 
 
