@@ -5,13 +5,12 @@ site_description: A collection of formulas, SOQL queries, and technical notes.
 # Enable Markdown extensions
 markdown_extensions:
   - admonition # For notes, warnings, etc.
-  - pymdownx.highlight # Enhanced syntax highlighting
-  - pymdownx.superfences # Advanced fenced code blocks
-  - pymdownx.inlinehilite # Inline code highlighting
-  - pymdownx.emoji # Emoji support
-  - pymdownx.tabbed # For tabbed content
   - pymdownx.details # For collapsible content
-  - pymdownx.tasklist # Task lists
+  - pymdownx.emoji # Emoji support
+  - pymdownx.highlight # Enhanced syntax highlighting
+  - pymdownx.inlinehilite # Inline code highlighting
+  - pymdownx.superfences # Advanced fenced code blocks
+  - pymdownx.tabbed # For tabbed content
 
 # Use the Material theme
 theme:
