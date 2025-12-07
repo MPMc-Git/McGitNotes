@@ -2,6 +2,23 @@
 <img src="https://gifsec.com/wp-content/uploads/2021/04/but-why-gif-1.gif" style="float:center;width:350px;height:200px"><br />
 Sometimes I like to make things more difficult 😁
 
+## Apex Code Coverage
+Salesforce exposes coverage through Tooling API objects like:
+- ApexCodeCoverage (per-test-method detail)
+- ApexCodeCoverageAggregate (rollups per class/trigger)
+- ApexOrgWideCoverage (your overall org %)
+```sql
+SELECT ApexClassOrTrigger.Name, NumLinesCovered, NumLinesUncovered, Coverage
+FROM ApexCodeCoverageAggregate
+WHERE ApexClassOrTrigger.Name = ‘YourClassName’
+
+SELECT PercentCovered
+FROM ApexOrgWideCoverage
+
+SELECT ApexClassOrTrigger.Name, TestMethodName, NumLinesCovered, NumLinesUncovered
+FROM ApexCodeCoverage
+```
+
 ## Page Layout Assignments
 #### ...via Developer Console using Tooling API
 > SELECT RefMetadataComponentName, MetadataComponentId, MetadataComponentType, MetadataComponentName<br />
