@@ -9,7 +9,8 @@
   </tr>
   <tr>
    <td><code>note</code></td>
-   <td>!!! note "Important"<br>    Example Text</td>
+   <td>!!! note "Important"
+       Example Text</td>
   </tr>
   <tr>
    <td><code></code></td>
