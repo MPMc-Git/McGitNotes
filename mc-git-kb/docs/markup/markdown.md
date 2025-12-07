@@ -12,14 +12,6 @@
    <td>!!! note "Important"
        Example Text</td>
   </tr>
-  <tr>
-   <td><code></code></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td><code></code></td>
-   <td></td>
-  </tr>
  </thead>
 </table>
 
@@ -34,3 +26,13 @@ The Material theme supports a wide range of types, each with its own icon and co
 - Informational: ```note```, ```tip```, ```info```, ```abstract```, ```example```, ```question```
 - Status: ```success```, ```failure```, ```bug```
 - Critical: ```warning```, ```danger```
+
+
+  <tr>
+   <td><code></code></td>
+   <td></td>
+  </tr>
+  <tr>
+   <td><code></code></td>
+   <td></td>
+  </tr>
