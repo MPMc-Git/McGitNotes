@@ -3,7 +3,8 @@
 
 | Type | Example |
 | :--: | :--- |
-| `note` | !!! note "Important"<br>&nbsp;&nbsp;&nbsp;&nbsp;Example Text |
+| `note` | !!! note "Important"
+&nbsp;&nbsp;&nbsp;&nbsp;Example Text |
 
 
 
