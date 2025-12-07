@@ -1,9 +1,9 @@
 
-<img src="https://gifsec.com/wp-content/uploads/2021/04/but-why-gif-1.gif" style="float:center;width:350px;height:200px"><br/>
+<img src="https://gifsec.com/wp-content/uploads/2021/04/but-why-gif-1.gif" style="float:center;width:350px;height:200px"><br>
 Sometimes I like to make things more difficult 😁
 
 #### NOTE
-<small>Precede the REST Explorer SELECTs below with...</small><br/>
+<small>Precede the REST Explorer SELECTs below with...</small><br>
 ```/services/data/v60.0/tooling/query?q=```
 
 ## Apex Code Coverage
