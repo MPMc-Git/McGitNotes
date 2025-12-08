@@ -28,7 +28,7 @@ td {
  </thead>
  <tbody>
   <tr>
-   <td><span class="sm-text">Margaret Heafield Hamilton</span><br><span class="xs-text">Computer scientist and systems engineer who played a crucial role in the development of software for NASA's Apollo missions.</span></td>
+   <td><span class="sm-text">Margaret Hamilton</span><br><span class="xs-text">Computer scientist and systems engineer who played a crucial role in the development of software for NASA's Apollo missions.</span></td>
    <td><span class="sm-text">Yayoi Kusama</span><br><span class="xs-text">Japanese contemporary artist known for her extensive use of polka dots and for her immersive, large-scale installations.</span></td>
    <td><span class="sm-text">Edmonia Lewis</span><br><span class="xs-text">The first African American and Native American woman to gain fame and recognition as a sculptor.</span></td>
    <td><span class="sm-text">Nur Jahan</span><br><span class="xs-text">The twentieth wife of the Mughal Emperor Jahangir, often considered the real power behind the throne, significantly influencing politics, culture, and architecture.</span></td>
