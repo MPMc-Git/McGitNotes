@@ -4,6 +4,7 @@ Supported Admonition Types<br>
 The Material theme supports a wide range of types, each with its own icon and color:
 
 !!! Example "Example Title"
+    <div style="font-size: 16px;">
     Example Text
 
     ```sql
@@ -12,6 +13,7 @@ The Material theme supports a wide range of types, each with its own icon and co
     ```
 
     End Example Text
+    </div>
 
 !!! abstract
     Example

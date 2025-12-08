@@ -1,9 +1,1 @@
-/* Ensure the font size within Admonitions matches the main text size */
-.md-typeset__scrollwrap p {
-    font-size: 1em; /* 1em means 100% of the inherited font size */
-}
-
-/* Also target the default Admonition block for general text */
-.md-typeset .admonition p {
-    font-size: 1em; 
-}
+/* Intentionally empty extra CSS file */
