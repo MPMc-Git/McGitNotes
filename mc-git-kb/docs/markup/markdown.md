@@ -26,36 +26,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ---
 
 ## Supported Admonition Types
-The Material theme supports a wide range of types, each with its own icon and color
+The Material theme supports a wide range of types, each with its own icon and color<br>
+Other keywords work, but check the [admonitions.md]([docs/reference/admonitions.md](https://github.com/squidfunk/mkdocs-material/blob/master/docs/reference/admonitions.md)) file for the proper names.
 
 !!! abstract
-    Example ("summary" is the same - see below)
-
-!!! summary
     Example
 
 !!! bug
     Example
 
-!!! caution
-    Example
-
 !!! danger
     Example
 
-!!! error
-    Example
-
 !!! example
-    Example Text
+    Example
 
 !!! failure
-    Example
-
-!!! hint
-    Example
-
-!!! important
     Example
 
 !!! info
@@ -70,16 +56,10 @@ The Material theme supports a wide range of types, each with its own icon and co
 !!! quote
     Example
 
-!!! seealso
-    Example
-
 !!! success
     Example
 
 !!! tip
-    Example
-
-!!! todo
     Example
 
 !!! warning
