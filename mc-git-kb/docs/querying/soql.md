@@ -5,8 +5,7 @@ th {
 </style>
 
 !!! info
-    I do love me some SOQL. Sure, some of these may be Report-able NOW, but they weren't at the time.<br>
-    Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised.
+    I do love me some SOQL. Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised.
 
 ## Licenses
 <table>
