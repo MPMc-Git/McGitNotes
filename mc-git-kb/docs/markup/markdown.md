@@ -1,42 +1,43 @@
 ## Extensions
 #### Admonition & PyMdownX Suite
+Supported Admonition Types<br>
+The Material theme supports a wide range of types, each with its own icon and color:
 
-<table>
- <thead>
-  <tr>
-   <th>Type</th>
-   <th>Example</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td><code>note</code></td>
-   <td markdown="1">
-!!! note "Important"
+!!! Example "Example Title"
     Example Text
-    </td>
-  </tr>
- </tbody>
-</table>
 
-
+**Critical**
 
 !!! danger
     Example
 
-Supported Admonition Types<br>
-The Material theme supports a wide range of types, each with its own icon and color:
+!!! warning
+    Example
 
-- Informational: ```note```, ```tip```, ```info```, ```abstract```, ```example```, ```question```
-- Status: ```success```, ```failure```, ```bug```
-- Critical: ```warning```, ```danger```
+**Informational**
 
+!!! abstract
+    Example
 
-  <tr>
-   <td><code></code></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td><code></code></td>
-   <td></td>
-  </tr>
+!!! info
+    Example
+
+!!! note
+    Example
+
+!!! question
+    Example
+
+!!! tip
+    Example
+
+**Status**
+
+!!! bug
+    Example
+
+!!! failure
+    Example
+
+!!! success
+    Example
