@@ -4,27 +4,17 @@ Supported Admonition Types<br>
 The Material theme supports a wide range of types, each with its own icon and color:
 
 !!! Example "Example Title"
-    <div style="font-size: 16px;">
     Example Text
-
+    <div style="font-size: 16px;">
     ```sql
     SELECT TABLE_NAME, COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE 
     FROM INFORMATION_SCHEMA.COLUMNS
     ```
-
-    End Example Text
     </div>
+    End Example Text
 
 !!! abstract
     Example
-    Example Text
-
-    ```sql
-    SELECT TABLE_NAME, COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE 
-    FROM INFORMATION_SCHEMA.COLUMNS
-    ```
-
-    End Example Text
 
 !!! bug
     Example
