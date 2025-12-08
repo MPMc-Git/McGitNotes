@@ -14,7 +14,6 @@ th,td {
 </style>
 
 ## 365 Inspiring Women (Dae Lee)
-<div style="clear: both; margin-top: 1px;"></div>
 
 <table>
  <thead>
