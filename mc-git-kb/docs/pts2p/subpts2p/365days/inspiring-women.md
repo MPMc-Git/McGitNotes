@@ -1,16 +1,13 @@
 <style>
-/* Table Work */
-td {
-    text-align: center;
-}
-
 /* TEXT SIZING - Relative */
 .sm-text {
     font-size: 0.75rem !important; 
+    text-align: center;
 }
 
 .xs-text {
     font-size: 0.625rem !important; 
+    text-align: center;
 }
 </style>
 
