@@ -51,20 +51,10 @@ th {
 
 ## Users
 <table>
- <thead>
   <tr>
    <th>New-ish Users</th>
    <th>Frozen Users</th>
   </tr>
-  <tr>
-   <th>Users with their License Type</th>
-   <th>Users with their Roles & Profiles</th>
-  </tr>
-  <tr>
-   <th></th>
-  </tr>
- </thead>
- <tbody>
   <tr>
    <td>
     ```sql
@@ -80,6 +70,10 @@ th {
     WHERE IsFrozen = TRUE
     ```
    </td>
+  </tr>
+  <tr>
+   <th>Users with their License Type</th>
+   <th>Users with their Roles & Profiles</th>
   </tr>
   <tr>
    <td>
@@ -101,9 +95,11 @@ th {
    </td>
   </tr>
   <tr>
+   <th></th>
+  </tr>
+  <tr>
    <td></td>
   </tr>
- </tbody>
 </table>
 
 
