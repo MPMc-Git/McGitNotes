@@ -2,22 +2,18 @@
 th {
     text-align: center !important;
 }
-
-td {
-    white-space: normal !important;
-}
 </style>
 
 !!! info
     I do love me some SOQL. Sure, some of these may be Report-able NOW, but they weren't at the time.
 
-## Licenses
+## Licenses (count)
 <table>
  <thead>
   <tr>
-   <th>Salesforce Licenses (Count)</th>
-   <th>PermSet Licenses (Count)</th>
-   <th>CPQ Assigned (Count)</th>
+   <th>Salesforce Licenses</th>
+   <th>PermSet Licenses</th>
+   <th>CPQ Assigned</th>
   </tr>
  </thead>
  <tbody>
@@ -33,7 +29,8 @@ td {
    <td>
     ```sql
     SELECT Id, MasterLabel, Status,
-     ExpirationDate, TotalLicenses, UsedLicenses
+     ExpirationDate, TotalLicenses,
+     UsedLicenses
     FROM PermissionSetLicense
     WHERE Status = 'Active'
     ORDER BY MasterLabel
