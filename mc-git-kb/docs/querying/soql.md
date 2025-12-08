@@ -95,10 +95,47 @@ th {
    </td>
   </tr>
   <tr>
-   <th></th>
+   <th colspan=2>...with their Permission Sets</th>
   </tr>
   <tr>
-   <td></td>
+   <td colspan=2>
+    ```sql
+    SELECT Id,PermissionSetID, PermissionSet.Label, Assignee.Id, Assignee.Name
+    FROM PermissionSetAssignment
+    WHERE Assignee.UserType = 'Standard'
+       AND Assignee.IsActive = TRUE
+       AND (NOT PermissionSet.Name LIKE 'X00%')
+    ORDER BY PermissionSet.Label, Assignee.Name
+    ```
+   </td>
+  </tr>
+  <tr>
+   <th colspan=2>...with their Permission Set Licenses</th>
+  </tr>
+  <tr>
+   <td colspan=2>
+    ```sql
+    SELECT Id,PermissionSetLicenseID, PermissionSetLicense.MasterLabel, Assignee.Id, Assignee.Name
+    FROM PermissionSetLicenseAssign
+    WHERE Assignee.UserType = 'Standard'
+       AND Assignee.IsActive = TRUE
+    ORDER BY PermissionSetLicense.MasterLabel, Assignee.Name
+    ```
+   </td>
+  </tr>
+  <tr>
+   <th colspan=2>...with Specific System Permissions</th>
+  </tr>
+  <tr>
+   <td colspan=2>
+    ```sql
+    SELECT Id, PermissionSetID, PermissionSet.Label, PermissionSet.Profile. Name, Assignee.Id, Assignee.Name
+    FROM PermissionSetAssignment
+    WHERE Assignee.UserType = 'Standard'
+       AND Assignee.IsActive = TRUE
+       AND PermissionSet.PermissionsAuthorApex = TRUE
+    ORDER BY PermissionSet.Profile.Name, Assignee.Name</td>
+    ```
   </tr>
 </table>
 
@@ -142,29 +179,6 @@ th {
 > GROUP BY UserType, ProfileId, Profile.Name
 > ORDER BY Profile.Name
 
-
-#### ...with their Permission Sets
-> SELECT Id,PermissionSetID, PermissionSet.Label, Assignee.Id, Assignee.Name
-> FROM PermissionSetAssignment
-> WHERE Assignee.UserType = 'Standard'
->    AND Assignee.IsActive = TRUE
->    AND (NOT PermissionSet.Name LIKE 'X00%')
-> ORDER BY PermissionSet.Label, Assignee.Name
-
-#### ...with their Permission Set Licenses
-> SELECT Id,PermissionSetLicenseID, PermissionSetLicense.MasterLabel, Assignee.Id, Assignee.Name
-> FROM PermissionSetLicenseAssign
-> WHERE Assignee.UserType = 'Standard'
->    AND Assignee.IsActive = TRUE
-> ORDER BY PermissionSetLicense.MasterLabel, Assignee.Name
-
-#### ...with Specific System Permissions
-> SELECT Id, PermissionSetID, PermissionSet.Label, PermissionSet.Profile. Name, Assignee.Id, Assignee.Name
-> FROM PermissionSetAssignment
-> WHERE Assignee.UserType = 'Standard'
->    AND Assignee.IsActive = TRUE
->    AND PermissionSet.PermissionsAuthorApex = TRUE
-> ORDER BY PermissionSet.Profile.Name, Assignee.Name
 
 ## Access-Related
 #### Specific Record Access for Specific User ID
