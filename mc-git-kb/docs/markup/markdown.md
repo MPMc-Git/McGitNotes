@@ -12,8 +12,7 @@
   <tr>
    <td><code>note</code></td>
    <td>
-!!! note "Important"
-        Example Text
+```!!! note "Important" Example Text```
     </td>
   </tr>
  </tbody>
