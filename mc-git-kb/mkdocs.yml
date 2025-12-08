@@ -42,9 +42,6 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/matthewpmcvey
-copyright: |
-  Copyright &copy; 2024 Your Company Name. All rights reserved. 
-  Made with ❤️ using Material for MkDocs.
 
 # Define the navigation structure
 nav:
