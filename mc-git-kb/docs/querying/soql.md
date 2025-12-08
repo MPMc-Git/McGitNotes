@@ -71,6 +71,20 @@ th {
    </td>
   </tr>
   <tr>
+   <th>Counts of Types & Profiles</th>
+   <th></th>
+   <td>
+    ```sql
+    SELECT count(id) Users, UserType, ProfileId, Profile.Name
+    FROM User
+    WHERE IsActive = TRUE
+    GROUP BY UserType, ProfileId, Profile.Name
+    ORDER BY Profile.Name
+    ```
+   </td>
+   <td></td>
+  </tr>
+  <tr>
    <th>...with their License Type</th>
    <th>...with their Roles & Profiles</th>
   </tr>
@@ -143,7 +157,7 @@ th {
   <tr>
    <th>...by Username</th>
    <th>...by Email</th>
-   <th>...by by Federation ID (SSO)</th>
+   <th>...by Federation ID (SSO)</th>
   </tr>
   <tr>
    <td>
@@ -178,15 +192,12 @@ th {
   </tr>
 </table>
 
-#### Counts of Types & Profiles
-> SELECT count(id) Users, UserType, ProfileId, Profile.Name
-> FROM User
-> WHERE IsActive = TRUE
-> GROUP BY UserType, ProfileId, Profile.Name
-> ORDER BY Profile.Name
+
 
 
 ## Access-Related
+#### 
+
 #### Specific Record Access for Specific User ID
 > SELECT RecordId, MaxAccessLevel, HasAllAccess, HasDeleteAccess, HasEditAccess, HasReadAccess, HasTransferAccess
 > FROM UserRecordAccess
