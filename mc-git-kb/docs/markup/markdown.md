@@ -6,6 +6,13 @@ The Material theme supports a wide range of types, each with its own icon and co
 !!! Example "Example Title"
     Example Text
 
+    ```sql
+    SELECT TABLE_NAME, COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE 
+    FROM INFORMATION_SCHEMA.COLUMNS
+    ```
+
+    End Example Text
+
 !!! abstract
     Example
 
