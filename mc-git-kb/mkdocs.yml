@@ -47,7 +47,7 @@ nav:
   - Markup Languages:
     - HTML: markup/html.md # Formatted
     - Mkdocs: markup/mkdocs.md # Formatted
-    - Markdown: markup/markdown.md # Currently blank
+    - Markdown: markup/markdown.md # Formatted
     - YAML: markup/yaml.md # Currently blank
   - OS Specifics: 
     - Bash (Used in Linux): scripting/bash.md # Formatted
