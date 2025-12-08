@@ -17,27 +17,10 @@ th,td {
 
 ## 365 Inspiring Women (Dae Lee)
 
-| | | Month | | |
-| :--: | :--: | :--: | :--: | :--: |
-| | | January | | |
-| | | February | | |
-| | | March | | |
-| | | April | | |
-| | | May | | |
-| | | June | | |
-| | | July | | |
-| | | August | | |
-| | | September | | |
-| | | October | | |
-| | | November | | |
-| | | December | | |
-
 <table>
- <caption>365 Inspiring Women (Dae Lee)</caption>
  <thead>
   <tr>
-   <th>
-   </th>
+   <th colspan=2>December</th>
   </tr>
  </thead>
  <tbody>
