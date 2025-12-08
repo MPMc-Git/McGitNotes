@@ -5,13 +5,13 @@ The Material theme supports a wide range of types, each with its own icon and co
 
 !!! example inline "Inline Left"
     Should be on far left !!!
-Testing (hopefully) unrelated text
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 <div style="clear: both;"></div>
 
 !!! example inline end "Inline Right" 
     Should be on far right !!!
-Testing (hopefully) unrelated text
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 <div style="clear: both;"></div>
 
