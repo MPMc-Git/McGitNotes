@@ -9,6 +9,8 @@
 }
 </style>
 
+[//]: # ( This is going to be messy - can't be helped unless you HTML it )
+
 ## 365 Inspiring Women (Dae Lee)
 
 | | | Month | | |
@@ -26,12 +28,26 @@
 | | | November | | |
 | | | December | | |
 | | | | | |
-| | <span class="sm-text">Barbara Walters</span><br><span class="xs-text">American broadcast journalist, author, and television personality.</span> | | | |
+| | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
 
-Normal Text<br>
 
+<table>
+ <caption>365 Inspiring Women (Dae Lee)</caption>
+ <thead>
+  <tr>
+   <th>
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><span class="sm-text">Constance Markievicz</span><br><span class="xs-text">6 December Constance Markievicz Irish Revolutionary and Politician 1868-1927, Ireland Constance Markievicz was an Irish revolutionary, suffragist, and the first woman elected to the British House of Commons.</span></td>
+   <td><span class="sm-text">Barbara Walters</span><br><span class="xs-text">American broadcast journalist, author, and television personality.</span></td>
+  </tr>
+ </tbody>
+</tanle>
