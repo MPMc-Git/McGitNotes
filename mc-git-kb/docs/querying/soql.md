@@ -13,11 +13,13 @@
  <tbody>
   <tr>
    <td>
+   ```
    ```sql
-SELECT Id, Name, Status, TotalLicenses, UsedLicenses
-FROM UserLicense
-WHERE Name = 'Salesforce'
-```
+    SELECT Id, Name, Status, TotalLicenses, UsedLicenses
+    FROM UserLicense
+    WHERE Name = 'Salesforce'
+   ```
+   ```
    </td>
    <td></td>
    <td></td>
