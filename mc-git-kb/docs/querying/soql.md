@@ -1,3 +1,13 @@
+<style>
+th {
+    text-align: center !important;
+}
+
+td {
+    white-space: normal !important;
+}
+</style>
+
 !!! info
     I do love me some SOQL. Sure, some of these may be Report-able NOW, but they weren't at the time.
 
