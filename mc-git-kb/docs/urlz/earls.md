@@ -5,6 +5,7 @@
 - [SOX Compliance 2025 Complete Guide](https://auditboard.com/blog/sox-compliance)
 
 #### Database-y
+- [Admonition - Extension for Mkdocs in GitHub](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions-docsstylesheetsextracss)
 - [Python CSVing](https://docs.python.org/3/library/csv.html)
 - [Snowflake Badges](https://ysa.snowflakeuniversity.com/)
 - [Snowflake Docs](https://docs.snowflake.com/)
