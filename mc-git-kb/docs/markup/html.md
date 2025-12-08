@@ -4,11 +4,11 @@ Put this at the top of your page
 <style>
 /* TEXT SIZING - Relative */
 .sm-text {
-    font-size: 0.875rem !important; 
+    font-size: 0.75rem !important; 
 }
 
 .xs-text {
-    font-size: 0.75rem !important; 
+    font-size: 0.625rem !important; 
 }
 </style>
 ```
