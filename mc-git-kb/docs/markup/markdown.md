@@ -11,6 +11,8 @@ Testing (hopefully) unrelated text
     Should be on far right !!!
 Testing (hopefully) unrelated text
 
+<br>
+
 !!! example "Example Title - SQL Included As Further Example"
     Example Text
     <div style="font-size: 16px;">
