@@ -6,8 +6,8 @@
  <thead>
   <tr>
    <th>Salesforce Licenses (Count)</th>
-   <th></th>
-   <th></th>
+   <th>PermSet Licenses (Count)</th>
+   <th>CPQ Assigned (Count)</th>
   </tr>
  </thead>
  <tbody>
@@ -19,28 +19,24 @@
     WHERE Name = 'Salesforce'
     ```
    </td>
-   <td></td>
-   <td></td>
+   <td>
+    ```sql
+    SELECT Id, MasterLabel, Status, ExpirationDate, TotalLicenses, UsedLicenses
+    FROM PermissionSetLicense
+    WHERE Status = 'Active'
+    ORDER BY MasterLabel
+    ```
+   </td>
+   <td>
+    ```sql
+    SELECT Id, Name, Status, TotalLicenses, UsedLicenses
+    FROM UserLicense
+    WHERE Name LIKE 'Salesforce CPQ%'
+    ```
+   </td>
   </tr>
  </tbody>
 </table>
-
-#### CPQ Assigned (Count)
-```sql
-SELECT Id, Name, Status, TotalLicenses, UsedLicenses
-FROM UserLicense
-WHERE Name LIKE 'Salesforce CPQ%'
-```
-
-#### PermSet Licenses (Count)
-```sql
-SELECT Id, MasterLabel, Status, ExpirationDate, TotalLicenses, UsedLicenses
-FROM PermissionSetLicense
-WHERE Status = 'Active'
-ORDER BY MasterLabel
-```
-
-#### 
 
 
 ## Users
