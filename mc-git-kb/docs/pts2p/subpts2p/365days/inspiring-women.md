@@ -1,6 +1,6 @@
 <style>
 /* TEXT SIZING - Relative */
-td {
+th,td {
     text-align: center !important;
 }
 
