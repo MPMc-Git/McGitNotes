@@ -37,6 +37,15 @@ theme:
         icon: material/brightness-7 # Icon for Sun/Light
         name: Switch to dark mode
 
+# Footer with social media links
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/matthewpmcvey
+copyright: |
+  Copyright &copy; 2024 Your Company Name. All rights reserved. 
+  Made with ❤️ using Material for MkDocs.
+
 # Define the navigation structure
 nav:
   - Home: index.md # Formatted
