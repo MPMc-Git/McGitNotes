@@ -8,7 +8,7 @@ th {
     I do love me some SOQL. Sure, some of these may be Report-able NOW, but they weren't at the time.
     Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised.
 
-## Licenses (count)
+## Licenses
 <table>
  <thead>
   <tr>
@@ -72,8 +72,8 @@ th {
    </td>
   </tr>
   <tr>
-   <th>Users with their License Type</th>
-   <th>Users with their Roles & Profiles</th>
+   <th>...with their License Type</th>
+   <th>...with their Roles & Profiles</th>
   </tr>
   <tr>
    <td>
