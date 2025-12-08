@@ -48,7 +48,7 @@ th {
  </tbody>
 </table>
 
-## Users
+## Users 
 <table>
   <tr>
    <th>New-ish Users</th>
@@ -138,38 +138,45 @@ th {
   </tr>
 </table>
 
-
+## Finding Users
 <table>
- <thead>
   <tr>
-   <th></th>
+   <th>...by Username</th>
+   <th>...by Email</th>
+   <th>...by by Federation ID (SSO)</th>
   </tr>
- </thead>
- <tbody>
   <tr>
-   <td></td>
+   <td>
+    ```sql
+    SELECT Id, Name, Username, Email,
+     UserRole.Name, Profile.Name
+    FROM User
+    WHERE username = 'name@domain.tld'
+    ORDER BY Name
+    ```
+   </td>
+   <td>
+    ```sql
+    SELECT Id, Name, Username, Email,
+     UserRole.Name, Profile.Name
+    FROM User
+    WHERE email = 'name@domain.tld'
+    ORDER BY Name
+    ```
+   </td>
+   <td>
+    ```sql
+    SELECT Id, Name, Username, Email,
+     FederationIdentifier, UserRole.Name,
+      Profile.Name
+    FROM User
+    WHERE FederationIdentifier =
+     ‘could be email address or ask IT'
+    ORDER BY Name
+    ```
+    </td>
   </tr>
- </tbody>
 </table>
-
-
-#### Find by Email
-> SELECT Id, Name, Username, Email, UserRole.Name, Profile.Name
-> FROM User
-> WHERE email = 'name@domain.tld'
-> ORDER BY Name
-
-#### Find by Federation ID (SSO)
-> SELECT Id, Name, Username, Email, FederationIdentifier, UserRole.Name, Profile.Name
-> FROM User
-> WHERE FederationIdentifier = ‘could be email address or ask IT'
-> ORDER BY Name
-
-#### Find by Username
-> SELECT Id, Name, Username, Email, UserRole.Name, Profile.Name
-> FROM User
-> WHERE username = 'name@domain.tld'
-> ORDER BY Name
 
 #### Counts of Types & Profiles
 > SELECT count(id) Users, UserType, ProfileId, Profile.Name
@@ -309,3 +316,12 @@ Yeah... I know it's going away... but it MIGHT still be useful
 #### Roles & Reciprocal Roles
 > SELECT FinServ__CreateInverseRole__c,Name,FinServ__InverseRole__c
 > FROM FinServ__ReciprocalRole__c
+
+<table>
+  <tr>
+   <th></th>
+  </tr>
+  <tr>
+   <td></td>
+  </tr>
+</table>
