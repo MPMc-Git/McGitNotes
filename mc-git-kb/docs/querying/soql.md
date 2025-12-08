@@ -6,6 +6,7 @@ th {
 
 !!! info
     I do love me some SOQL. Sure, some of these may be Report-able NOW, but they weren't at the time.
+    Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised.
 
 ## Licenses (count)
 <table>
@@ -48,19 +49,77 @@ th {
  </tbody>
 </table>
 
-
 ## Users
-###### Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised
+<table>
+ <thead>
+  <tr>
+   <th>New-ish Users</th>
+   <th>Frozen Users</th>
+  </tr>
+  <tr>
+   <th>Users with their License Type</th>
+   <th>Users with their Roles & Profiles</th>
+  </tr>
+  <tr>
+   <th></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    ```sql
+    SELECT Id, CreatedDate
+    FROM User
+    WHERE CreatedDate = LAST_QUARTER
+    ```
+   </td>
+   <td>
+    ```sql
+    SELECT IsFrozen, UserId
+    FROM UserLogin
+    WHERE IsFrozen = TRUE
+    ```
+   </td>
+  </tr>
+  <tr>
+   <td>
+    ```sql
+    SELECT Id, FirstName, LastName,
+     Profile.UserLicense.LicenseDefinitionKey,
+     Profile.UserLicense.MasterLabel
+    FROM User
+    WHERE IsActive = TRUE
+    ```
+   </td>
+   <td>
+    ```sql
+    SELECT Id,Name, UserRole.Name, Profile.Name
+    FROM User
+    WHERE IsActive = TRUE
+    ORDER BY Name
+    ```
+   </td>
+  </tr>
+  <tr>
+   <td></td>
+  </tr>
+ </tbody>
+</table>
 
-#### New Users
-> SELECT Id, CreatedDate
-> FROM User
-> WHERE CreatedDate = LAST_QUARTER
 
-#### Frozen Users
-> SELECT IsFrozen, UserId
-> FROM UserLogin
-> WHERE IsFrozen = TRUE
+<table>
+ <thead>
+  <tr>
+   <th></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td></td>
+  </tr>
+ </tbody>
+</table>
+
 
 #### Find by Email
 > SELECT Id, Name, Username, Email, UserRole.Name, Profile.Name
@@ -87,16 +146,6 @@ th {
 > GROUP BY UserType, ProfileId, Profile.Name
 > ORDER BY Profile.Name
 
-#### Users with their License Type
-> SELECT Id, FirstName, LastName, Profile.UserLicense.LicenseDefinitionKey, Profile.UserLicense.MasterLabel
-> FROM User
-> WHERE IsActive = TRUE
-
-#### Users with their Roles & Profiles
-> SELECT Id,Name, UserRole.Name, Profile.Name
-> FROM User
-> WHERE IsActive = TRUE
-> ORDER BY Name
 
 #### ...with their Permission Sets
 > SELECT Id,PermissionSetID, PermissionSet.Label, Assignee.Id, Assignee.Name
