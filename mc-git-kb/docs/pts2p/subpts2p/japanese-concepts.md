@@ -1,5 +1,4 @@
 ### Japanese Concepts That Can Be Helpful
-###### - From Thomas Pearce and Faraz Anis
 
 1. Gaman (我慢)
     - Staying resilient and patient through challenges.
