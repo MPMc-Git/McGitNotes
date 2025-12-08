@@ -24,14 +24,15 @@ td {
   <tr>
    <td>
     ```sql
-    SELECT Id, Name, Status, TotalLicenses, UsedLicenses
+    SELECT Id, Name, Status,
+     TotalLicenses, UsedLicenses
     FROM UserLicense
     WHERE Name = 'Salesforce'
     ```
    </td>
    <td>
     ```sql
-    SELECT Id, MasterLabel, Status, 
+    SELECT Id, MasterLabel, Status,
      ExpirationDate, TotalLicenses, UsedLicenses
     FROM PermissionSetLicense
     WHERE Status = 'Active'
@@ -40,7 +41,8 @@ td {
    </td>
    <td>
     ```sql
-    SELECT Id, Name, Status, TotalLicenses, UsedLicenses
+    SELECT Id, Name, Status,
+     TotalLicenses, UsedLicenses
     FROM UserLicense
     WHERE Name LIKE 'Salesforce CPQ%'
     ```
