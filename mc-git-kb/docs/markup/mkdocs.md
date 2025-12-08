@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 The Material theme supports a wide range of types, each with its own icon and color<br>
 Other keywords work, but check the [admonitions.md]([docs/reference/admonitions.md](https://github.com/squidfunk/mkdocs-material/blob/master/docs/reference/admonitions.md)) file for the proper names.
 
-!!! abstract
+!!! quote
     Example
 
 !!! bug
@@ -46,29 +46,29 @@ Other keywords work, but check the [admonitions.md]([docs/reference/admonitions.
 !!! danger
     Example
 
-!!! example
-    Example
-
 !!! failure
     Example
 
-!!! info
-    Example
-
-!!! note
+!!! warning
     Example
 
 !!! question
     Example
 
-!!! quote
+!!! success
     Example
 
-!!! success
+!!! abstract
+    Example
+
+!!! note
+    Example
+
+!!! info
     Example
 
 !!! tip
     Example
 
-!!! warning
+!!! example
     Example
