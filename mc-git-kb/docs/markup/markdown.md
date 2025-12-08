@@ -11,8 +11,9 @@
  <tbody>
   <tr>
    <td><code>note</code></td>
-   <td>
-```!!! note "Important" Example Text```
+   <td markdown="1">
+!!! note "Important"
+    Example Text
     </td>
   </tr>
  </tbody>
