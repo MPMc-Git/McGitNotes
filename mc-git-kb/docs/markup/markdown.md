@@ -1,5 +1,5 @@
 ## Extensions
-#### [Admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions-docsstylesheetsextracss)
+### [Admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions-docsstylesheetsextracss)
 
 !!! example inline "Inline Left"
     Should be on far left
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 
 ---
 
-## Supported Admonition Types
+#### Supported Admonition Types
 The Material theme supports a wide range of types, each with its own icon and color<br>
 Other keywords work, but check the [admonitions.md]([docs/reference/admonitions.md](https://github.com/squidfunk/mkdocs-material/blob/master/docs/reference/admonitions.md)) file for the proper names.
 
