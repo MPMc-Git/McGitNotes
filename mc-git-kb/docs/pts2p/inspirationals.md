@@ -3,6 +3,9 @@
 - [Japanese Concepts](subpts2p/japanese-concepts.md)
 - [Storytelling Frameworks](subpts2p/storytelling.md)
 
+#### 365 Days of Inspirations
+- [Inspirational Women](subpts2p/365days/inspiring-women.md)
+
 ## Random Sayings About Inspiration
 <small>Pretty sure I can't pronounce any of these</small>
 
