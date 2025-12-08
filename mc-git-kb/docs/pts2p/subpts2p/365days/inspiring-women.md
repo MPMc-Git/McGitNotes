@@ -1,13 +1,15 @@
 <style>
 /* TEXT SIZING - Relative */
+th,td {
+    text-align: center;
+}
+
 .sm-text {
     font-size: 0.75rem !important; 
-    text-align: center;
 }
 
 .xs-text {
     font-size: 0.625rem !important; 
-    text-align: center;
 }
 </style>
 
@@ -29,14 +31,6 @@
 | | | October | | |
 | | | November | | |
 | | | December | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-
 
 <table>
  <caption>365 Inspiring Women (Dae Lee)</caption>
