@@ -2,20 +2,20 @@
 #### Admonition & PyMdownX Suite
 Supported Admonition Types<br>
 The Material theme supports a wide range of types, each with its own icon and color:
-
+<div>
 !!! example inline "Inline Left"
     Should be on far left
 
 
 Testing (hopefully) unrelated text
-<p></p>
-
+</div>
+<div>
 !!! example inline end "Inline Right"
     Should be on far right
 
 
 Testing (hopefully) unrelated text
-<p></p>
+</div>
 
 !!! example "Example Title - SQL Included As Further Example"
     Example Text
