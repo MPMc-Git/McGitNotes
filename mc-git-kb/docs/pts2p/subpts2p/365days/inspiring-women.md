@@ -10,11 +10,11 @@ td {
 }
 
 .sm-text {
-    font-size: 0.75rem !important;
+    font-size: 0.625rem !important;
 }
 
 .xs-text {
-    font-size: 0.625rem !important;
+    font-size: 0.5rem !important;
 }
 </style>
 
