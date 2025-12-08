@@ -11,7 +11,7 @@
  <tbody>
   <tr>
    <td><code>note</code></td>
-   <td>
+   <td> 
 !!! note "Important"
     Example Text
     </td>
