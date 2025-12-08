@@ -1,6 +1,7 @@
 <style>
 /* TEXT SIZING - Relative */
 th {
+    font-size: 1.0rem !important;
     text-align: center !important;
 }
 
