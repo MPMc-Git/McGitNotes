@@ -1,7 +1,5 @@
 ## Extensions
 #### Admonition & PyMdownX Suite
-Supported Admonition Types<br>
-The Material theme supports a wide range of types, each with its own icon and color:
 
 !!! example inline "Inline Left"
     Should be on far left !!!
@@ -25,6 +23,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
     </div>
     End Example Text
 
+---
+
+## Supported Admonition Types
+The Material theme supports a wide range of types, each with its own icon and color
+
 !!! abstract
     Example ("summary" is the same - see below)
 
@@ -42,6 +45,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 
 !!! error
     Example
+
+!!! example
+    Example Text
 
 !!! failure
     Example
