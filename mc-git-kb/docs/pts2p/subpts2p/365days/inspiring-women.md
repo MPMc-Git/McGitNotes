@@ -1,15 +1,17 @@
 <style>
 /* TEXT SIZING - Relative */
 td {
-    text-align: center;
+    text-align: center !important;
 }
 
 .sm-text {
-    font-size: 0.75rem !important; 
+    font-size: 0.75rem !important;
+    text-align: center !important;
 }
 
 .xs-text {
-    font-size: 0.625rem !important; 
+    font-size: 0.625rem !important;
+    text-align: center !important;
 }
 </style>
 
