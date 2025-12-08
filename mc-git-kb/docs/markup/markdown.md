@@ -4,7 +4,7 @@ Supported Admonition Types<br>
 The Material theme supports a wide range of types, each with its own icon and color:
 
 !!! example inline "Inline Left"
-    Should be on far right
+    Should be on far left
 
 
 Testing (hopefully) unrelated text
