@@ -6,17 +6,16 @@ The Material theme supports a wide range of types, each with its own icon and co
 !!! Example "Example Title"
     Example Text
 
-**Critical**
+!!! abstract
+    Example
+
+!!! bug
+    Example
 
 !!! danger
     Example
 
-!!! warning
-    Example
-
-**Informational**
-
-!!! abstract
+!!! failure
     Example
 
 !!! info
@@ -28,16 +27,11 @@ The Material theme supports a wide range of types, each with its own icon and co
 !!! question
     Example
 
+!!! success
+    Example
+
 !!! tip
     Example
 
-**Status**
-
-!!! bug
-    Example
-
-!!! failure
-    Example
-
-!!! success
+!!! warning
     Example
