@@ -1,9 +1,9 @@
 
-/* TEXT SIZING - Relative */
+/* TEXT SIZING - Absolute */
 .sm-text {
-    font-size: 0.875rem !important; 
+    font-size: 14px !important; 
 }
 
 .xs-text {
-    font-size: 0.75rem !important; 
+    font-size: 12px !important; 
 }

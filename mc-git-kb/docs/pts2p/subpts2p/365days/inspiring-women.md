@@ -16,6 +16,6 @@
 | | | December | | |
 
 
-
+Normal Text
 <span class="sm-text">Barbara Walters</span><br>
 <span class="xs-text">American broadcast journalist, author, and television personality.</span>
