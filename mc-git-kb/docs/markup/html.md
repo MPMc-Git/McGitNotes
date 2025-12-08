@@ -1,12 +1,28 @@
-## Different img for Light or Dark Mode
+## Relative Text Sizing as in-line CSS
+Put this at the top of your page
+```html
+<style>
+/* TEXT SIZING - Relative */
+.sm-text {
+    font-size: 0.875rem !important; 
+}
 
-###### You see both of these, right?
+.xs-text {
+    font-size: 0.75rem !important; 
+}
+</style>
+```
+
+## Different img for Light or Dark Mode
+You see both of these, right?
 | Image | Mode|
 | :--: | :--: |
 | <img src="../../assets/images/github-mark-light-wbg.png" width="75" height="75"> | Light Mode (75x75) |
 | <img src="../../assets/images/github-mark-dark-wbg.png" width="75" height="75"> | Dark Mode (75x75) |
 
-##### Html Code - I know, no CSS! NOTE: You can do this with two images but IF-THEN-ELSE infiltrated my brain.
+#### HTML Code
+I know, no CSS!<br>
+**NOTE**: You can do this with two images but IF-THEN-ELSE infiltrated my brain.
 ```html
 <picture>
     <!-- light mode -->
@@ -18,8 +34,8 @@
 </picture>
 ```
 
-
-##### You should see one or the other - switch your modes. Try it!
+#### Test it out!
+You should see one or the other - switch your modes. Try it!
 <div id="light-logo" style="display: none;">
   <img src="../../assets/images/github-mark-light.png" width="75" height="75" alt="Light Mode">
 </div>
