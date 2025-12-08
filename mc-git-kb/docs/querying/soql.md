@@ -1,4 +1,9 @@
 <style>
+table {
+    width: 90% !important;
+    margin: 0 auto !important;
+}
+
 th {
     text-align: center !important;
 }
