@@ -13,13 +13,11 @@
  <tbody>
   <tr>
    <td>
-   ```
-   ```sql
+    ```sql
     SELECT Id, Name, Status, TotalLicenses, UsedLicenses
     FROM UserLicense
     WHERE Name = 'Salesforce'
-   ```
-   ```
+    ```
    </td>
    <td></td>
    <td></td>
