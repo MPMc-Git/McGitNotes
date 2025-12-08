@@ -73,6 +73,8 @@ th {
   <tr>
    <th>Counts of Types & Profiles</th>
    <th></th>
+  </tr>
+  <tr>
    <td>
     ```sql
     SELECT count(id) Users, UserType, ProfileId, Profile.Name
