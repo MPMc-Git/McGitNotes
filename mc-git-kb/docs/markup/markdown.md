@@ -3,7 +3,13 @@
 Supported Admonition Types<br>
 The Material theme supports a wide range of types, each with its own icon and color:
 
-!!! Example "Example Title"
+!!! example inline "Inline Left"
+    Should be on far right
+
+!!! example inline end "Inline Right"
+    Should be on far right
+
+!!! example "Example Title - SQL Included As Further Example"
     Example Text
     <div style="font-size: 16px;">
         ```sql
@@ -14,15 +20,30 @@ The Material theme supports a wide range of types, each with its own icon and co
     End Example Text
 
 !!! abstract
+    Example ("summary" is the same - see below)
+
+!!! summary
     Example
 
 !!! bug
     Example
 
+!!! caution
+    Example
+
 !!! danger
     Example
 
+!!! error
+    Example
+
 !!! failure
+    Example
+
+!!! hint
+    Example
+
+!!! important
     Example
 
 !!! info
@@ -34,10 +55,19 @@ The Material theme supports a wide range of types, each with its own icon and co
 !!! question
     Example
 
+!!! quote
+    Example
+
+!!! seealso
+    Example
+
 !!! success
     Example
 
 !!! tip
+    Example
+
+!!! todo
     Example
 
 !!! warning
