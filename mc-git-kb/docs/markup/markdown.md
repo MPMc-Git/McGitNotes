@@ -7,6 +7,8 @@ The Material theme supports a wide range of types, each with its own icon and co
     Should be on far left !!!
 Testing (hopefully) unrelated text
 
+<br>
+
 !!! example inline end "Inline Right" 
     Should be on far right !!!
 Testing (hopefully) unrelated text
