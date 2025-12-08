@@ -13,8 +13,6 @@ th,td {
 }
 </style>
 
-[//]: # ( This is going to be messy - can't be helped unless you HTML it )
-
 ## 365 Inspiring Women (Dae Lee)
 
 <table>
