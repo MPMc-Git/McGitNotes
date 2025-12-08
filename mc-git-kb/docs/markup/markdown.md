@@ -8,14 +8,14 @@ The Material theme supports a wide range of types, each with its own icon and co
 
 
 Testing (hopefully) unrelated text
-<p>
+<p></p>
 
 !!! example inline end "Inline Right"
     Should be on far right
 
 
 Testing (hopefully) unrelated text
-<p>
+<p></p>
 
 !!! example "Example Title - SQL Included As Further Example"
     Example Text
