@@ -1,5 +1,5 @@
 ## Extensions
-#### [Admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions-docsstylesheetsextracss) & PyMdownX Suite
+#### [Admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions-docsstylesheetsextracss)
 
 !!! example inline "Inline Left"
     Should be on far left
