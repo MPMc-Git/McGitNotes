@@ -5,12 +5,12 @@ The Material theme supports a wide range of types, each with its own icon and co
 
 !!! Example "Example Title"
     Example Text
-    <div style="font-size: 16px;">
-    ```sql
-    SELECT TABLE_NAME, COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE 
-    FROM INFORMATION_SCHEMA.COLUMNS
-    ```
-    </div>
+        <div style="font-size: 16px;">
+            ```sql
+            SELECT TABLE_NAME, COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE 
+            FROM INFORMATION_SCHEMA.COLUMNS
+            ```
+        </div>
     End Example Text
 
 !!! abstract
