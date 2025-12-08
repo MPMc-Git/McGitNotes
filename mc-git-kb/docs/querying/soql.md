@@ -1,9 +1,4 @@
 <style>
-table {
-    width: 90% !important;
-    margin: 0 auto !important;
-}
-
 th {
     text-align: center !important;
 }
@@ -36,7 +31,8 @@ td {
    </td>
    <td>
     ```sql
-    SELECT Id, MasterLabel, Status, ExpirationDate, TotalLicenses, UsedLicenses
+    SELECT Id, MasterLabel, Status, 
+     ExpirationDate, TotalLicenses, UsedLicenses
     FROM PermissionSetLicense
     WHERE Status = 'Active'
     ORDER BY MasterLabel
