@@ -3,9 +3,15 @@ th {
     text-align: center !important;
 }
 
+.center-table-container {
+    text-align: center;
+    width: 100%;
+}
+
 .center-table-container table {
     margin-left: auto !important;
     margin-right: auto !important;
+    width: 90% !important;
 }
 </style>
 
