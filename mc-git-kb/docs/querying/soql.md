@@ -7,6 +7,8 @@ th {
 !!! abstract
     I do love me some SOQL. Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised.
 
+<small>Right-click and Open Links in New Tab</small>
+
 ## Licenses
 <table>
  <thead>
