@@ -112,11 +112,14 @@ th {
    ```
   </td>
  </tr>
+</table>
+
+<table>
  <tr>
-  <th colspan=2>...with their Permission Sets</th>
+  <th>...with their Permission Sets</th>
  </tr>
  <tr>
-  <td colspan=2>
+  <td>
    ```sql
    SELECT Id,PermissionSetID, PermissionSet.Label, Assignee.Id, Assignee.Name
    FROM PermissionSetAssignment
@@ -128,10 +131,10 @@ th {
   </td>
  </tr>
  <tr>
-  <th colspan=2>...with their Permission Set Licenses</th>
+  <th>...with their Permission Set Licenses</th>
  </tr>
  <tr>
-  <td colspan=2>
+  <td>
    ```sql
    SELECT Id,PermissionSetLicenseID, PermissionSetLicense.MasterLabel, Assignee.Id, Assignee.Name
    FROM PermissionSetLicenseAssign
@@ -142,10 +145,10 @@ th {
   </td>
  </tr>
  <tr>
-  <th colspan=2>...with Specific System Permissions</th>
+  <th>...with Specific System Permissions</th>
  </tr>
  <tr>
-  <td colspan=2>
+  <td>
    ```sql
    SELECT Id, PermissionSetID, PermissionSet.Label, PermissionSet.Profile. Name, Assignee.Id, Assignee.Name
    FROM PermissionSetAssignment
