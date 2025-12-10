@@ -3,7 +3,7 @@ th {
     text-align: center !important;
 }
 
-table {
+.center-table-container table {
     margin-left: auto !important;
     margin-right: auto !important;
 }
@@ -15,7 +15,7 @@ table {
 <small>Right-click and open links in New Tab</small>
 
 ## Licenses
-<div>
+<div class="center-table-container">
 <table>
  <thead>
   <tr>
