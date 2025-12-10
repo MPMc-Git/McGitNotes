@@ -86,8 +86,7 @@ th {
  <tr>
   <td>
    ```sql
-   SELECT Id,Name, UserRole.Name,
-    Profile.Name
+   SELECT Id,Name, UserRole.Name, Profile.Name
    FROM User
    WHERE IsActive = TRUE
    ORDER BY Name
@@ -95,8 +94,7 @@ th {
   </td>
   <td>
    ```sql
-   SELECT count(id) Users, UserType,
-    ProfileId, Profile.Name
+   SELECT count(id) Users, UserType, ProfileId, Profile.Name
    FROM User
    WHERE IsActive = TRUE
    GROUP BY UserType, ProfileId,
@@ -111,8 +109,7 @@ th {
  <tr>
   <td colspan=2>
    ```sql
-   SELECT Id, FirstName, LastName,
-    Profile.UserLicense.LicenseDefinitionKey,
+   SELECT Id, FirstName, LastName, Profile.UserLicense.LicenseDefinitionKey,
     Profile.UserLicense.MasterLabel
    FROM User
    WHERE IsActive = TRUE
