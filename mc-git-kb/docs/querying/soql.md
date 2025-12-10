@@ -9,8 +9,8 @@ th {
 
 !!! info
     Salesforce supports Relative Dates (TODAY, TOMORROW, etc.) in both Reports and SOQL Queries.
-    - [...for Reports](https://help.salesforce.com/s/articleView?id=analytics.filter_dates_relative.htm&type=5)
-    - [...for SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_dateformats.htm)
+    <br>- [...for Reports](https://help.salesforce.com/s/articleView?id=analytics.filter_dates_relative.htm&type=5)
+    <br>- [...for SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_dateformats.htm)
 
 ## Licenses
 <table>
