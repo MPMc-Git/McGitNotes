@@ -100,7 +100,8 @@ th {
  <tr>
   <td>
    ```sql
-   SELECT Id,Name, UserRole.Name, Profile.Name
+   SELECT Id,Name, UserRole.Name,
+    Profile.Name
    FROM User
    WHERE IsActive = TRUE
    ORDER BY Name
@@ -181,6 +182,7 @@ th {
 </div>
 
 ## Finding Users
+<div class="center-table-container">
 <table>
   <tr>
    <th>...by Username</th>
@@ -219,7 +221,7 @@ th {
     </td>
   </tr>
 </table>
-
+</div>
 
 
 
