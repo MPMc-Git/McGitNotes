@@ -15,6 +15,7 @@ table {
 <small>Right-click and open links in New Tab</small>
 
 ## Licenses
+<div>
 <table>
  <thead>
   <tr>
@@ -54,6 +55,7 @@ table {
   </tr>
  </tbody>
 </table>
+</div>
 
 !!! info
     Salesforce supports Relative Dates (TODAY, TOMORROW, etc.) in both Reports and SOQL Queries.
