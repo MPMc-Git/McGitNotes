@@ -1,8 +1,8 @@
 <style>
 table {
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 90% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 th {
