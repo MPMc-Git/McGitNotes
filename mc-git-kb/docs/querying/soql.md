@@ -11,7 +11,7 @@ th {
 .center-table-container table {
     margin-left: auto !important;
     margin-right: auto !important;
-    width: 99% !important;
+    width: 100% !important;
 }
 </style>
 
