@@ -71,6 +71,7 @@ th {
 
 
 ## Users 
+<div class="center-table-container">
 <table>
  <tr>
   <th>New-ish Users</th>
@@ -177,6 +178,7 @@ th {
    ```
  </tr>
 </table>
+</div>
 
 ## Finding Users
 <table>
