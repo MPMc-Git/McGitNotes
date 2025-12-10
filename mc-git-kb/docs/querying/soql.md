@@ -7,7 +7,7 @@ th {
 !!! abstract
     I do love me some SOQL. Sometimes there just isn't a Report already put together to show me the data I'm after, so I improvised.
 
-<small>Right-click and Open Links in New Tab</small>
+<small>Right-click and open links in New Tab</small>
 
 ## Licenses
 <table>
@@ -107,7 +107,8 @@ th {
   </td>
   <td>
    ```sql
-   SELECT Id,Name, UserRole.Name, Profile.Name
+   SELECT Id,Name, UserRole.Name,
+    Profile.Name
    FROM User
    WHERE IsActive = TRUE
    ORDER BY Name
