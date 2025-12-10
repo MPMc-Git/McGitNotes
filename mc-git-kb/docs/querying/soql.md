@@ -62,7 +62,6 @@ th {
  <tr>
   <th>New-ish Users</th>
   <th>Frozen Users</th>
-  <th>Counts of Types & Profiles</th>
  </tr>
  <tr>
   <td>
@@ -79,11 +78,25 @@ th {
    WHERE IsFrozen = TRUE
    ```
   </td>
+ </tr>
+ <tr>
+  <th>...with their Roles & Profiles</th>
+  <th>Counts of Types & Profiles</th>
+ </tr>
+ <tr>
   <td>
    ```sql
-   SELECT count(id) Users,
-    UserType, ProfileId,
-     Profile.Name
+   SELECT Id,Name, UserRole.Name,
+    Profile.Name
+   FROM User
+   WHERE IsActive = TRUE
+   ORDER BY Name
+   ```
+  </td>
+  <td>
+   ```sql
+   SELECT count(id) Users, UserType,
+    ProfileId, Profile.Name
    FROM User
    WHERE IsActive = TRUE
    GROUP BY UserType, ProfileId,
@@ -93,26 +106,16 @@ th {
   </td>
  </tr>
  <tr>
-  <th>...with their License Type</th>
-  <th>...with their Roles & Profiles</th>
+  <th colspan=2>...with their License Type</th>
  </tr>
  <tr>
-  <td>
+  <td colspan=2>
    ```sql
    SELECT Id, FirstName, LastName,
     Profile.UserLicense.LicenseDefinitionKey,
     Profile.UserLicense.MasterLabel
    FROM User
    WHERE IsActive = TRUE
-   ```
-  </td>
-  <td>
-   ```sql
-   SELECT Id,Name, UserRole.Name,
-    Profile.Name
-   FROM User
-   WHERE IsActive = TRUE
-   ORDER BY Name
    ```
   </td>
  </tr>
