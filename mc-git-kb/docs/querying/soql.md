@@ -82,7 +82,8 @@ th {
   <td>
    ```sql
    SELECT count(id) Users,
-    UserType, ProfileId, Profile.Name
+    UserType, ProfileId,
+     Profile.Name
    FROM User
    WHERE IsActive = TRUE
    GROUP BY UserType, ProfileId,
