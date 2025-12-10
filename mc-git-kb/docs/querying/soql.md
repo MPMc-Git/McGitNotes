@@ -1,4 +1,10 @@
 <style>
+table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 th {
     text-align: center !important;
 }
@@ -94,7 +100,8 @@ th {
   </td>
   <td>
    ```sql
-   SELECT count(id) Users, UserType, ProfileId, Profile.Name
+   SELECT count(id) Users, UserType,
+    ProfileId, Profile.Name
    FROM User
    WHERE IsActive = TRUE
    GROUP BY UserType, ProfileId,
