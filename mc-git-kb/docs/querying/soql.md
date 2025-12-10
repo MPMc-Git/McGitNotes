@@ -4,7 +4,6 @@ th {
 }
 
 table {
-    width: 90% !important;
     margin-left: auto !important;
     margin-right: auto !important;
 }
