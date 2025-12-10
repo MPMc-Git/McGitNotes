@@ -1,12 +1,12 @@
 <style>
+th {
+    text-align: center !important;
+}
+
 table {
     width: 90% !important;
     margin-left: auto !important;
     margin-right: auto !important;
-}
-
-th {
-    text-align: center !important;
 }
 </style>
 
