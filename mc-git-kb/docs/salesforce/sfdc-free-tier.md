@@ -1,7 +1,7 @@
 ## :cloud: Salesforce.com Free Tier Notes
 
 !!! abstract
-    I have a free tier environment. VERY limited. This is just me trying to make it usable and a very pretty rolodex :smile:
+    I have a free tier environment. VERY limited. This is just me trying to make it usable and a very pretty rolodex
 
 !!! danger "No Custom Objects"
     It will let you create the Custom Object until you try to Save - then it tells you that you have exceeded your total available amount of Custom Objects.
