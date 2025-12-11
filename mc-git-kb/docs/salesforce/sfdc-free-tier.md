@@ -27,3 +27,6 @@
 | Long Text | Product | Description | 32,768 characters. This is for the Job Role info |
 | Long Text | Opportunity Product | Product Description (Long) | 32,768 characters. This is for a Flow to push from Product to here |
 | Flow | Record-Trigger | Look here -> | NAME: Opp Line Item - After Create - OLI Desc from Prod Desc<br>DESC: When an Opportunity Product is added, it will take the Description from the Product and put it into the (Long) field on the Opp Product<br>- Trigger the Flow When: A record is created<br>- Update Product Description (Long) from OppLineItm > PID > Description |
+
+#### Example of Interview Opportunity
+![Intervie Opp](../../assets/images/sfdc-free-opp-interview.png)
