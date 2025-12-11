@@ -11,6 +11,10 @@
 
 ## Supporting my job hunt
 
+!!! info "What this does"
+    In order to leverage the Free Tier without creating Custom Objects, you have to think of Standard Objects a little differently. My thought was to leverage Products as Jobs - the below is what I did to make that happen.
+
+
 | What | Where | Name | Info |
 | :--: | :--: | :--- | :--- |
 | Process | Sales | Customer | Standard Opp Process |
