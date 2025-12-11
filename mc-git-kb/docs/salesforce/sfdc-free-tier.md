@@ -29,4 +29,8 @@
 | Flow | Record-Trigger | Look here -> | NAME: Opp Line Item - After Create - OLI Desc from Prod Desc<br>DESC: When an Opportunity Product is added, it will take the Description from the Product and put it into the (Long) field on the Opp Product<br>- Trigger the Flow When: A record is created<br>- Update Product Description (Long) from OppLineItm > PID > Description |
 
 #### Example of Interview Opportunity
-![Intervie Opp](../../assets/images/sfdc-free-opp-interview.png)
+![Interview Opp](../../assets/images/sfdc-free-opp-interview.png)
+
+!!! tip "To Do"
+    - Add Min / Max Range to Product and Opportunity for Job Products<br>
+    - Add Contract/FTE/Hybrid/Onsite to Product/Opp
