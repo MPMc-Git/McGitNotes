@@ -23,7 +23,7 @@
 | | | Interview | Specific to job hunting |
 | Lt Rec Pg | Opportunity | Opp_Interview | Specific to job hunting |
 | Picklist | Opportunity | Source_Interview| Specific to job hunting |
-| | Opportunity | Interview Stages | Phone Screen (10%)<br>1st Round (25%)<br>2nd Round(50%)<br>Final Round (75%)<br>Closed Won/Lost |
+| | Opportunity | Interview Stages | Phone Screen (10%)<br>1st Round (25%)<br>2nd Round(50%)<br>Final Round (75%)<br>Standard Closed Won/Lost |
 | Long Text | Product | Description | 32,768 characters. This is for the Job Role info |
 | Long Text | Opportunity Product | Product Description (Long) | 32,768 characters. This is for a Flow to push from Product to here |
-| Flow | Record-Trigger | Uh... | Opp Line Item - After Create - OLI Desc from Prod Desc<br>When an Opportunity Product is added, it will take the Description from the Product and put it into the (Long) field on the Opp Product |
+| Flow | Record-Trigger | Look here -> | Opp Line Item - After Create - OLI Desc from Prod Desc<br>When an Opportunity Product is added, it will take the Description from the Product and put it into the (Long) field on the Opp Product |
