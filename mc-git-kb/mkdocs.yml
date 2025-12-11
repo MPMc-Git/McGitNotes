@@ -68,6 +68,7 @@ nav:
     - Apex: programming/apex.md # Formatted
     - Apps / Extensions: salesforce/sfdc-apps-exts.md
     - Formulas: salesforce/sfdc-formulae.md
+    - Free Tier: salesforce/sfdc-free-tier.md # Formatted
     - Rest/Tooling API: programming/sfdc-rest-tool.md # Formatted
     - SOQL: querying/soql.md
     - Validation Rules: salesforce/sfdc-val-rulz.md # Formatted
