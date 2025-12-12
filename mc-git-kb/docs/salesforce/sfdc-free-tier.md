@@ -23,7 +23,9 @@
 | | | Interview | Specific to job hunting |
 | Lt Rec Pg | Opportunity | Opp_Interview | Specific to job hunting |
 | Picklist | Opportunity | Source_Interview| Specific to job hunting<br>Show what you like, but I have the Products Related List as a Related List (Basic List) - Single and only showing the Product and the Product Description (Long). Yes, this is... large... but it shows the data I'm after. |
-| | Opportunity | Interview Stages | Phone Screen (10%)<br>1st Round (25%)<br>2nd Round(50%)<br>Final Round (75%)<br>Standard Closed Won/Lost |
+| | Opportunity | Interview Stages | Applied (0%) [Omitted]<br>Phone Screen (10%)<br>1st Round (25%)<br>2nd Round(50%)<br>Final Round (75%)<br>Standard Closed Won/Lost |
+| Currency | Opportunity | Min Salary | Due to limitations I can't cram this in via Product or Price Book Entry, and since the Opp is for only one Product, this seems workable |
+| | | Max Salary | See above |
 | Long Text | Product | Description | 32,768 characters. This is for the Job Role info |
 | Long Text | Opportunity Product | Product Description (Long) | 32,768 characters. This is for a Flow to push from Product to here |
 | Flow | Record-Trigger | Look here -> | NAME: Opp Line Item - After Create - OLI Desc from Prod Desc<br>DESC: When an Opportunity Product is added, it will take the Description from the Product and put it into the (Long) field on the Opp Product<br>- Trigger the Flow When: A record is created<br>- Update Product Description (Long) from OppLineItm > PID > Description |
