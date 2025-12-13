@@ -23,7 +23,9 @@
 | | | Interview | Specific to job hunting |
 | Lt Rec Pg | Opportunity | Opp_Interview | Specific to job hunting |
 | Picklist | Opportunity | Source_Interview| Specific to job hunting<br>Show what you like, but I have the Products Related List as a Related List (Basic List) - Single and only showing the Product and the Product Description (Long). Yes, this is... large... but it shows the data I'm after. |
-| | Opportunity | Interview Stages | Applied (0%) [Omitted]<br>Phone Screen (10%)<br>1st Round (25%)<br>2nd Round(50%)<br>Final Round (75%)<br>Standard Closed Won/Lost |
+| | | Interview Stages | Applied (0%) [Omitted]<br>Phone Screen (10%)<br>1st Round (25%)<br>2nd Round(50%)<br>Final Round (75%)<br>Standard Closed Won/Lost |
+| | | Location | Hybrid<br>On-Site<br>Remote |
+| | | Employment Type | Contract<br>Full-Time<br>Part-Time<br>Temp |
 | Currency | Opportunity | Min Salary | Due to limitations I can't cram this in via Product or Price Book Entry, and since the Opp is for only one Product, this seems workable |
 | | | Max Salary | See above |
 | Lookup | Opportunity | Initial Contact | This is more for Recruiters, but this reminds me who I should be looking for in email and/or LinkedIn, etc. |
@@ -33,8 +35,3 @@
 
 #### Example of Interview Opportunity
 ![Interview Opp](../../assets/images/sfdc-free-opp-interview.png)
-
-!!! tip "To Do"
-    - Add Min / Max Range to Product and Opportunity for Job Products<br>
-    - Add Contract/FTE/Hybrid/Onsite to Product/Opp
-
