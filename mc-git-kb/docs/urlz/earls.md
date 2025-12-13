@@ -1,6 +1,14 @@
 ## McBookmarks!
 <small>Right-click and Open in New Tab</small>
 
+#### API-Related
+- [API List (Free API marketplace)](https://apilist.fun/)
+- [JSON Placeholder (fake data)](https://jsonplaceholder.typicode.com/)
+- [Rapid API (API marketplace)](https://rapidapi.com/hub)
+- [REST Countries](https://restcountries.com/)
+- [The Movie Database](https://developer.themoviedb.org/docs/getting-started)
+- [Weather API](https://openweathermap.org/api)
+
 #### Compliance-Related
 - [SOX Compliance 2025 Complete Guide](https://auditboard.com/blog/sox-compliance)
 
