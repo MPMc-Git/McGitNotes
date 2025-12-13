@@ -3,7 +3,9 @@
 
 ## For Excel
 #### Custom Column Format For Insert, Upload, Upserts (Date, Date/Time)
-> yyyy-mm-ddThh:mm:ssZ
+```excel
+yyyy-mm-ddThh:mm:ssZ
+```
 
 #### Convert ID 15 to ID 18
 > =CONCATENATE(A2,<br />
