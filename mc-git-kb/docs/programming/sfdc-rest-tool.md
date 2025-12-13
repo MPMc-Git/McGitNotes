@@ -102,5 +102,5 @@ ORDER By RefMetadataComponentName
 <small>...via REST Explorer Utility in Workbench</small>
 
 ```sql
-SELECT+RefMetadataComponentName,+MetadataComponentId,+MetadataComponentType,+MetadataComponentName+FROM+MetadataComponentDependency+WHERE+RefMetadataComponentType+=+'CustomField'+AND+RefMetadataComponentId+=+'<FIELDID>'+ORDER+By+RefMetadataComponentName
+SELECT+RefMetadataComponentName,MetadataComponentId,MetadataComponentType,MetadataComponentName+FROM+MetadataComponentDependency+WHERE+RefMetadataComponentType='CustomField'+AND+RefMetadataComponentId='<FIELDID>'+ORDER+By+RefMetadataComponentName
 ```
