@@ -3,12 +3,12 @@
 
 ## For Excel
 #### Custom Column Format For Insert, Upload, Upserts (Date, Date/Time)
-```excel
+```sql
 yyyy-mm-ddThh:mm:ssZ
 ```
 
 #### Convert ID 15 to ID 18
-```excel
+```sql
 =CONCATENATE(A2,
 MID("ABCDEFGHIJKLMNOPQRSTUVWXYZ012345",(
  IFERROR(IF(FIND(MID(A2,1,1),"ABCDEFGHIJKLMNOPQRSTUVWXYZ")>0,1,0),0)
@@ -37,20 +37,20 @@ MID("ABCDEFGHIJKLMNOPQRSTUVWXYZ012345",(
 #### Hyperlink to Record
 This creates a Hyperlink that'll work in any Salesforce Organization - no hardcoding the URL<br>
 'Task Link' is what will be displayed
-```excel
+```sql
 HYPERLINK(
 LEFT($Api.Partner_Server_URL_550, FIND( '/services', $Api.Partner_Server_URL_550)) & Id, 'Task Link')
 ```
 
 Same code but for a Flow
-```excel
+```sql
 HYPERLINK(
 LEFT($Api.Partner_Server_URL_550, FIND( '/services', $Api.Partner_Server_URL_550)) & {!$Record.Id}, 'Task Link')
 ```
 
 #### Show a Date Field as YYYY-MM-DD
 
-```excel
+```sql
 TEXT(YEAR(TODAY()))
 &"-"&
 LPAD(TEXT(MONTH(TODAY())),2,"0")
@@ -61,7 +61,7 @@ LPAD(TEXT(MONTH(DAY())),2,"0")
 #### How Long Have You Been Employed?
 Assumes that "HireDate" is a Custom Field and you're not using the CreatedDate
 
-```excel
+```sql
 IF(ISBLANK(<HireDate>),'',
 TEXT(FLOOR((TODAY() - <HireDate>)/365)) &' Year(s)' & ' ' &
 TEXT(FLOOR(MOD((TODAY() - <HireDate>),365)/30)) &' Month(s)' & ' ' &
@@ -71,7 +71,7 @@ TEXT(MOD(MOD((TODAY() - <HireDate>),365),30)) &' Day(s)')
 #### Determine User’s Time Offset
 https://trailhead.salesforce.com/trailblazer-community/feed/0D54S00000A8oF2SAJ
 
-```excel
+```sql
 (DATEVALUE(DATETIMEVALUE(TEXT(TODAY())+" 00:00:00")) - TODAY()) +
 (DATEVALUE(DATETIMEVALUE(TEXT(TODAY())+" 01:00:00")) - TODAY()) +
 (DATEVALUE(DATETIMEVALUE(TEXT(TODAY())+" 02:00:00")) - TODAY()) +
@@ -103,7 +103,7 @@ https://trailhead.salesforce.com/trailblazer-community/feed/0D54S00000A8oF2SAJ
 Based on Review Frequency, set the next correct date. The below is for a Flow.<br>
 <small>...no more rhyming now, I mean it!</small>
 
-```excel
+```sql
 CASE({!$Record.<FrequencyField>},
 "Quarterly",
 IF(AND(
@@ -144,12 +144,12 @@ NULL)
 #### Anniversary Date
 This is just a Formula to use in a Flow to update a custom Anniversary Date field. It basically just jumps the year ahead. This field is what's required for the next bit so I'm including it here.
 
-```excel
+```sql
 DATE( YEAR(TODAY()) +1, MONTH(TODAY()), DAY(TODAY()) )
 ```
 
 This is so you know a week ahead of time an anniversary date is coming - which is based on a custom field updated by a Flow that's mentioned directly above.
-```excel
+```sql
 CASE(1,
 /* Sunday */
  IF(AND(DAYOFYEAR({!$Record.<AnniversaryDate>}) - DAYOFYEAR(TODAY()) = 6, WEEKDAY(TODAY()) = 2), 1, 0), 7,
@@ -169,7 +169,7 @@ NULL)
 ```
 
 The same formula above but as a Formula field. I built this while troubleshooting and it helped me figure out which day is the day.
-```excel
+```sql
 CASE(1,
 /* Sunday */
 IF(AND(DAYOFYEAR(Anniversary_Date__c) - DAYOFYEAR(TODAY()) = 6, WEEKDAY(TODAY()) = 2), 1, 0), 17,
