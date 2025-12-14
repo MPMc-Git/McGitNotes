@@ -5,6 +5,7 @@
 
 #### 365 Days of Inspirations
 - [Inspirational Women](subpts2p/365days/365-women.md)
+- [Daily Philosophy](subpts2p/365days/365-philosophy.md)
 
 ## Random Sayings About Inspiration
 <small>Pretty sure I can't pronounce any of these</small>
