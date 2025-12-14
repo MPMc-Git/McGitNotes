@@ -9,6 +9,4 @@
 \#DataCloud #MarketingCloud #ServiceCloud #SalesCloud<br>
 \#Salesforce #SFDC #AwesomeAdmins #SalesforceAdmin #SalesforceDeveloper #SalesforceFlow #SalesforceCommunity #SalesforceJobs #SalesforceTips #SalesforceCertified
 
-
 [//]: # ( A Markdown Comment. HIDDEN! )
-
