@@ -59,6 +59,7 @@ nav:
     - Inspirationals:
       - General: pts2p/inspirationals.md # Formatted
       - Daily Philosophy: pts2p/subpts2p/365days/365-philosophy.md # Formatted
+      - Daily Psychology: pts2p/subpts2p/365days/365-psychology.md # Formatted      
       - Inspiring Women: pts2p/subpts2p/365days/365-women.md # Formatted
   - Programming Languages: 
     - General: programming/general.md # Formatted
