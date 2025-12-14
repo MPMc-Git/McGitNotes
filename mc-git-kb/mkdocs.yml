@@ -18,10 +18,10 @@ theme:
   custom_dir: docs/overrides
   features:
     - navigation.insant # Instant navigation
-    # - navigation.sections # Sectioned navigation
-      # Removed navigation.tabs due to issues with screen sizing
     - search.suggest # Helpful search suggestions
     - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
+      # Removed navigation.sections so I could have drop-downs
+      # Removed navigation.tabs due to issues with screen sizing
   palette:
     # 1. Dark Mode Palette
     - scheme: slate
