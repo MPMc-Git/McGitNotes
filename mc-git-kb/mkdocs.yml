@@ -17,7 +17,9 @@ theme:
   name: material
   custom_dir: docs/overrides
   features:
-    - navigation.tabs # Top-level navigation
+    - navigation.insant # Instant navigation
+    - navigation.sections # Sectioned navigation
+      # Remoevd navigation.tabs due to issues with screen sizing
     - search.suggest # Helpful search suggestions
     - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
   palette:
