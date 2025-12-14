@@ -223,16 +223,24 @@ th {
 </table>
 </div>
 
-
-
 ## Access-Related
-#### 
-
-#### Specific Record Access for Specific User ID
-> SELECT RecordId, MaxAccessLevel, HasAllAccess, HasDeleteAccess, HasEditAccess, HasReadAccess, HasTransferAccess
-> FROM UserRecordAccess
-> WHERE UserId = '005...'
-> AND RecordId = '001...'
+<div class="center-table-container">
+<table>
+  <tr>
+   <th>Specific Record Access for Specific User ID</th>
+  </tr>
+  <tr>
+   <td>
+    ```sql
+    SELECT RecordId, MaxAccessLevel, HasAllAccess, HasDeleteAccess, HasEditAccess, HasReadAccess, HasTransferAccess
+    FROM UserRecordAccess
+    WHERE UserId = '005...'
+    AND RecordId = '001...'
+    ```
+   </td>
+  </tr>
+</table>
+</div>
 
 #### All Permission Sets in Permission Set Groups
 > SELECT Id, PermissionSetGroupId, PermissionSetGroup.MasterLabel, PermissionSetId, PermissionSet.Name
