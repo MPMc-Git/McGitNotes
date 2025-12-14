@@ -20,6 +20,8 @@ td {
 
 ## 365 Inspiring Women (Dae Lee)
 
+[//]: # <td><span class="sm-text"></span><br><span class="xs-text"></span></td>
+
 <table>
  <tr>
   <th colspan=5>December</th>
@@ -34,5 +36,8 @@ td {
  <tr>
    <td><span class="sm-text">Constance Markievicz</span><br><span class="xs-text">Irish revolutionary, suffragist, and the first woman elected to the British House of Commons.</span></td>
    <td><span class="sm-text">Barbara Walters</span><br><span class="xs-text">American broadcast journalist, author, and television personality.</span></td>
+   <td><span class="sm-text">Sayyida al Hurra</span><br><span class="xs-text">A pirate queen who ruled the western Mediterranean Sea for over two decades during the early 16th century, and the last woman to hold the title of "al Hurra" (Queen) in Islamic history.</span></td>
+   <td><span class="sm-text">Kate Sheppard</span><br><span class="xs-text">The most prominent member of the women's suffrage movement in New Zealand and the country's most famous suffragette.</span></td>
+   <td><span class="sm-text">Katharine Hepburn</span><br><span class="xs-text">A leading lady in Hollywood for more than 60 years. She received four Academy Awards for Best Actress—a record for any performer.</span></td>
  </tr>
 </table>

@@ -19,3 +19,10 @@
 | Welsh | Ysbrydoliaeth a'r Awen | "Inspiration and the Awen" |
 | Welsh | O Ffwrnais Awen | "From the furnace of Awen" |
 | Welsh | Awen yn codi o'r cudd | "Awen arising from the deep (or from what is hidden)" |
+
+## Random Quotes
+| From | What |
+| :--- | :--- |
+| Kate Sheppard | "All that separates, whether of race, class, creed, or sex, is inhuman, and must be overcome." |
+| Barbara Walters | "To feel valued, to know, even if only once in a while, that you can do a job well is an absolutely marvelous feeling." |
+| Yayoi Kusama | "I convert the energy of life into dots of the universe... they are a way to infinity." |
