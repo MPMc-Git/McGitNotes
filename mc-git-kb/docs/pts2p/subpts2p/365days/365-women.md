@@ -35,8 +35,8 @@ td {
 ### September
 ### October
 ### November
-### December
 
+### December
 <table>
  <tr>
   <td><span class="sm-text">Margaret Hamilton</span><br><span class="xs-text">Computer scientist and systems engineer who played a crucial role in the development of software for NASA's Apollo missions.</span></td>
