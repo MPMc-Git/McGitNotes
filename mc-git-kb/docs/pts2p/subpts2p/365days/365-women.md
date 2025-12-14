@@ -30,9 +30,7 @@ td {
 [//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
 <div class="ctr-hdr">
-
-#### December
-
+<h4>December</h4>
 </div>
 
 <table>
