@@ -1,6 +1,5 @@
 # Welcome to the McKnowledgeBase
-<small>...nothing is ever truly complete...</small><br>
-**NOTE**: Some items are in multiple places, so you may be teleported elsewhere.
+<small>...nothing is ever truly complete...</small>
 
 #### Hashtags I Try To Use
 \#McKB<br>
