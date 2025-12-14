@@ -232,7 +232,10 @@ th {
   <tr>
    <td>
     ```sql
-    SELECT RecordId, MaxAccessLevel, HasAllAccess, HasDeleteAccess, HasEditAccess, HasReadAccess, HasTransferAccess
+    SELECT RecordId, MaxAccessLevel,
+     HasAllAccess, HasDeleteAccess,
+      HasEditAccess, HasReadAccess,
+       HasTransferAccess
     FROM UserRecordAccess
     WHERE UserId = '005...'
     AND RecordId = '001...'
