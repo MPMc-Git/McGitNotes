@@ -18,16 +18,22 @@ td {
 .xs-text {
     font-size: 0.5rem !important;
 }
+
+.ctr-hdr {
+    text-align: center !important;
+}
+
 </style>
 
 ## 365 Inspiring Women (Dae Lee)
 
 [//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
+<div class="ctr-hdr">
+#### December
+</div>
+
 <table>
- <tr>
-  <th colspan=5>December</th>
- </tr>
  <tr>
   <td><span class="sm-text">Margaret Hamilton</span><br><span class="xs-text">Computer scientist and systems engineer who played a crucial role in the development of software for NASA's Apollo missions.</span></td>
   <td><span class="sm-text">Yayoi Kusama</span><br><span class="xs-text">Japanese contemporary artist known for her extensive use of polka dots and for her immersive, large-scale installations.</span></td>
