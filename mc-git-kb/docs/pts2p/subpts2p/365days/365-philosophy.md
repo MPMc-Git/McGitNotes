@@ -24,10 +24,20 @@ td {
 
 [//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
+### January
+### February
+### March
+### April
+### May
+### June
+### July
+### August
+### September
+### October
+### November
+
+### December
 <table>
- <tr>
-  <th colspan=5>December</th>
- </tr>
  <tr>
   <td><span class="sm-text">Internal Realism</span><br><span class="xs-text">Hilary Putnam moved from strict realism to “internal realism,” observing that how we describe reality depends on our conceptual schemes.</span></td>
   <td><span class="sm-text">Functionalism</span><br><span class="xs-text">Putnam’s functionalism redefined mind-body discussions by focusing on what mental states do. If a system processes inputs (like sense data) and outputs (like behaviors) in ways that mirror, say, pain or belief, it counts as having that mental state.</span></td>
