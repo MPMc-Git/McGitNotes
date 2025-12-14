@@ -2,6 +2,7 @@
 
 | What | Why |
 | :--- | :--- |
+| `ln -s path/to/file/name.ext new/path/name.ext` | Symbolic Link |
 | `sudo apt update` | Seriously, have APT run an Update Check |
 | `sudo apt install code` | You guessed it, update ONLY VSCode |
 | `sudo strings /sys/firmware/acpi/tables/MSDM` | Get Product Key from BIOS/UEFI |

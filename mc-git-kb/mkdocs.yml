@@ -49,7 +49,7 @@ nav:
     - Markdown - Mkdocs: markup/mkdocs.md # Formatted
     - YAML: markup/yaml.md # Currently blank
   - OS Specifics: 
-    - Bash (Used in Linux): scripting/bash.md # Formatted
+    - Bash (Used in Linux): oses/bash.md # SymLinked
     - Linux: oses/linux.md # Formatted
     - Via (Used in Linux): oses/via.md # Formatted
   - Points to Ponder:
@@ -63,15 +63,15 @@ nav:
   - Querying Languages: 
     - JQL/Jira: querying/jira.md # Formatted
     - Regex: querying/regex.md # Formatted
-    - SOQL: querying/soql.md
+    - SOQL: querying/soql.md # WIP
     - SQL: querying/sql.md # Formatted
   - Salesforce:
     - Apex: programming/apex.md # Formatted
     - Apps / Extensions: salesforce/sfdc-apps-exts.md
     - Formulas: salesforce/sfdc-formulae.md
     - Free Tier: salesforce/sfdc-free-tier.md # Formatted
-    - Rest/Tooling API: programming/sfdc-rest-tool.md # Formatted
-    - SOQL: querying/soql.md
+    - Rest/Tooling API: salesforce/sfdc-rest-tool.md # SymLinked
+    - SOQL: salesforce/soql.md # SymLinked
     - Validation Rules: salesforce/sfdc-val-rulz.md # Formatted
   - Scripting Languages: 
     - Bash: scripting/bash.md # Formatted
