@@ -11,6 +11,8 @@ td {
 
 .sm-text {
     font-size: 0.625rem !important;
+    font-weight: bold !important;
+    text-decoration: underline !important;
 }
 
 .xs-text {
@@ -20,17 +22,17 @@ td {
 
 ## 365 Days of Philosophy (Dae Lee)
 
-[//]: # <td><span class="sm-text"></span><br><span class="xs-text"></span></td>
+[//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
 <table>
  <tr>
   <th colspan=5>December</th>
  </tr>
  <tr>
-  <td><span class="sm-text"></span><br><span class="xs-text"></span></td>
-  <td><span class="sm-text"></span><br><span class="xs-text"></span></td>
-  <td><span class="sm-text"></span><br><span class="xs-text"></span></td>
-  <td><span class="sm-text"></span><br><span class="xs-text"></span></td>
+  <td><span class="sm-text">Internal Realism</span><br><span class="xs-text">Hilary Putnam moved from strict realism to “internal realism,” observing that how we describe reality depends on our conceptual schemes.</span></td>
+  <td><span class="sm-text">Functionalism</span><br><span class="xs-text">Putnam’s functionalism redefined mind-body discussions by focusing on what mental states do. If a system processes inputs (like sense data) and outputs (like behaviors) in ways that mirror, say, pain or belief, it counts as having that mental state.</span></td>
+  <td><span class="sm-text">Universal Grammar</span><br><span class="xs-text">Noam Chomsky, an American linguist and cognitive scientist, revolutionized language studies by suggesting children have an inborn “universal grammar.” While each language differs in specifics, Chomsky believed they share deep structural rules that the child’s mind expects.</span></td>
+  <td><span class="sm-text">Political Activism</span><br><span class="xs-text">Noam Chomsky condemned how governments and elites manipulate information to maintain control. His broader theme: “Manufacturing consent” isn’t always done via brute censorship; it’s often subtle. Media rely on official sources, choosing frames that cast authority in a good light or demonize opponents.</span></td>
   <td><span class="sm-text"></span><br><span class="xs-text"></span></td>
  </tr>
  <tr>
