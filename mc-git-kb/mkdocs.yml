@@ -56,7 +56,9 @@ nav:
     - Via (Used in Linux): oses/via.md # ORIGINAL
   - Points to Ponder:
     - From LinkedIn: pts2p/from-linkedin.md
-    - Inspirationals: pts2p/inspirationals.md # Formatted
+    - Inspirationals:
+      - General: pts2p/inspirationals.md # Formatted
+      - Inspiring Women: pts2p/subpts2p/365days/365-women.md # Formatted
   - Programming Languages: 
     - General: programming/general.md # Formatted
     - Apex: programming/apex.md # Formatted
