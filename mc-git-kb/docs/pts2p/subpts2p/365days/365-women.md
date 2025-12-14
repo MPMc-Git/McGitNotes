@@ -11,6 +11,7 @@ td {
 
 .sm-text {
     font-size: 0.625rem !important;
+    font-weight: bold;
 }
 
 .xs-text {
