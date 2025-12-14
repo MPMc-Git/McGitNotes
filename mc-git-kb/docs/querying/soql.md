@@ -69,7 +69,6 @@ th {
     - [...for Reports](https://help.salesforce.com/s/articleView?id=analytics.filter_dates_relative.htm&type=5)
     - [...for SOQL](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_dateformats.htm)
 
-
 ## Users 
 <div class="center-table-container">
 <table>
@@ -227,7 +226,7 @@ th {
 <div class="center-table-container">
 <table>
   <tr>
-   <th>Specific Record Access for Specific User ID</th>
+   <th>Record Access for User ID</th>
   </tr>
   <tr>
    <td>
