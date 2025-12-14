@@ -18,20 +18,13 @@ td {
 .xs-text {
     font-size: 0.5rem !important;
 }
-
-.ctr-hdr {
-    text-align: center !important;
-}
-
 </style>
 
 ## 365 Inspiring Women (Dae Lee)
 
 [//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
-<div class="ctr-hdr">
-<h4>December</h4>
-</div>
+### December
 
 <table>
  <tr>
