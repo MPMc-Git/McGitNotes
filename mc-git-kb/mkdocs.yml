@@ -49,7 +49,7 @@ nav:
     - Markdown - Mkdocs: markup/mkdocs.md # Formatted
     - YAML: markup/yaml.md # Currently blank
   - OS Specifics: 
-    - Bash (Used in Linux): oses/bash.md # Copied from Original
+    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
     - Linux: oses/linux.md # Formatted
     - Via (Used in Linux): oses/via.md # Formatted
   - Points to Ponder:
@@ -70,8 +70,8 @@ nav:
     - Apps / Extensions: salesforce/sfdc-apps-exts.md
     - Formulas: salesforce/sfdc-formulae.md
     - Free Tier: salesforce/sfdc-free-tier.md # Formatted
-    - Rest/Tooling API: salesforce/sfdc-rest-tool.md # Copied from Original
-    - SOQL: salesforce/soql.md # Copied from Original
+    - Rest/Tooling API: salesforce/sfdc-rest-tool-cp.md # Copied from Original
+    - SOQL: salesforce/soql-cp.md # Copied from Original
     - Validation Rules: salesforce/sfdc-val-rulz.md # Formatted
   - Scripting Languages: 
     - Bash: scripting/bash.md # Formatted
