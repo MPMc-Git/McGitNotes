@@ -44,7 +44,7 @@ nav:
   - URLs: urlz/earls.md # Formatted
   - Gaming-Related:
     - Minecraft: gaming/minecraft.md # Formatted
-    - Via: oses/via.md # Formatted
+    - Via: gaming/via-cp.md # Copied from Original
   - Markup Languages:
     - HTML: markup/html.md # Formatted
     - Markdown: markup/markdown.md # Formatted
@@ -53,7 +53,7 @@ nav:
   - OS Specifics: 
     - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
     - Linux: oses/linux.md # Formatted
-    - Via (Used in Linux): oses/via.md # Formatted
+    - Via (Used in Linux): oses/via.md # ORIGINAL
   - Points to Ponder:
     - From LinkedIn: pts2p/from-linkedin.md
     - Inspirationals: pts2p/inspirationals.md # Formatted
