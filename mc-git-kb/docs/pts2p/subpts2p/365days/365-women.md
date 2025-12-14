@@ -11,7 +11,8 @@ td {
 
 .sm-text {
     font-size: 0.625rem !important;
-    font-weight: bold;
+    font-weight: bold !important;
+    text-decoration: underline !important;
 }
 
 .xs-text {
