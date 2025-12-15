@@ -3,24 +3,26 @@
 winget install -e --id Git.Git
 ```
 
-GitHub Login
+##### GitHub Login
 ```cmd
 gh auth login
 ```
 
-Github People and Team Members
+##### Github People and Team Members
 ```cmd
 gh api /orgs/ORGNAME/members -X GET --jq ".[].login" -F per_page=100 --paginate<br />
 
 gh api /orgs/ORGNAME/teams/TEAMNAME/members -X GET --jq ".[] | .login" -F per_page=100 --paginate
 ```
 
-GitHub Audit Logs use Epoch Date - you can convert in Excel/Sheets
+##### GitHub Audit Logs use Epoch Date - you can convert in Excel/Sheets
 ```excel
 =EPOCHTODATE($A2,2)
 ```
 
-| <b><u>OTHER</b></u> | |
+<h5><u>OTHER</u></h5>
+
+| | |
 | :--- | :--- |
 | **Repos** | |
 | <small>Initialize a new Repo</small> | `git init` |
