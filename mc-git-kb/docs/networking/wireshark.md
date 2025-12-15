@@ -1,5 +1,4 @@
 ## Wireshark Filters
-###### - No clue where I got this from
 
 | Filter | Purpose |
 |:-- | :-- |
