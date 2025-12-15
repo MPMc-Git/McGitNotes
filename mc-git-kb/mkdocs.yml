@@ -50,6 +50,9 @@ nav:
     - Markdown: markup/markdown.md # Formatted
     - Markdown - Mkdocs: markup/mkdocs.md # Formatted
     - YAML: markup/yaml.md # Currently blank
+  - Networking:
+    - NMAP: networking/nmap.md # Formatted
+    - Wireshark: networking/wireshark.md # Formatted
   - OS Specifics: 
     - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
     - Linux: oses/linux.md # Formatted
