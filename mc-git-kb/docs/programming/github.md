@@ -20,7 +20,7 @@ gh api /orgs/ORGNAME/teams/TEAMNAME/members -X GET --jq ".[] | .login" -F per_pa
 =EPOCHTODATE($A2,2)
 ```
 
-<h5><u>OTHER</u></h5>
+##### OTHER
 
 | | |
 | :--- | :--- |
