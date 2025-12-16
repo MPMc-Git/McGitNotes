@@ -37,3 +37,10 @@ td {
 ### November
 
 ### December
+<tr>
+ <td><span class="sm-text"><td><span class="sm-text"></span><br><span class="xs-text">A person of the same age; a contemporary.</span></td></span><br><span class="xs-text"></span></td>
+ <td><span class="sm-text">Yestreen</span><br><span class="xs-text">Last evening or night.</span></td>
+ <td><span class="sm-text">Yonic</span><br><span class="xs-text">Relating to or resembling the female genitalia.</span></td>
+ <td><span class="sm-text">Yaff</span><br><span class="xs-text">To bark sharply; yelp.</span></td>
+ <td><span class="sm-text">Yawp</span><br><span class="xs-text">A harsh or hoarse cry or yelp.</span></td>
+</tr>
