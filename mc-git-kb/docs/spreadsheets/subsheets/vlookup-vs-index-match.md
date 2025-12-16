@@ -13,7 +13,7 @@ VLOOKUP is easily the standard lookup method in the various spreadsheet applicat
 
 ##### VLOOKUP Sample
 If I want to know who the Villain is in Star Wars, this is how VLOOKUP locates that:
-```text {.excel-formula}
+```lua
 =VLOOKUP(A2:A3,1,0)
 ```
 
