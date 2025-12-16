@@ -90,3 +90,4 @@ nav:
     - Excel / Sheets: spreadsheets/excel-lent.md # Formatted
     - Smartsheet: spreadsheets/smartsheet.md # Formatted
     - VBA: scripting/vba.md # Formatted
+    - VLOOKUPS vs INDEX-MATCH: spreadsheets/vlookup-vs-index-match.md # Formatted
