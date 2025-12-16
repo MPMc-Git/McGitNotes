@@ -13,25 +13,25 @@ VLOOKUP is easily the standard lookup method in the various spreadsheet applicat
 
 ##### VLOOKUP Sample
 If I want to know who the Villain is in Star Wars, this is how VLOOKUP locates that:
-```r
+```lua
 =VLOOKUP(A2:A3,1,0)
 ```
 
 ##### INDEX-MATCH Sample
 What if I want to see what Franchise Davy Jones is from?
-```excel
+```lua
 =INDEX(A:A,MATCH(B:B="Davy Jones",0))
 ```
 
 ##### INDEX-MATCH AND Sample
 What if I want to find information based on more than one criteria?
-```excel
+```lua
 =INDEX(A:A,MATCH(1,(C:C="Organ")*(E:E="Calypso")))
 ```
 ...but, why? Because the MATCH is looking for a result of 1, and each option will return either a 1 or a 0. Multiple those together.
 
 #### INDEX-MATCH OR Sample
-```excel
+```lua
 =INDEX(A:A,MATCH(1,(C:C="Organ")+(E:E="Calypso")))
 ```
 ...but, why? Because the MATCH is looking for a result of 1, and each option will return either a 1 or a 0. Add those together.
