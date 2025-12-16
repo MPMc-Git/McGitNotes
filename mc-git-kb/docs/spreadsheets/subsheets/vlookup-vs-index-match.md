@@ -5,7 +5,7 @@ VLOOKUP is easily the standard lookup method in the various spreadsheet applicat
 
 ##### DATA Example
 | | A | B | C | D | E |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--: | :--- | :--- | :--- | :--- | :--- |
 | 1 | **Franchise** | **Villain** | **Weapon** | **Feature** | **Loves** |
 | 2 | Star Wars | Darth Vader | Lightsaber | Helmet | Padme |
 | 3 | Pirates | Davy Jones | Organ | Octopus | Calypso |
