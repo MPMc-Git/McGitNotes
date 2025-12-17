@@ -41,7 +41,7 @@ theme:
 
 # Define the navigation structure
 nav:
-  - Home: index.md # Formatted
+  - Front Page: index.md # Formatted
   - URLs: urlz/earls.md # Formatted
   - Gaming-Related:
     - Minecraft: gaming/minecraft.md # Formatted
