@@ -1,4 +1,6 @@
-# Welcome to the McKnowledgeBase
+# Codex Informationum te salutat
+Welcome to the McKB, where I store as much information as I can muster. Most of it's technicaly, but check out the menu!
+
 <small>...nothing is ever truly complete...</small>
 
 #### Hashtags I Try To Use
