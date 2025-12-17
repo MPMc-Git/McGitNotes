@@ -1,7 +1,7 @@
 <div style="text-align: center;">
  <img src="assets/images/codex-informationum.png" width="50%" height="50%">
+ <br><small>...nothing is ever truly complete...</small>
 </div>
-<small>...nothing is ever truly complete...</small>
 
 [//]: # ( Literal translation: "The Book of Information greets you." )
 
