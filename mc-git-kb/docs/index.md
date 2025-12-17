@@ -1,10 +1,9 @@
 <div style="text-align: center;">
  <img src="assets/images/codex-informationum.png">
 </div>
+<small>...nothing is ever truly complete...</small>
 
 [//]: # ( Literal translation: "The Book of Information greets you." )
-
-<small>...nothing is ever truly complete...</small>
 
 **Welcome** to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu!
 
