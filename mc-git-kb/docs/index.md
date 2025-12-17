@@ -7,7 +7,7 @@
 
 **Welcome** to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu!
 
-#### Hashtags You May See Me Use
+**Hashtags You May See Me Use**
 \#McKB #AlwaysBeCurious #BattleTested #ExpertGeneralist #TechMerc #OpenSource<br>
 \#Apex #Excel #HTML #JQL #Markdown #Python #SOQL #SQL #VSCode<br>
 \#AgentBlazer #AgentForce #Trailblazer #Trailhead<br>
