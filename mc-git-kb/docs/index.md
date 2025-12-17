@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- <img src="assets/images/codex-informationum.png">
+ <img src="assets/images/codex-informationum.png" width="50%" height="50%">
 </div>
 <small>...nothing is ever truly complete...</small>
 
