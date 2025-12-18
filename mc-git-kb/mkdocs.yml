@@ -6,11 +6,11 @@ site_description: A collection of formulas, SOQL queries, and technical notes.
 markdown_extensions:
   - admonition # For notes, warnings, etc.
   - attr_list # Allows setting attributes on the code block
+  - meta
   - pymdownx.details # For collapsible content
   - pymdownx.emoji # Emoji support
   - pymdownx.highlight # Enhanced syntax highlighting
   - pymdownx.inlinehilite # Inline code highlighting
-  - pymdownx.meta
   - pymdownx.superfences # Advanced fenced code blocks
   - pymdownx.tabbed # For tabbed content
 
