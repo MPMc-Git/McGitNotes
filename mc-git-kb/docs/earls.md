@@ -1,3 +1,12 @@
+---
+tags:
+  - Home
+  - API
+  - Bookmarks
+  - Database
+  - Salesforce
+---
+
 ## McBookmarks!
 <small>Right-click and Open in New Tab</small>
 

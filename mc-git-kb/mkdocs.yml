@@ -12,15 +12,20 @@ markdown_extensions:
   - pymdownx.inlinehilite # Inline code highlighting
   - pymdownx.superfences # Advanced fenced code blocks
   - pymdownx.tabbed # For tabbed content
+  - pymdownx.tags # For tagging content
 
 # Use the Material theme
 theme:
   name: material
   custom_dir: docs/overrides
   features:
-    - navigation.insant # Instant navigation
-    - search.suggest # Helpful search suggestions
     - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
+    - content.tabs.link
+    - navigation.indexes
+    - navigation.insant # Instant navigation
+    - search.highlight
+    - search.share
+    - search.suggest # Helpful search suggestions
       # Removed navigation.sections so I could have drop-downs
       # Removed navigation.tabs due to issues with screen sizing
   palette:
@@ -41,11 +46,14 @@ theme:
 
 # Define the navigation structure
 nav:
-  - Front Page: index.md # Formatted
-  - URLs: urlz/earls.md # Formatted
-  - Gaming-Related:
+# -> FIX THIS    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
+# -> FIX THIS    - Via (Used in Linux): oses/via.md # ORIGINAL
+  - Start Here: start-here.md # Formatted
+  - URLz: earls.md # Formatted
+  - Gaming:
     - Minecraft: gaming/minecraft.md # Formatted
     - Via: gaming/via-cp.md # Copied from Original
+  - Linux: oses/linux.md # Formatted
   - Markup Languages:
     - HTML: markup/html.md # Formatted
     - Markdown: markup/markdown.md # Formatted
@@ -54,10 +62,6 @@ nav:
   - Networking:
     - NMAP: networking/nmap.md # Formatted
     - Wireshark: networking/wireshark.md # Formatted
-  - OS Specifics: 
-    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
-    - Linux: oses/linux.md # Formatted
-    - Via (Used in Linux): oses/via.md # ORIGINAL
   - Points to Ponder:
     - Main: pts2p/index-pts2p.md # Formatted
     - From LinkedIn: pts2p/from-linkedin.md
