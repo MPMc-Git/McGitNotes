@@ -2,7 +2,8 @@
 - [Salesforce ID-18 Breakdown](subsfdc/salesforce-id18.md)
 
 ## For Excel
-#### Custom Column Format For Insert, Upload, Upserts (Date, Date/Time)
+#### Date / DateTime Format<br>
+Custom Column Format For Insert, Upload, Upserts 
 ```sql
 yyyy-mm-ddThh:mm:ssZ
 ```
