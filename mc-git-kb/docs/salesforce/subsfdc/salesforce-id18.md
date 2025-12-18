@@ -6,3 +6,6 @@
 | 7 | For Future Use | |
 | 8-15 | Record Number | |
 | 16-18 | Suffix (for case-sensitivity) | Thanks, Excel |
+
+**NOTE** If you want to generate those three values on your own, check this out!<br>
+[Convert ID15 to ID18](../../sfdc-formulae/#convert-id-15-to-id-18)

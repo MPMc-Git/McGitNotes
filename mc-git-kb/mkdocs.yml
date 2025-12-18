@@ -77,6 +77,9 @@ nav:
     - SOQL: querying/soql.md # ORIGINAL
     - SQL: querying/sql.md # Formatted
   - Salesforce:
+    - Add'l:
+      - ID18: salesforce/subsfdc/salesforce-id18.md # Formatted
+      - Order of Execution: salesforce/subsfdc/sfdc-ooe.md # Formatted
     - Apex: programming/apex.md # Formatted
     - Apps / Extensions: salesforce/sfdc-apps-exts.md
     - Formulas: salesforce/sfdc-formulae.md
