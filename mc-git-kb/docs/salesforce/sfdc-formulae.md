@@ -9,6 +9,7 @@ yyyy-mm-ddThh:mm:ssZ
 ```
 
 #### Convert ID 15 to ID 18
+**NOTE**: Assumes the 15-character ID is in A2
 ```sql
 =CONCATENATE(A2,
 MID("ABCDEFGHIJKLMNOPQRSTUVWXYZ012345",(
