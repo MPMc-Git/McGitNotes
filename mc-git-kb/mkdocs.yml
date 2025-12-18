@@ -59,15 +59,15 @@ nav:
     - Linux: oses/linux.md # Formatted
     - Via (Used in Linux): oses/via.md # ORIGINAL
   - Points to Ponder:
-    - P2P Main: pts2p/index-pts2p.md # Formatted
+    - Main: pts2p/index-pts2p.md # Formatted
     - From LinkedIn: pts2p/from-linkedin.md
-    - Inspirationals:      
+    - Daily P2P:
       - Daily Philosophy: pts2p/365days/365-philosophy.md # Formatted
       - Daily Psychology: pts2p/365days/365-psychology.md # Formatted
       - Forgotten Words: pts2p/365days/365-forgotten-words.md # Formatted
       - Inspiring Women: pts2p/365days/365-women.md # Formatted
   - Programming Languages: 
-    - General: programming/general.md # Formatted
+    - Main: programming/index-pgram.md # Formatted
     - Apex: programming/apex.md # Formatted
     - GitHub: programming/github.md # Formatted
     - REST/Tooling API: programming/sfdc-rest-tool.md # ORIGINAL
