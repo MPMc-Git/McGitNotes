@@ -10,9 +10,18 @@ markdown_extensions:
   - pymdownx.emoji # Emoji support
   - pymdownx.highlight # Enhanced syntax highlighting
   - pymdownx.inlinehilite # Inline code highlighting
+  - pymdownx.meta
   - pymdownx.superfences # Advanced fenced code blocks
   - pymdownx.tabbed # For tabbed content
-  - pymdownx.tag # For tagging content
+
+# Plugins to enhance functionality
+plugins:
+  - search # Built-in search functionality
+  - tags:
+      tags_file: assets/tags.md
+      separator: ',' # Tags separated by commas
+      case_sensitive: false
+      enabled: true
 
 # Use the Material theme
 theme:
