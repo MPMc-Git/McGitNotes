@@ -18,7 +18,7 @@ markdown_extensions:
 plugins:
   - search # Built-in search functionality
   - tags:
-      tags_file: assets/tags.md
+#      tags_file: assets/tags.md
       separator: ',' # Tags separated by commas
       case_sensitive: false
       enabled: true
