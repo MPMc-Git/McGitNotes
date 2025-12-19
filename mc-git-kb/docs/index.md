@@ -14,9 +14,8 @@ tags:
 **Welcome** to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu! I do have a bunch of curiosities, so expect the menu to expand randomly.
 
 !!! note "Updates"
-<br>
-Adding Tags to help searches!
-- See tops of pages for Tags
+    Adding Tags to help searches!
+    - See tops of pages for Tags
 
 <p></p>
 
