@@ -1,3 +1,9 @@
+---
+tags:
+ - Hi-I'm-A-Tag
+ - Look-For-Me
+---
+
 <div style="text-align: center;">
  <img src="assets/images/codex-informationum.png" width="50%" height="50%">
  <br><small>...nothing is ever truly complete...</small>

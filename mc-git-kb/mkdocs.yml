@@ -55,6 +55,7 @@ theme:
 nav:
 # -> FIX THIS    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
 # -> FIX THIS    - Via: gaming/via-cp.md # Copied from Original
+# -> FIX THIS    - Rest/Tooling API: salesforce/sfdc-rest-tool-cp.md # Copied from Original
   - Start Here: index.md # Formatted
   - URLz: earls.md # Formatted
   - Business:
@@ -74,7 +75,6 @@ nav:
     - Wireshark: networking/wireshark.md # Formatted
   - Points to Ponder:
     - Main: index-pts2p.md # Formatted
-    - From LinkedIn: pts2p/from-linkedin.md
     - Daily P2P:
       - Daily Philosophy: pts2p/365days/365-philosophy.md # Formatted
       - Daily Psychology: pts2p/365days/365-psychology.md # Formatted
@@ -94,11 +94,9 @@ nav:
     - Add'l:
       - ID18: salesforce/subsfdc/salesforce-id18.md # Formatted
       - Order of Execution: salesforce/subsfdc/sfdc-ooe.md # Formatted
-    - Apex: programming/apex.md # Formatted
     - Apps / Extensions: salesforce/sfdc-apps-exts.md
     - Formulas: salesforce/sfdc-formulae.md
     - Free Tier: salesforce/sfdc-free-tier.md # Formatted
-    - Rest/Tooling API: salesforce/sfdc-rest-tool-cp.md # Copied from Original
     - SOQL: salesforce/soql-cp.md # Copied from Original
     - Validation Rules: salesforce/sfdc-val-rulz.md # Formatted
   - Scripting Languages: 
