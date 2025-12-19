@@ -10,6 +10,7 @@
 - Debug Logs Analyzer
 - Enhance Salesforce Dashboard
 - Lightning Inspector
+- Org Check
 - Salesforce Change Set Helper
 - Salesforce DevTools
 - Salesforce Enhanced Formula Editor

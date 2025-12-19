@@ -7,6 +7,12 @@
 
 **Welcome** to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu!
 
+**Updates**<br>
+Adding Tags to help searches!
+- See tops of pages for Tags
+
+<p>
+
 **Hashtags You May See Me Use**<br>
 \#McKB #AlwaysBeCurious #BattleTested #ExpertGeneralist #TechMerc #OpenSource<br>
 \#Apex #Excel #HTML #JQL #Markdown #Python #SOQL #SQL #VSCode<br>

@@ -1,11 +1,19 @@
+---
+tags:
+  - 365Days
+  - Daily
+  - Inspiration
+  - Quotes
+---
+
 #### Sub-pages
-- [How to Set Priorities](subpts2p/priorities.md)
-- [Japanese Concepts](subpts2p/japanese-concepts.md)
-- [Storytelling Frameworks](subpts2p/storytelling.md)
+- [How to Set Priorities](pts2p/subpts2p/priorities.md)
+- [Japanese Concepts](pts2p/subpts2p/japanese-concepts.md)
+- [Storytelling Frameworks](pts2p/subpts2p/storytelling.md)
 
 #### 365 Days of Inspirations
-- [Inspirational Women](subpts2p/365days/365-women.md)
-- [Daily Philosophy](subpts2p/365days/365-philosophy.md)
+- [Inspirational Women](pts2p/365days/365-women.md)
+- [Daily Philosophy](pts2p/365days/365-philosophy.md)
 
 ## Random Sayings About Inspiration
 <small>Pretty sure I can't pronounce any of these</small>

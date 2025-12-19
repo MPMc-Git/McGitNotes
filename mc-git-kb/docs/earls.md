@@ -1,10 +1,11 @@
 ---
 tags:
-  - Home
   - API
   - Bookmarks
   - Database
+  - Links
   - Salesforce
+  - URLs
 ---
 
 ## McBookmarks!

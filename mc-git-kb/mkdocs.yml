@@ -54,12 +54,13 @@ theme:
 # Define the navigation structure
 nav:
 # -> FIX THIS    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
-# -> FIX THIS    - Via (Used in Linux): oses/via.md # ORIGINAL
+# -> FIX THIS    - Via: gaming/via-cp.md # Copied from Original
   - Start Here: index.md # Formatted
   - URLz: earls.md # Formatted
   - Gaming:
     - Minecraft: gaming/minecraft.md # Formatted
-    - Via: gaming/via-cp.md # Copied from Original
+  - Hardware:
+    - Via (Keebmonkey): hardware/via.md # ORIGINAL
   - Linux: oses/linux.md # Formatted
   - Markup Languages:
     - HTML: markup/html.md # Formatted
@@ -70,7 +71,7 @@ nav:
     - NMAP: networking/nmap.md # Formatted
     - Wireshark: networking/wireshark.md # Formatted
   - Points to Ponder:
-    - Main: pts2p/index-pts2p.md # Formatted
+    - Main: index-pts2p.md # Formatted
     - From LinkedIn: pts2p/from-linkedin.md
     - Daily P2P:
       - Daily Philosophy: pts2p/365days/365-philosophy.md # Formatted
@@ -78,7 +79,7 @@ nav:
       - Forgotten Words: pts2p/365days/365-forgotten-words.md # Formatted
       - Inspiring Women: pts2p/365days/365-women.md # Formatted
   - Programming Languages: 
-    - Main: programming/index-pgram.md # Formatted
+    - Main: index-pgram.md # Formatted
     - Apex: programming/apex.md # Formatted
     - GitHub: programming/github.md # Formatted
     - REST/Tooling API: programming/sfdc-rest-tool.md # ORIGINAL
