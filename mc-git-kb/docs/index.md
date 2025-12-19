@@ -13,14 +13,14 @@ tags:
 
 **Welcome** to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu! I do have a bunch of curiosities, so expect the menu to expand randomly.
 
-**Updates**{: .text-blue}
+!!! note "Updates"
 <br>
 Adding Tags to help searches!
 - See tops of pages for Tags
 
 <p></p>
 
-!!! note "Hashtags You May See Me Use"
+!!!example "Hashtags You May See Me Use"
     \#McKB #AlwaysBeCurious #BattleTested #ExpertGeneralist #TechMerc #OpenSource<br>
     \#Apex #Excel #HTML #JQL #Markdown #Python #SOQL #SQL #VSCode<br>
     \#AgentBlazer #AgentForce #Trailblazer #Trailhead<br>
