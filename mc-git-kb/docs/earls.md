@@ -12,6 +12,7 @@ tags:
 <small>Right-click and Open in New Tab</small>
 
 #### API-Related
+- [Types of APIs](programming/subpgram/types-of-apis.md)
 - [API List (Free API marketplace)](https://apilist.fun/)
 - [JSON Placeholder (fake data)](https://jsonplaceholder.typicode.com/)
 - [Rapid API (API marketplace)](https://rapidapi.com/hub)

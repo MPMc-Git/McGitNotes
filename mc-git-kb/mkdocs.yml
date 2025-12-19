@@ -57,6 +57,8 @@ nav:
 # -> FIX THIS    - Via: gaming/via-cp.md # Copied from Original
   - Start Here: index.md # Formatted
   - URLz: earls.md # Formatted
+  - Business:
+    - KPI vs KRI: business/kpi-vs-kri.md
   - Gaming:
     - Minecraft: gaming/minecraft.md # Formatted
   - Hardware:

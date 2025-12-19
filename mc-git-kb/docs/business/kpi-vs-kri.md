@@ -1,3 +1,10 @@
+---
+tags:
+  - Business
+  - KPI
+  - KRI
+---
+
 ## Key Performance Indicators vs Key Risk Indicators
 ###### - #LEARNCISMWITHSANTOSH
 
