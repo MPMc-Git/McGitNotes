@@ -11,9 +11,9 @@ tags:
 
 [//]: # ( Literal translation: "The Book of Information greets you." )
 
-**Welcome** to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu!
+**Welcome** to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu! I do have a bunch of curiosities, so expect the menu to expand randomly.
 
-**Updates**<br>
+**Updates**{: .text-blue}<br>
 Adding Tags to help searches!
 - See tops of pages for Tags
 
