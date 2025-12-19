@@ -12,7 +12,7 @@ tags:
 [//]: # ( Literal translation: "The Book of Information greets you." )
 
 !!! success "Welcome" 
-   ...to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu! I do have a bunch of curiosities, so expect the menu to expand randomly.
+    ...to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu! I do have a bunch of curiosities, so expect the menu to expand randomly.
 
 !!! note "Updates"
     Adding Tags to help searches!<br>
