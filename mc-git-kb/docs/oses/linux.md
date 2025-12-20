@@ -4,9 +4,9 @@
 | :--- | :--- |
 | `ln -s path/to/file/name.ext new/path/name.ext` | Symbolic Link |
 | `sudo apt update` | Seriously, have APT run an Update Check |
-| `apt list --upgradable 2>/dev/null <code>&#124;</code> grep '/' <code>&#124;</code> cut -d/ -f1 > upgrade.txt` | Export list of Apps to TXT file |
+| ```apt list --upgradable 2>/dev/null \| grep '/' \| cut -d/ -f1 > upgrade.txt``` | Export list of Apps to TXT file |
 | `sudo apt install code` | You guessed it, update ONLY VSCode |
-| `cat upgradable_apps.txt <code>&#124;</code> xargs -r sudo apt install -y` | Update Apps from that TXT file |
+| ```cat upgradable_apps.txt \| xargs -r sudo apt install -y``` | Update Apps from that TXT file |
 | `sudo strings /sys/firmware/acpi/tables/MSDM` | Get Product Key from BIOS/UEFI |
 | `systemctl list-unit-files --type=service` | See running services |
 | `sudo systemctl soft-reboot` | Reboots the O/S but not the computer |
