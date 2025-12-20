@@ -29,13 +29,13 @@ theme:
   features:
     - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
     - content.tabs.link
+    # Removed navigation.sections so I could have drop-downs
+    # Removed navigation.tabs due to issues with screen sizing
     - navigation.indexes
     - navigation.insant # Instant navigation
     - search.highlight
     - search.share
     - search.suggest # Helpful search suggestions
-      # Removed navigation.sections so I could have drop-downs
-      # Removed navigation.tabs due to issues with screen sizing
   palette:
     # 1. Dark Mode Palette
     - scheme: slate
