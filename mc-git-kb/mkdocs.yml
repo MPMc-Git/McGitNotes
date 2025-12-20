@@ -9,6 +9,7 @@ markdown_extensions:
   - meta
   - pymdownx.details # For collapsible content
   - pymdownx.emoji # Emoji support
+  - pymdownx.escapeall # Escape special characters
   - pymdownx.highlight # Enhanced syntax highlighting
   - pymdownx.inlinehilite # Inline code highlighting
   - pymdownx.superfences # Advanced fenced code blocks
