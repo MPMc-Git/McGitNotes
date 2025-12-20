@@ -1,8 +1,10 @@
 ---
 tags:
   - Business
+  - Indicators
   - KPI
   - KRI
+  - Metrics
 ---
 
 ## Key Performance Indicators vs Key Risk Indicators
