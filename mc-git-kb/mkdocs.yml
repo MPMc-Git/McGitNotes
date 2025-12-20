@@ -10,7 +10,7 @@ markdown_extensions:
   - pymdownx.details # For collapsible content
   - pymdownx.emoji # Emoji support
   - pymdownx.escapeall # Escape special characters
-  - pymdownx.highlight: # Enhanced syntax highlighting
+  - pymdownx.highlight #: # Enhanced syntax highlighting
 #      anchor_linenums: true
 #      line_spans: __span
 #      pygments_lang_class: true
