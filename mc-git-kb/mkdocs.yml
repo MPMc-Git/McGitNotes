@@ -94,10 +94,10 @@ nav:
     - SOQL: querying/soql.md # ORIGINAL
     - SQL: querying/sql.md # Formatted
   - Salesforce:
-    - Add'l:
+    - Random Facts:
       - ID18: salesforce/subsfdc/salesforce-id18.md # Formatted
       - Order of Execution: salesforce/subsfdc/sfdc-ooe.md # Formatted
-    - Apps / Extensions: salesforce/sfdc-apps-exts.md
+    - Apps / Extensions: salesforce/sfdc-apps-exts.md # NEEDS TESTING but Formatted
     - Formulas: salesforce/sfdc-formulae.md
     - Free Tier: salesforce/sfdc-free-tier.md # Formatted
     - Validation Rules: salesforce/sfdc-val-rulz.md # Formatted
