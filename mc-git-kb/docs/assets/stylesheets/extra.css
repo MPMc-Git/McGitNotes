@@ -6,6 +6,7 @@
 
 /* The Highlight Container */
 .scroll-code .highlight {
+    border-radius: 4px;
     max-height: 250px; /* Increased this so it's not "too short" */
     overflow-y: auto !important;
     display: block;
@@ -20,4 +21,3 @@
     margin: 0;
 
 }
-
