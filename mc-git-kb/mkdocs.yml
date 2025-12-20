@@ -91,7 +91,7 @@ nav:
   - Querying Languages: 
     - JQL/Jira: querying/jira.md # Formatted
     - Regex: querying/regex.md # Formatted
-    - SOQL: querying/soql.md # ORIGINAL
+    - SOQL/Salesforce: querying/soql.md # ORIGINAL
     - SQL: querying/sql.md # Formatted
   - Salesforce:
     - Random Facts:
