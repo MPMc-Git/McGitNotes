@@ -19,5 +19,9 @@
 !!! info "Folder (Homecoming)"
     Homecoming\data\texts\english\menus
 
-!!! info "Folder (Others)"
+!!! info "Folder (Other Servers)"
     data\texts\English\menus
+
+!!! example "Load the popmenu"
+    /popmenu [MenuName]
+
