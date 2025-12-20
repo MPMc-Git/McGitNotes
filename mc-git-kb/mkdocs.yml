@@ -31,7 +31,6 @@ theme:
   custom_dir: docs/overrides
   features:
     - content.code.copy  # <--- This adds the copy button globally
-    - content.code.annotate # (Optional) adds "plus" signs for explanations
     - content.tabs # Ability to create tabbed content (e.g., Excel vs. Sheets)
     - content.tabs.link
     # Removed navigation.sections so I could have drop-downs
