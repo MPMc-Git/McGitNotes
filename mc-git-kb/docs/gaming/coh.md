@@ -1,7 +1,7 @@
 !!! abstract
     City of Heroes was/is a game...
 
-**URLs**<br>
+### URLs
 - [Homecoming Wiki](https://homecoming.wiki/wiki/Main_Page)
 - [COH Icons](https://docs.google.com/spreadsheets/d/1uHUi6BWFTYj4wbfGBs3LjZL88Fym6B-8EwDr18YZcY8/edit?gid=852710698#gid=852710698)
 
