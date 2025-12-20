@@ -14,6 +14,10 @@ tags:
 !!! success "Welcome" 
     ...to the McKB, where I store as much information as I can muster. Most of it's technical, but check out the menu! I do have a bunch of curiosities, so expect the menu to expand randomly.
 
+!!! warning "Navigate via menus!"
+    There might be an icon at the top next to "McKnowledge Base" - click it!<br>
+    If it's a book, you probably already see the menu.
+
 !!! note "Updates"
     Adding Tags to help searches!<br>
     - See tops of pages for Tags
