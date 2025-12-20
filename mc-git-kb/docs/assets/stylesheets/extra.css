@@ -1,9 +1,7 @@
-/* CSS file */
-
 /* This creates the scrollable window */
 .scroll-code .highlight pre {
     border-radius: 4px;
-    max-height: 250px; /* Adjust this height to fit about 8-10 lines */
+    max-height: 200px; /* Adjust this height to fit about 8-10 lines */
     overflow-wrap: anywhere;
     overflow-y: auto;
     white-space: pre-wrap;       /* CSS3 */
