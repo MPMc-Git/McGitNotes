@@ -1,7 +1,7 @@
 /* This creates the scrollable window */
 .scroll-code pre {
     border-radius: 4px;
-    max-height: 225px; /* Adjust this height to fit about 8-10 lines */
+    max-height: 250px; /* Adjust this height to fit about 8-10 lines */
     overflow-wrap: anywhere;
     overflow-y: auto;
     white-space: pre-wrap;       /* CSS3 */
