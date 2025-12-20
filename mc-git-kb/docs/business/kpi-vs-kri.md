@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Key Performance Indicators vs Key Risk Indicators
-###### - #LEARNCISMWITHSANTOSH
+**- #LEARNCISMWITHSANTOSH**
 
 | **Key Performance Indicators** | **Key Risk Indicators** |
 | :--: | :--: |
