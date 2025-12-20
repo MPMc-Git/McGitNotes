@@ -1,4 +1,8 @@
 /* CSS file */
 
-/* Used by attr_list */
-.text-blue { color: #0077ff; }
+/* This creates the scrollable window */
+.scroll-code .highlight pre {
+    max-height: 250px; /* Adjust this height to fit about 8-10 lines */
+    overflow-y: auto;
+    border-radius: 4px;
+}
