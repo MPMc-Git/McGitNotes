@@ -61,6 +61,7 @@ nav:
   - Business:
     - KPI vs KRI: business/kpi-vs-kri.md
   - Gaming:
+    - City of Heroes: gaming/coh.md # Formatted
     - Minecraft: gaming/minecraft.md # Formatted
   - Hardware:
     - Via (Keebmonkey): hardware/via.md # ORIGINAL
