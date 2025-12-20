@@ -57,10 +57,11 @@ nav:
 # -> FIX THIS    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
 # -> FIX THIS    - Via: gaming/via-cp.md # Copied from Original
 # -> FIX THIS    - Rest/Tooling API: salesforce/sfdc-rest-tool-cp.md # Copied from Original
+# -> FIX THIS    - SOQL: salesforce/soql-cp.md # Copied from Original
   - Start Here: index.md # Formatted
   - URLz: earls.md # Formatted
   - Business:
-    - KPI vs KRI: business/kpi-vs-kri.md
+    - KPI vs KRI: business/kpi-vs-kri.md # Formatted
   - Gaming:
     - City of Heroes: gaming/coh.md # Formatted
     - Minecraft: gaming/minecraft.md # Formatted
@@ -99,7 +100,6 @@ nav:
     - Apps / Extensions: salesforce/sfdc-apps-exts.md
     - Formulas: salesforce/sfdc-formulae.md
     - Free Tier: salesforce/sfdc-free-tier.md # Formatted
-    - SOQL: salesforce/soql-cp.md # Copied from Original
     - Validation Rules: salesforce/sfdc-val-rulz.md # Formatted
   - Scripting Languages: 
     - Bash: scripting/bash.md # ORIGINAL
