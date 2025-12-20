@@ -1,7 +1,6 @@
 #### List MP3s in their subfolders and show their duration HH:MM:SS
 <small>I used Gemini to put this together. Only took me 3 questions...</small>
 
-<div class="scroll-code">
 
 ```bash
 #!/bin/bash
@@ -36,5 +35,3 @@ done
 
 echo "Processing complete. Results saved to $OUTPUT_FILE"
 ```
-
-</div>
