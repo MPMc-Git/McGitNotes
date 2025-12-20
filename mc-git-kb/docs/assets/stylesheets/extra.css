@@ -5,4 +5,7 @@
     max-height: 250px; /* Adjust this height to fit about 8-10 lines */
     overflow-y: auto;
     border-radius: 4px;
+    white-space: pre-wrap !important;       /* CSS3 */
+    word-break: break-all !important;      /* Breaks long strings (like long formulas) */
+    overflow-wrap: anywhere !important;
 }
