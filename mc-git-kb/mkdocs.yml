@@ -52,6 +52,10 @@ theme:
         icon: material/brightness-7 # Icon for Sun/Light
         name: Switch to dark mode
 
+# CSS
+extra_css:
+  - assets/stylesheets/extra.css
+
 # Define the navigation structure
 nav:
 # -> FIX THIS    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
