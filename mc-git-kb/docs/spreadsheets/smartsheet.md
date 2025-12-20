@@ -8,9 +8,11 @@ This will help you build COUNTIFS Summary Formula Fields in Smartsheet
 - Column J :: The below Formula
 
 **NOTE**: as the image suggests, you will need to prepend = when pasting into Smartsheet. Having = in Excel / Sheets will only confuse it.
-> =COUNTIFS(["&$B2&"]:["&$B2&"],"""&$C2&""",["&$D2&"]:["&$D2&"],OR(@cell="""&$E2&""""&<br />
-> IF(LEN($F2)>0,",@cell="""&$F2&"""","")&<br />
-> IF(LEN($G2)>0,",@cell="""&$G2&"""","")&<br />
-> IF(LEN($H2)>0,",@cell="""&$H2&"""","")&<br />
-> IF(LEN($I2)>0,",@cell="""&$I2&"""","")&"))
+```excel
+=COUNTIFS(["&$B2&"]:["&$B2&"],"""&$C2&""",["&$D2&"]:["&$D2&"],OR(@cell="""&$E2&""""&
+IF(LEN($F2)>0,",@cell="""&$F2&"""","")&
+IF(LEN($G2)>0,",@cell="""&$G2&"""","")&
+IF(LEN($H2)>0,",@cell="""&$H2&"""","")&
+IF(LEN($I2)>0,",@cell="""&$I2&"""","")&"))
+```
 ![image](https://github.com/user-attachments/assets/d1d6789d-1aad-4443-b1ae-61f9101fe4d2)
