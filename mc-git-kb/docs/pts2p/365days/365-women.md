@@ -24,6 +24,7 @@ td {
 
 [//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
+Continuing my daily study. I’m sharing one key takeaway each day to process these ideas and invite discussion. I'll also try to summarize each month's worth of material. This is definitely not meant as a replacement for the actual material, just me having a specific location as a reminder of the things I have learned and maybe I'll be able to update based on my own personal growth.
 
 ### January
 ### February
