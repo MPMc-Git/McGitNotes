@@ -38,7 +38,7 @@ tags:
     - *2007*: The iPhone is released, shifting the computing paradigm from the desktop to "Mobile-First" and making the internet ubiquitous via smartphones.
     - *2010s*: The rise of Cloud Computing (AWS, Azure) allows massive computing power to be accessed on-demand over the web rather than on local hardware.
 
-!!! example "**2020 – 2025**"
+!!! example "**2020 – Present**"
     - *2022–2023*: Large Language Models (LLMs) like GPT-4 and Gemini mainstream Generative AI, changing how humans interact with machines through natural language.
     - *2024–2025*: Agentic AI and specialized NPU (Neural Processing Unit) hardware become standard, allowing computers to perform complex, multi-step tasks autonomously.
     - *Current Frontier*: Quantum Computing reaches "Quantum Utility," where quantum processors begin solving specific scientific problems that are impossible for classical supercomputers.
