@@ -7,6 +7,7 @@ tags:
 <div class="scroll-code">
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 timeline
     title Excel Project Lifecycle
     2023 : Research & Requirements : Data Collection
