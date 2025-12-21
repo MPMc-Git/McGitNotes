@@ -25,3 +25,9 @@
 [data-md-color-scheme="slate"] .mermaid {
     filter: brightness(1.2); /* Boosts the overall brightness of the diagram */
 }
+
+/* Force the text inside the SVG to be white */
+[data-md-color-scheme="slate"] .mermaid svg text {
+    fill: #ffffff !important;
+}
+
