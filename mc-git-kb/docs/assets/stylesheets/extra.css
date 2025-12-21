@@ -28,6 +28,6 @@
 
 /* Force the text inside the SVG to be white */
 [data-md-color-scheme="slate"] .mermaid svg text {
-    fill: #ffffff !important;
+    fill: #000000 !important;
 }
 
