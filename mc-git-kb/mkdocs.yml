@@ -128,7 +128,7 @@ nav:
     - Smartsheet: spreadsheets/smartsheet.md # Formatted
     - VLOOKUP vs INDEX-MATCH: spreadsheets/subsheets/vlookup-vs-index-match.md # Formatted
   - Timelines:
-    - Historical: timelines/historical.md # Formatted
-    - Philsophical/Religious: timelines/philosophical.md # Formatted
+    - Philsophical: timelines/philosophical.md # Formatted
+    - Religious: timelines/religious.md # Formatted
     - Scientific: timelines/scientific.md # Formatted
     - Technical: timelines/technical.md # Formatted
