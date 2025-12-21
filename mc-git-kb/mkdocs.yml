@@ -10,16 +10,16 @@ markdown_extensions:
   - pymdownx.details # For collapsible content
   - pymdownx.emoji # Emoji support
   - pymdownx.escapeall # Escape special characters
-  - pymdownx.highlight: # Enhanced syntax highlighting
-      anchor_linenums: true
-      line_spans: __span
+  - pymdownx.highlight # Enhanced syntax highlighting - ISSUES ARE BEING HAD
+#      anchor_linenums: true
+#      line_spans: __span
 #      pygments_lang_class: true
   - pymdownx.inlinehilite # Inline code highlighting
-  - pymdownx.superfences: # Advanced fenced code blocks
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences # Advanced fenced code blocks - ISSUES ARE BEING HAD
+#      custom_fences:
+#        - name: mermaid
+#          class: mermaid
+#          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed # For tabbed content
 
 # Plugins to enhance functionality

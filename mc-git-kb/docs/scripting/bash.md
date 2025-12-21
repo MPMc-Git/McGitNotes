@@ -7,7 +7,7 @@
 #!/bin/bash
 
 # Define the output file name
-OUTPUT_FILE="mp3_durations.txt" # (1) Test note
+OUTPUT_FILE="mp3_durations.txt"
 
 # Clear the output file before starting (optional, use >> to append)
 > "$OUTPUT_FILE"
