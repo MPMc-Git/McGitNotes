@@ -10,10 +10,10 @@ markdown_extensions:
   - pymdownx.details # For collapsible content
   - pymdownx.emoji # Emoji support
   - pymdownx.escapeall # Escape special characters
-  - pymdownx.highlight # Enhanced syntax highlighting - ISSUES ARE BEING HAD
-#      anchor_linenums: true
-#      line_spans: __span
-#      pygments_lang_class: true
+  - pymdownx.highlight: # Enhanced syntax highlighting - ISSUES ARE BEING HAD
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite # Inline code highlighting
   - pymdownx.superfences: # Advanced fenced code blocks - ISSUES ARE BEING HAD
       custom_fences:
