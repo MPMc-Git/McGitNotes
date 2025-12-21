@@ -66,6 +66,10 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 
+# Javascript
+extra_javascript:
+- https://unpkg.com/mermaid@10/dist/mermaid.min.js
+
 # Define the navigation structure
 nav:
 # -> FIX THIS    - Bash (Used in Linux): oses/bash-cp.md # Copied from Original
