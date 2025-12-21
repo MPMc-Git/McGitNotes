@@ -6,7 +6,7 @@ tags:
 
 
 ```mermaid
-%%{init: { 'theme': 'base', 'themeVariables': { 'timelineLineColor': '#000', 'sectionBkgColor': '#fff', 'sectionTextColor': '#000', 'mainBkgColor': '#fff', 'nodeTextColor': '#000', 'lineColor': '#000', 'nodeBorderColor': '#000', 'textColor': '#000' } } }%%
+%%{init: { 'theme': 'base', 'themeVariables': { 'titleColor': '#000', 'cSectionTextColor': '#000', 'taskTextColor': '#000', 'sectionTextColor': '#000' } } }%%
 timeline
     title Excel Project Lifecycle
     2023 : Research & Requirements : Data Collection
