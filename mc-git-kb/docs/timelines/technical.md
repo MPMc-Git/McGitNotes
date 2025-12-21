@@ -5,6 +5,7 @@ tags:
 ---
 
 <div class="scroll-code">
+
 ```mermaid
 timeline
     title Excel Project Lifecycle
@@ -12,4 +13,5 @@ timeline
     2024 : Initial Build : Beta Testing
     2025 : Official Rollout : Ongoing Maintenance
 ```
+
 </div>
