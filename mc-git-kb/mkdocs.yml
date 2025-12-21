@@ -15,11 +15,11 @@ markdown_extensions:
 #      line_spans: __span
 #      pygments_lang_class: true
   - pymdownx.inlinehilite # Inline code highlighting
-  - pymdownx.superfences # Advanced fenced code blocks - ISSUES ARE BEING HAD
-#      custom_fences:
-#        - name: mermaid
-#          class: mermaid
-#          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences: # Advanced fenced code blocks - ISSUES ARE BEING HAD
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed # For tabbed content
 
 # Plugins to enhance functionality
