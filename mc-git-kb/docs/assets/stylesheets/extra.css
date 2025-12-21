@@ -21,16 +21,12 @@
     margin: 0;
 }
 
-/* Force Mermaid text to black in Dark Mode while keeping the box colors */
+/* Force ALL Mermaid timeline text to black in Dark Mode */
+[data-md-color-scheme="slate"] .mermaid svg tspan,
 [data-md-color-scheme="slate"] .mermaid svg text,
-[data-md-color-scheme="slate"] .mermaid svg .term,
-[data-md-color-scheme="slate"] .mermaid svg .label {
+[data-md-color-scheme="slate"] .mermaid .timeline-node text,
+[data-md-color-scheme="slate"] .mermaid .event-node text {
     fill: #000000 !important;
     color: #000000 !important;
-}
-
-/* If you have lines/arrows that also need to be darker */
-[data-md-color-scheme="slate"] .mermaid svg .edgePath path {
-    stroke: #000000 !important;
 }
 
