@@ -16,10 +16,10 @@ markdown_extensions:
 #      pygments_lang_class: true
   - pymdownx.inlinehilite # Inline code highlighting
   - pymdownx.superfences: # Advanced fenced code blocks
-    custom_fences:
-      - name: mermaid
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed # For tabbed content
 
 # Plugins to enhance functionality
