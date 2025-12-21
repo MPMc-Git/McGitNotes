@@ -27,7 +27,7 @@ tags:
     - *1953*: Grace Hopper develops the first compiler, leading to high-level languages like COBOL.
     - *1958*: The Integrated Circuit (Microchip) is co-invented by Jack Kilby and Robert Noyce, enabling the placement of multiple electronic components onto a single sliver of silicon.
 
-!!! example "**1960s – 2010s**
+!!! example "**1960s – 2010s**"
     - *1964*: IBM System/360 is launched. This was the first "family" of computers that allowed software to be shared across different models, revolutionizing business computing.
     - *1971*: Intel 4004 is released—the first commercial Microprocessor. The entire CPU was now on a single chip.
     - *1973*: Xerox Alto is developed. It was the first computer to use a Graphical User Interface (GUI) and a mouse, though it was never sold commercially.
@@ -38,7 +38,7 @@ tags:
     - *2007*: The iPhone is released, shifting the computing paradigm from the desktop to "Mobile-First" and making the internet ubiquitous via smartphones.
     - *2010s*: The rise of Cloud Computing (AWS, Azure) allows massive computing power to be accessed on-demand over the web rather than on local hardware.
 
-!!! example "**2020 – 2025**
+!!! example "**2020 – 2025**"
     - *2022–2023*: Large Language Models (LLMs) like GPT-4 and Gemini mainstream Generative AI, changing how humans interact with machines through natural language.
     - *2024–2025*: Agentic AI and specialized NPU (Neural Processing Unit) hardware become standard, allowing computers to perform complex, multi-step tasks autonomously.
     - *Current Frontier*: Quantum Computing reaches "Quantum Utility," where quantum processors begin solving specific scientific problems that are impossible for classical supercomputers.
