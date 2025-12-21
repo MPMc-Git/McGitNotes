@@ -123,3 +123,8 @@ nav:
     - Excel / Sheets: spreadsheets/excel-lent.md # Formatted
     - Smartsheet: spreadsheets/smartsheet.md # Formatted
     - VLOOKUP vs INDEX-MATCH: spreadsheets/subsheets/vlookup-vs-index-match.md # Formatted
+  - Timelines:
+    - Historical: timelines/historical.md # Formatted
+    - Philsophical/Religious: timelines/philosophical.md # Formatted
+    - Scientific: timelines/scientific.md # Formatted
+    - Technical: timelines/technical.md # Formatted
