@@ -6,16 +6,12 @@ tags:
   - Quotes
 ---
 
-#### Random Thoughts
+#### Thoughts
 - [How to Set Priorities](pts2p/priorities.md)
 - [Japanese Concepts](pts2p/japanese-concepts.md)
 - [Storytelling Frameworks](pts2p/storytelling.md)
 
-#### 365 Days of Inspirations
-- [Inspirational Women](pts2p/365days/365-women.md)
-- [Daily Philosophy](pts2p/365days/365-philosophy.md)
-
-## Random Sayings About Inspiration
+## Sayings About Inspiration
 <small>Pretty sure I can't pronounce any of these</small>
 
 | Lang | Phrase | Meaning |
@@ -29,7 +25,7 @@ tags:
 | Welsh | O Ffwrnais Awen | "From the furnace of Awen" |
 | Welsh | Awen yn codi o'r cudd | "Awen arising from the deep (or from what is hidden)" |
 
-## Random Quotes
+## Quotes
 | From | What |
 | :--- | :--- |
 | Kate Sheppard | "All that separates, whether of race, class, creed, or sex, is inhuman, and must be overcome." |
