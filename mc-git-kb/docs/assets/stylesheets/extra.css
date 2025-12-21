@@ -21,3 +21,8 @@
     margin: 0;
 }
 
+[data-md-color-scheme="slate"] .mermaid {
+    background-color: #2e2e2e; /* Give it a slightly different background */
+    padding: 10px;
+    border-radius: 4px;
+}
