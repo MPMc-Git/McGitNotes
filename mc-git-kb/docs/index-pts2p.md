@@ -6,10 +6,10 @@ tags:
   - Quotes
 ---
 
-#### Sub-pages
-- [How to Set Priorities](pts2p/subpts2p/priorities.md)
-- [Japanese Concepts](pts2p/subpts2p/japanese-concepts.md)
-- [Storytelling Frameworks](pts2p/subpts2p/storytelling.md)
+#### Random Thoughts
+- [How to Set Priorities](pts2p/priorities.md)
+- [Japanese Concepts](pts2p/japanese-concepts.md)
+- [Storytelling Frameworks](pts2p/storytelling.md)
 
 #### 365 Days of Inspirations
 - [Inspirational Women](pts2p/365days/365-women.md)
