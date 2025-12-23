@@ -17,9 +17,10 @@ tags:
 ### Macros
 <small>...using macro_image</small>
 
-| Macro Image Command | Image |
-| :--- | :--: |
-| `/macroimage "badge_defeat_burrspectrum" "Portals" "popmenu FastTravel"` | <img src="../../assets/images/coh-burrspectrum.png"> |
+| Why | Macro Image Command | Image |
+| :--- | :--- | :--: |
+| Fast Travel | `/macroimage "badge_defeat_burrspectrum" "Portals" "popmenu FastTravel"` | <img src="../../assets/images/coh-burrspectrum.png"> |
+
 
 ### Keybinds
 
