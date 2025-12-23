@@ -25,10 +25,10 @@ tags:
 
 ### PopMenus
 !!! info "Folder (Homecoming)"
-    Homecoming\data\texts\english\menus
+    Homecoming\\data\\texts\\english\\menus
 
 !!! info "Folder (Other Servers)"
-    data\texts\English\menus
+    data\\texts\\English\\menus
 
 !!! example "Load the popmenu"
     /popmenu [MenuName]
@@ -36,7 +36,7 @@ tags:
 ### Costume Change Macros
 | Costume Style | Macro Image Command | Image |
 | :--- | :--- | :--: |
-| Blacklight & Spectrum | /macro_image "AlignmentPower_Duplicity" "Black Spec" "cce 1 CCEnergyMorph" | <img src="https://docs.google.com/spreadsheets/d/1uHUi6BWFTYj4wbfGBs3LjZL88Fym6B-8EwDr18YZcY8/edit?gid=0#gid=0&range=A3"> |
+| Blacklight & Spectrum | /macro_image "AlignmentPower_Duplicity" "Black Spec" "cce 1 CCEnergyMorph" | <img src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GrXx0L9snrnRhyf-7aYhNdS_zbt5etaIhdFrzBpbCg6WBNKLnNzS2kXj2gBciLeEeFxlHOfmuIAG1qQkGq2Ls0ecXAOAgchRmmQR1qZ3PowvpYB-pu1q6_FOKUH4mVxm5s?key=z6odnz4KsZmw6Zg5vvz8CQ"> |
 
 ### Loading on Linux
 Used GE-Proton through Steam
