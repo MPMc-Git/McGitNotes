@@ -65,7 +65,7 @@ tags:
 - [Diagrams.net](https://app.diagrams.net/) - free Visio-like software
 - [Google Cloud](https://console.cloud.google.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/) - free email address lookup related to data breaches
-- [IT Tools](https://it-tools.tech/) - most of these tools I don't even understand yet :)
+- [IT Tools](https://it-tools.tech/) - most of these tools I don't even understand yet
 - [MCP Servers Explained](https://cline.bot/blog/mcp-servers-explained-what-they-are-how-they-work-and-why-cline-is-revolutionizing-ai-tools)
 - [O365 App Passwords](https://account.live.com/proofs/Manage/additional?mkt=en-us)
 - [Prismic Style Guide](https://prismic.io/glossary/style-guide) - VSCode Extension
@@ -73,6 +73,7 @@ tags:
 - [Rex Egg](https://www.rexegg.com/regex-quickstart.php)
     - The world's most tyrannosaurical regex tutorial
 - [Star Wars Galaxy Map - Official](https://www.starwars.com/star-wars-galaxy-map)
+- [Strudel.cc](https://strudel.cc/) :: Make music by programming!
 - [W3 HTML5 Character Reference Chart](https://html.spec.whatwg.org/multipage/named-characters.html)
     - Precede the Name with a &
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
