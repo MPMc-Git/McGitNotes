@@ -36,7 +36,7 @@ tags:
 ### Costume Change Macros
 | Costume Style | Macro Image Command | Image |
 | :--- | :--- | :--: |
-| Spectrum Only |  /macro_image "BA_Vangaurd_Medal" "Spectrum" "cce 0 CCEnergyMorph" | <img src="https://docs.google.com/uc?export=download&id=1ZxWW1XXUo0cvnk8xtKsyazrw69Gh0_bV"> |
+| Spectrum Only |  /macro_image "BA_Vangaurd_Medal" "Spectrum" "cce 0 CCEnergyMorph" | <img src="https://docs.google.com/thumbnail?id=1ZxWW1XXUo0cvnk8xtKsyazrw69Gh0_bV"> |
 | Blacklight & Spectrum | /macro_image "AlignmentPower_Duplicity" "Black Spec" "cce 1 CCEnergyMorph" | <img src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GrXx0L9snrnRhyf-7aYhNdS_zbt5etaIhdFrzBpbCg6WBNKLnNzS2kXj2gBciLeEeFxlHOfmuIAG1qQkGq2Ls0ecXAOAgchRmmQR1qZ3PowvpYB-pu1q6_FOKUH4mVxm5s?key=z6odnz4KsZmw6Zg5vvz8CQ"> |
 
 ### Loading on Linux
