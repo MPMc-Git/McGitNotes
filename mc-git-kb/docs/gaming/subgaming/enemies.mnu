@@ -1,0 +1,26 @@
+// Prepared by @Riku
+// Assembled thanks to https://docs.google.com/spreadsheets/d/1DI_tV6KIVi605oAFc8sB5xXPVPshsYBx/edit?gid=1942729299#gid=1942729299
+
+Menu "Enemies"
+{
+    Menu "&Hero Side"
+    {
+        Menu "&Atlas Park 1-6" 
+        {
+            Option "Arachnos" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Hellions" "ignore"
+            Option "Infected" "ignore"
+            Option "Skulls" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+    }
+    Menu "&Villan Side"
+    {
+        
+    }
+    Menu "&Praetorian Side"
+    {
+
+    }
+}
