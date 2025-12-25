@@ -33,8 +33,9 @@ tags:
 - [Smartsheet Formula Handbook Template](https://www.smartsheet.com/template-gallery/formula-handbook) - this is pretty neat
 
 #### Salesforce-related
-- [Apex Well Architected](https://awaf.dev/)
 - [ApexSandbox.io](https://www.apexsandbox.io/) - practice Apex in a Dev Org
+- [Apex Test Class Generator for VSCode](https://marketplace.visualstudio.com/items?itemName=GokulakannanShokkar.apex-test-class-generator)
+- [Apex Well Architected](https://awaf.dev/)
 - [Expand Exchange](https://thesalesforcerecruiter.com/resources/expand-exchange/)
 - [Focus on Force](https://focusonforce.com/) - training for certifications
 - [Record-Triggered Automation](https://architect.salesforce.com/decision-guides/trigger-automation)
