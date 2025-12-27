@@ -361,7 +361,7 @@ Menu "Enemies"
             Option "Skulls" "ignore"
         }
     }
-    Menu "Villain Side (By Level)"
+    Menu "Villain Side (by Level)"
     {
         Menu "1-8 Mercy Island"
         {
@@ -458,7 +458,7 @@ Menu "Enemies"
             Option "Mooks" "ignore"
         }
     }
-    Menu "Villain Side (By Zone)"
+    Menu "Villain Side (by Zone)"
     {
         Menu "Cap Au Diable 8-20"
         {
@@ -555,7 +555,7 @@ Menu "Enemies"
             Option "Turrets" "ignore"
         }
     }
-    Menu "Praetorian Side (By Level)"
+    Menu "Praetorian Side (by Level)"
     {
         Menu "1-9 Nova Praetoria"
         {
@@ -632,7 +632,7 @@ Menu "Enemies"
             Option "Seers" "ignore"
         }
     }
-    Menu "Praetorian Side (By Zone)"
+    Menu "Praetorian Side (by Zone)"
     {
         Menu "First Ward 20-30"
         {
