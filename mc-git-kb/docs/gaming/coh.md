@@ -21,21 +21,24 @@ tags:
 ### My Creations
 These **Popmenus** will download automatically<br>
 - [Enemies by Zone (/popmenu "enemies")](https://mpmc-git.github.io/McGitNotes/gaming/subgaming/enemies.mnu)
+- [Task / Strike Forces Levels (/popmenu "forces")](https://mpmc-git.github.io/McGitNotes/gaming/subgaming/)
 
-Copy/Paste the **Macros**<br>
-<small>...using macro_image</small>
+
+[//]: # ( ~/Games/Homecoming/pfx/drive_c/Games/Homecoming/data/texts/English/Menus )
+
+Copy/Paste the **Macros**
 
 | Why | Macro Image Command | Image |
 | :--- | :--- | :--: |
 | Fast Travel | `/macroimage "badge_defeat_burrspectrum" "Portals" "popmenu FastTravel"` | <img src="../../assets/images/coh-burrspectrum.png"> |
+| LFG | `/macro LFG "lfg Lvl $level $archetype ($primary / $secondary) LFG"` | |
 
 
+### Macro Notes
 
-### Macros
+### Keybind Notes
 
-### Keybinds
-
-### PopMenus
+### PopMenu Notes
 !!! info "Folder (Homecoming)"
     Homecoming\\data\\texts\\english\\menus
 

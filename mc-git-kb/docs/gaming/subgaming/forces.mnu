@@ -1,0 +1,49 @@
+// Task Force / Strike Force Reference
+Menu "Forces"
+{
+    Title "Task & Strike Force Levels"
+
+    Menu "Hero Task Forces (Paragon City)"
+    {
+        Option "Positron (Part 1 & 2): Lvl 8-15" "ignore"
+        Option "Synapse:              Lvl 15-20" "ignore"
+        Option "Penelope Yin:         Lvl 20-25" "ignore"
+        Option "Citadel:              Lvl 25-30" "ignore"
+        Option "Manticore:            Lvl 30-35" "ignore"
+        Option "Numina:               Lvl 35-40" "ignore"
+        Option "Dr. Kahn (Vengeance): Lvl 45-50" "ignore"
+        Option "Statesman (Finale):   Lvl 45-50" "ignore"
+    }
+
+    Menu "Villain Strike Forces (Rogue Isles)"
+    {
+        Option "Silver Mantis:        Lvl 20-25" "ignore"
+        Option "Mortimer Kal:         Lvl 20-40" "ignore"
+        Option "Strike Force: Operative Grillo: Lvl 24-33" "ignore"
+        Option "Barracuda:            Lvl 25-30" "ignore"
+        Option "Ice Mistral:          Lvl 35-40" "ignore"
+        Option "Lord Recluse (SF):    Lvl 45-50" "ignore"
+    }
+
+    Menu "Co-Op & Special"
+    {
+        Option "Imperious Task Force:   Lvl 35-50" "ignore"
+        Option "Moonbeam (Shadow Shard): Lvl 40-50" "ignore"
+        Option "Sara Moore (Shadow Shard): Lvl 40-50" "ignore"
+        Option "Lord Recluse (Finale):  Lvl 45-50" "ignore"
+        Option "Ms. Liberty (Vanguard): Lvl 45-50" "ignore"
+    }
+
+    Menu "Incarnate Trials (Level 50+)"
+    {
+        Title "Requires Level 50 + Incarnate Tiers"
+        Option "Apex / Tin Mage:       Lvl 50" "ignore"
+        Option "Keyes Island:          Lvl 50" "ignore"
+        Option "Lambda / Dilemma:      Lvl 50" "ignore"
+        Option "Magisterium:           Lvl 50" "ignore"
+        Option "Minds of Mayhem:       Lvl 50" "ignore"
+    }
+    
+    Divider
+    Option "Note: You lose powers above max level" "ignore" Locked
+}
