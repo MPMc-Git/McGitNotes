@@ -3,9 +3,9 @@
 
 Menu "Enemies"
 {
-    Menu "&Hero Side"
+    Menu "Hero Side (by Level)"
     {
-        Menu "&Atlas Park 1-6" 
+        Menu "1-6 Atlas Park" 
         {
             Option "Arachnos" "ignore"
             Option "Clockwork" "ignore"
@@ -14,13 +14,699 @@ Menu "Enemies"
             Option "Skulls" "ignore"
             Option "Vahzilok" "ignore"
         }
+        Menu "1-6 Echo: Galaxy City"
+        {
+            Option "Clockwork" "ignore"
+            Option "Hellions" "ignore"
+            Option "Infected" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "5-10 Kings Row"
+        {
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "The Lost" "ignore"
+            Option "Skulls" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "5-15 The Hollows"
+        {
+            Option "Circle of Thorns" "ignore"
+            Option "Coralax" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Hellions" "ignore"
+            Option "Hydra" "ignore"
+            Option "The Lost" "ignore"
+            Option "Minions of Igneous" "ignore"
+            Option "Outcasts" "ignore"
+            Option "Skulls" "ignore"
+            Option "Trolls" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "7-14 Perez Park"
+        {
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Hellions" "ignore"
+            Option "Hydra" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "10-19 Skyway City"
+        {
+            Option "Clockwork" "ignore"
+            Option "The Lost" "ignore"
+            Option "Trolls" "ignore"
+        }
+        Menu "10-19 Steel Canyon"
+        {
+            Option "5th Column" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Council" "ignore"
+            Option "Hellions" "ignore"
+            Option "Outcasts" "ignore"
+            Option "Trolls" "ignore"
+            Option "Tsoo" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "11-19 Boomtown"
+        {
+            Option "Clockwork" "ignore"
+            Option "Council" "ignore"
+            Option "The Lost" "ignore"
+            Option "Outcasts" "ignore"
+            Option "Trolls" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "15-25 Faultline"
+        {
+            Option "Arachnos" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Hydra" "ignore"
+            Option "The Lost" "ignore"
+            Option "Sky Raiders" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "20-27 Talos Island"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Tsoo" "ignore"
+            Option "Warriors" "ignore"
+        }
+        Menu "20-29 Striga Isle"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Council" "ignore"
+            Option "Family" "ignore"
+            Option "Sky Raiders" "ignore"
+            Option "Warriors" "ignore"
+        }
+        Menu "20-29 Terra Volta"
+        {
+            Option "Devouring Earth" "ignore"
+            Option "Freakshow" "ignore"
+            Option "The Lost" "ignore"
+            Option "Sky Raiders" "ignore"
+        }
+        Menu "21-29 Echo: Dark Astoria"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "22-29 Independence Port"
+        {
+            Option "5th Column" "ignore"
+            Option "Council" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Family" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "25-34 Croatoa"
+        {
+            Option "Cabal" "ignore"
+            Option "Firbolg" "ignore"
+            Option "Ghosts" "ignore"
+            Option "Redcaps" "ignore"
+            Option "Tuatha de Dannon" "ignore"
+        }
+        Menu "30-38 Brickstown"
+        {
+            Option "5th Column" "ignore"
+            Option "Crey" "ignore"
+            Option "Council" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Prisoners" "ignore"
+        }
+        Menu "31-39 Crey's Folly"
+        {
+            Option "Crey" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Firbolg" "ignore"
+            Option "Nemesis" "ignore"
+            Option "Rikti" "ignore"
+        }
+        Menu "31-40 Founder's Falls"
+        {
+            Option "5th Column" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Crey" "ignore"
+            Option "Council" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Nemesis" "ignore"
+            Option "Rikti" "ignore"
+        }
+        Menu "33-39 Eden"
+        {
+            Option "Crey" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Nemesis" "ignore"
+        }
+        Menu "35-50 Rikti War Zone"
+        {
+            Option "Arachnos" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Crey" "ignore"
+            Option "Council" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Malta Ops" "ignore"
+            Option "Nemesis" "ignore"
+            Option "Rikti" "ignore"
+        }
+        Menu "41-50 Peregrine Island"
+        {
+            Option "Carnies" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Malta Ops" "ignore"
+            Option "Nemesis" "ignore"
+            Option "Rikti" "ignore"
+        }
     }
-    Menu "&Villan Side"
+    Menu "Hero Side (by Zone)"
     {
-        
+        Menu "Atlas Park 1-6"
+        {
+            Option "Cabal" "ignore"
+            Option "Firbolg" "ignore"
+            Option "Ghosts" "ignore"
+            Option "Prisoners" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Boomtown 11-19"
+        {
+            Option "Cabal" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Hellions" "ignore"
+            Option "Malta Ops" "ignore"
+            Option "Rikti" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Brickstown 30-38"
+        {
+            Option "Carnies" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Minions of Igneous" "ignore"
+        }
+        Menu "Crey's Folly 31-39"
+        {
+            Option "Carnies" "ignore"
+            Option "Crey" "ignore"
+            Option "Council" "ignore"
+            Option "The Lost" "ignore"
+            Option "Outcasts" "ignore"
+        }
+        Menu "Croatoa 25-34"
+        {
+            Option "5th Column" "ignore"
+            Option "Council" "ignore"
+            Option "Family" "ignore"
+            Option "Nemesis" "ignore"
+            Option "Sky Raiders" "ignore"
+        }
+        Menu "Echo: Dark Astoria 21-29"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Skulls" "ignore"
+        }
+        Menu "Echo: Galaxy City 1-6"
+        {
+            Option "Cabal" "ignore"
+            Option "Firbolg" "ignore"
+            Option "Ghosts" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Eden 33-39"
+        {
+            Option "Carnies" "ignore"
+            Option "Crey" "ignore"
+            Option "The Lost" "ignore"
+        }
+        Menu "Faultline 15-25"
+        {
+            Option "Cabal" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Hellions" "ignore"
+            Option "Redcaps" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Founder's Falls 31-40"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Carnies" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Crey" "ignore"
+            Option "The Lost" "ignore"
+            Option "Outcasts" "ignore"
+        }
+        Menu "Independence Port 22-29"
+        {
+            Option "Clockwork" "ignore"
+            Option "Crey" "ignore"
+            Option "Coralax" "ignore"
+            Option "Skulls" "ignore"
+        }
+        Menu "Kings Row 5-10"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Cabal" "ignore"
+            Option "Hellions" "ignore"
+            Option "Prisoners" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Peregrine Island 41-50"
+        {
+            Option "Arachnos" "ignore"
+            Option "Banished Pantheon" "ignore"
+            Option "Crey" "ignore"
+            Option "Hydra" "ignore"
+            Option "The Lost" "ignore"
+            Option "Outcasts" "ignore"
+        }
+        Menu "Perez Park 7-14"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Cabal" "ignore"
+            Option "Firbolg" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Rikti War Zone 35-50"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Carnies" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Crey" "ignore"
+            Option "Hydra" "ignore"
+            Option "The Lost" "ignore"
+            Option "Outcasts" "ignore"
+        }
+        Menu "Skyway City 10-19"
+        {
+            Option "Cabal" "ignore"
+            Option "Hellions" "ignore"
+            Option "Rikti" "ignore"
+        }
+        Menu "Steel Canyon 10-19"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Cabal" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Firbolg" "ignore"
+            Option "Malta Ops" "ignore"
+            Option "Rikti" "ignore"
+            Option "Skulls" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Striga Isle 20-29"
+        {
+            Option "Clockwork" "ignore"
+            Option "Coralax" "ignore"
+            Option "Redcaps" "ignore"
+            Option "Tuatha de Dannon" "ignore"
+        }
+        Menu "Talos Island 20-27"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Crey" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Skulls" "ignore"
+            Option "Tuatha de Dannon" "ignore"
+        }
+        Menu "Terra Volta 20-29"
+        {
+            Option "Crey" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Hellions" "ignore"
+            Option "Redcaps" "ignore"
+        }
+        Menu "The Hollows 5-15"
+        {
+            Option "Banished Pantheon" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Crey" "ignore"
+            Option "Firbolg" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Hellions" "ignore"
+            Option "Infected" "ignore"
+            Option "Malta Ops" "ignore"
+            Option "Prisoners" "ignore"
+            Option "Rikti" "ignore"
+            Option "Skulls" "ignore"
+        }
     }
-    Menu "&Praetorian Side"
+    Menu "Villan Side (By Level)"
     {
-
+        Menu "1-8 Mercy Island"
+        {
+            Option "5th Column" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Gold Brickers" "ignore"
+            Option "Infected" "ignore"
+            Option "Knives of Artemis" "ignore"
+            Option "Nemesis" "ignore"
+            Option "Rogue Arachnos" "ignore"
+            Option "Sky Raiders" "ignore"
+        }
+        Menu "7-12 Port Oakes"
+        {
+            Option "5th Column" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Legacy Chain" "ignore"
+            Option "The Lost" "ignore"
+            Option "Sky Raiders" "ignore"
+            Option "Slag Golems" "ignore"
+            Option "Spectral Pirates" "ignore"
+        }
+        Menu "8-20 Cap Au Diable"
+        {
+            Option "5th Column" "ignore"
+            Option "Banished Pantheon" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Carnies" "ignore"
+            Option "Family" "ignore"
+            Option "Longbow" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "20-30 Sharkhead Isle"
+        {
+            Option "5th Column" "ignore"
+            Option "Arachnoids" "ignore"
+            Option "Arachnos" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Dockworkres" "ignore"
+            Option "Rogue Island Police" "ignore"
+            Option "Scrapyarders" "ignore"
+            Option "Skulls" "ignore"
+            Option "Spectral Pirates" "ignore"
+        }
+        Menu "25-40 Nerva Archipelago"
+        {
+            Option "5th Column" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Coralax" "ignore"
+            Option "Council" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Infected" "ignore"
+            Option "Knives of Artemis" "ignore"
+            Option "Legacy Chain" "ignore"
+            Option "Sky Raiders" "ignore"
+            Option "Slag Golems" "ignore"
+            Option "Spectral Pirates" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "29-40 St. Martial"
+        {
+            Option "5th Column" "ignore"
+            Option "Cage Consortium" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Council" "ignore"
+            Option "Crey" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Dockworkres" "ignore"
+            Option "Rikti (Monkeys)" "ignore"
+            Option "Snakes" "ignore"
+            Option "Turrets" "ignore"
+        }
+        Menu "40-50 Grandville"
+        {
+            Option "5th Column" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Coralax" "ignore"
+            Option "Hellions" "ignore"
+            Option "Knives of Artemis" "ignore"
+            Option "Luddites" "ignore"
+        }
+        Menu "45-50 Monster Island"
+        {
+            Option "Council" "ignore"
+            Option "Mooks" "ignore"
+        }
+    }
+    Menu "Villan Side (By Zone)"
+    {
+        Menu "Cap Au Diable 8-20"
+        {
+            Option "5th Column" "ignore"
+            Option "Banished Pantheon" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Carnies" "ignore"
+            Option "Family" "ignore"
+            Option "Longbow" "ignore"
+            Option "Tsoo" "ignore"
+        }
+        Menu "Grandville 40-50"
+        {
+            Option "5th Column" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Coralax" "ignore"
+            Option "Hellions" "ignore"
+            Option "Knives of Artemis" "ignore"
+            Option "Luddites" "ignore"
+        }
+        Menu "Mercy Island 1-8"
+        {
+            Option "5th Column" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Gold Brickers" "ignore"
+            Option "Infected" "ignore"
+            Option "Knives of Artemis" "ignore"
+            Option "Nemesis" "ignore"
+            Option "Rogue Arachnos" "ignore"
+            Option "Sky Raiders" "ignore"
+        }
+        Menu "Monster Island 45-50"
+        {
+            Option "Council" "ignore"
+            Option "Mooks" "ignore"
+        }
+        Menu "Nerva Archipelago 25-40"
+        {
+            Option "5th Column" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Coralax" "ignore"
+            Option "Council" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Infected" "ignore"
+            Option "Knives of Artemis" "ignore"
+            Option "Legacy Chain" "ignore"
+            Option "Sky Raiders" "ignore"
+            Option "Slag Golems" "ignore"
+            Option "Spectral Pirates" "ignore"
+            Option "Vahzilok" "ignore"
+        }
+        Menu "Port Oakes 7-12"
+        {
+            Option "5th Column" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Freakshow" "ignore"
+            Option "Legacy Chain" "ignore"
+            Option "The Lost" "ignore"
+            Option "Sky Raiders" "ignore"
+            Option "Slag Golems" "ignore"
+            Option "Spectral Pirates" "ignore"
+        }
+        Menu "Sharkhead Isle 20-30"
+        {
+            Option "5th Column" "ignore"
+            Option "Arachnoids" "ignore"
+            Option "Arachnos" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Circle of Thorns" "ignore"
+            Option "Clockwork" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Dockworkres" "ignore"
+            Option "Rogue Island Police" "ignore"
+            Option "Scrapyarders" "ignore"
+            Option "Skulls" "ignore"
+            Option "Spectral Pirates" "ignore"
+        }
+        Menu "St. Martial 29-40"
+        {
+            Option "5th Column" "ignore"
+            Option "Cage Consortium" "ignore"
+            Option "Cap Au Diable Demons" "ignore"
+            Option "Council" "ignore"
+            Option "Crey" "ignore"
+            Option "Devouring Earth" "ignore"
+            Option "Dockworkres" "ignore"
+            Option "Rikti (Monkeys)" "ignore"
+            Option "Snakes" "ignore"
+            Option "Turrets" "ignore"
+        }
+    }
+    Menu "Praetorian Side (By Level)"
+    {
+        Menu "1-9 Nova Praetoria"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+        }
+        Menu "1-10 Underground Nova"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "Destroyers" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Resist. Clckwrk" "ignore"
+        }
+        Menu "9-15 Imperial City"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+            Option "Resist. Clckwrk" "ignore"
+        }
+        Menu "9-15 Underground Imperial"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "Destroyers" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+        }
+        Menu "15-20 Neutropolis"
+        {
+            Option "Destroyers" "ignore"
+            Option "Drudges" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Clockwork" "ignore"
+            Option "Praet. Police Dept." "ignore"
+            Option "Resist. Clckwrk" "ignore"
+        }
+        Menu "15-20 Undergrndd Neutropolis"
+        {
+            Option "Destroyers" "ignore"
+            Option "Drudges" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+        }
+        Menu "20-30 First Ward"
+        {
+            Option "Angry Citizens" "ignore"
+            Option "Animus Arcana" "ignore"
+            Option "Apparitions" "ignore"
+            Option "The Awakened" "ignore"
+            Option "The Black Knights" "ignore"
+            Option "Carn. Of War" "ignore"
+            Option "Destroyers" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+            Option "Seers" "ignore"
+        }
+        Menu "30-35 Night Ward"
+        {
+            Option "Angry Citizens" "ignore"
+            Option "Anti-Matter's Clkwrk" "ignore"
+            Option "Carn. Of Veng." "ignore"
+            Option "The Resistance" "ignore"
+            Option "Seers" "ignore"
+        }
+    }
+    Menu "Praetorian Side (By Zone)"
+    {
+        Menu "First Ward 20-30"
+        {
+            Option "Angry Citizens" "ignore"
+            Option "Animus Arcana" "ignore"
+            Option "Apparitions" "ignore"
+            Option "The Awakened" "ignore"
+            Option "The Black Knights" "ignore"
+            Option "Carn. Of War" "ignore"
+            Option "Destroyers" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+            Option "Seers" "ignore"
+        }
+        Menu "Imperial City 9-15"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+            Option "Resist. Clckwrk" "ignore"
+        }
+        Menu "Neutropolis 15-20"
+        {
+            Option "Destroyers" "ignore"
+            Option "Drudges" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Clockwork" "ignore"
+            Option "Praet. Police Dept." "ignore"
+            Option "Resist. Clckwrk" "ignore"
+        }
+        Menu "Night Ward 30-35"
+        {
+            Option "Angry Citizens" "ignore"
+            Option "Anti-Matter's Clkwrk" "ignore"
+            Option "Carn. Of Veng." "ignore"
+            Option "The Resistance" "ignore"
+            Option "Seers" "ignore"
+        }
+        Menu "Nova Praetoria 1-9"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+        }
+        Menu "Undergrndd Neutropolis 15-20"
+        {
+            Option "Destroyers" "ignore"
+            Option "Drudges" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+            Option "Praet. Police Dept." "ignore"
+        }
+        Menu "Underground Imperial 9-15"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "Destroyers" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Neuron's Clkwrk" "ignore"
+        }
+        Menu "Underground Nova 1-10"
+        {
+            Option "Carn. Of Light" "ignore"
+            Option "Destroyers" "ignore"
+            Option "D.U.S.T." "ignore"
+            Option "Ghouls" "ignore"
+            Option "Resist. Clckwrk" "ignore"
+        }
     }
 }

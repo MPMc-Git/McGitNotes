@@ -1,0 +1,26 @@
+{
+  "name": "coh-menu-support",
+  "displayName": "CoH Menu Support",
+  "version": "1.0.0",
+  "publisher": "personal",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "contributes": {
+    "languages": [
+      {
+        "id": "cohmnu",
+        "aliases": ["CoH Menu", "cohmnu"],
+        "extensions": [".mnu"],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "cohmnu",
+        "scopeName": "source.mnu",
+        "path": "./cohmnu.tmLanguage.json"
+      }
+    ]
+  }
+}

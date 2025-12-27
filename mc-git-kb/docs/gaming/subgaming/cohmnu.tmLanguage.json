@@ -1,0 +1,83 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "City of Heroes Menu",
+  "scopeName": "source.mnu",
+  "patterns": [
+    { "include": "#comments" },
+    { "include": "#strings" },
+    { "include": "#keywords_main" },
+    { "include": "#keywords_properties" },
+    { "include": "#keywords_conditional" },
+    { "include": "#operators" },
+    { "include": "#braces" }
+  ],
+  "repository": {
+    "comments": {
+      "patterns": [
+        {
+          "name": "comment.line.double-slash.mnu",
+          "begin": "//",
+          "end": "$"
+        }
+      ]
+    },
+    "strings": {
+      "name": "string.quoted.double.mnu",
+      "begin": "\"",
+      "end": "\"",
+      "patterns": [
+        {
+          "name": "constant.character.escape.mnu",
+          "match": "\\\\."
+        },
+        {
+          "include": "#operators"
+        }
+      ]
+    },
+    "keywords_main": {
+      "patterns": [
+        {
+          "name": "keyword.declaration.mnu",
+          "match": "(?i)\\b(Menu)\\b"
+        },
+        {
+          "name": "keyword.control.mnu",
+          "match": "(?i)\\b(Command|Option|Title|Divider)\\b"
+        }
+      ]
+    },
+    "keywords_properties": {
+      "patterns": [
+        {
+          "name": "variable.other.property.mnu",
+          "match": "(?i)\\b(ExampleMenu|TitleName|OptionName|CommandString|SubMenuName|IconName|BadgeIdentifiers|PowerIdentifiers|DisplayName|Icon)\\b"
+        }
+      ]
+    },
+    "keywords_conditional": {
+      "patterns": [
+        {
+          "name": "keyword.operator.logical.mnu",
+          "match": "(?i)\\b(Badge|PowerReady|LockedOption)\\b"
+        }
+      ]
+    },
+    "operators": {
+      "patterns": [
+        {
+          "name": "keyword.operator.mnu",
+          "match": "[\\$&]"
+        }
+      ]
+    },
+    "braces": {
+      "patterns": [
+        {
+          "name": "punctuation.section.braces.mnu",
+          "match": "[{}]"
+        }
+      ]
+    }
+  }
+}
