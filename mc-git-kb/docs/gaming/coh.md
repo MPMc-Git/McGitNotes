@@ -17,6 +17,10 @@ tags:
 - [Mids Reborn - GitHub](https://github.com/LoadedCamel/MidsReborn)
 - [Mids Reborn - Install](https://updates.midsreborn.com/full_updates/)
 
+### My PopMenus
+**NOTE**: These will download automatically<br>
+- [Enemies by Zone](https://mpmc-git.github.io/McGitNotes/gaming/subgaming/enemies.mnu)
+
 ### Macros
 <small>...using macro_image</small>
 
