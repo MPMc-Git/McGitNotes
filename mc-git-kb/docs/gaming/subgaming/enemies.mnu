@@ -361,7 +361,7 @@ Menu "Enemies"
             Option "Skulls" "ignore"
         }
     }
-    Menu "Villan Side (By Level)"
+    Menu "Villain Side (By Level)"
     {
         Menu "1-8 Mercy Island"
         {
@@ -458,7 +458,7 @@ Menu "Enemies"
             Option "Mooks" "ignore"
         }
     }
-    Menu "Villan Side (By Zone)"
+    Menu "Villain Side (By Zone)"
     {
         Menu "Cap Au Diable 8-20"
         {
