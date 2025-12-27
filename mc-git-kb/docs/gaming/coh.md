@@ -17,16 +17,20 @@ tags:
 - [Mids Reborn - GitHub](https://github.com/LoadedCamel/MidsReborn)
 - [Mids Reborn - Install](https://updates.midsreborn.com/full_updates/)
 
-### My PopMenus
-**NOTE**: These will download automatically<br>
-- [Enemies by Zone](https://mpmc-git.github.io/McGitNotes/gaming/subgaming/enemies.mnu)
+### My Creations
+These **Popmenus** will download automatically<br>
+- [Enemies by Zone (/popmenu "enemies")](https://mpmc-git.github.io/McGitNotes/gaming/subgaming/enemies.mnu)
 
-### Macros
+Copy/Paste the **Macros**<br>
 <small>...using macro_image</small>
 
 | Why | Macro Image Command | Image |
 | :--- | :--- | :--: |
 | Fast Travel | `/macroimage "badge_defeat_burrspectrum" "Portals" "popmenu FastTravel"` | <img src="../../assets/images/coh-burrspectrum.png"> |
+
+
+
+### Macros
 
 ### Keybinds
 
@@ -40,12 +44,5 @@ tags:
 !!! example "Load the popmenu"
     /popmenu [MenuName]
 
-### Costume Change Macros
-| Costume Style | Macro Image Command | Image |
-| :--- | :--- | :--: |
-| Spectrum Only |  /macro_image "BeastMastery_PetTerribleHowl" "Spectrum" "cce 0 CCEnergyMorph" | <img src="https://docs.google.com/thumbnail?id=1SeEAXy5XekQRR3xjB6W2383hu-4XADoN"> |
-| Blacklight & Spectrum | /macro_image "AlignmentPower_Duplicity" "Black Spec" "cce 1 CCEnergyMorph" | <img src="https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GrXx0L9snrnRhyf-7aYhNdS_zbt5etaIhdFrzBpbCg6WBNKLnNzS2kXj2gBciLeEeFxlHOfmuIAG1qQkGq2Ls0ecXAOAgchRmmQR1qZ3PowvpYB-pu1q6_FOKUH4mVxm5s?key=z6odnz4KsZmw6Zg5vvz8CQ"> |
-
 ### Loading on Linux
-Used GE-Proton through Steam
-
+Used GE-Proton through Steam - yes, there are more details, but I'm too tired.
