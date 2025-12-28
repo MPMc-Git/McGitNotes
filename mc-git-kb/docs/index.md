@@ -8,7 +8,7 @@ tags:
 <div style="text-align: center;">
  <figure>
   <img src="assets/images/codex-informationum.png" alt="The Book of Information greets you." width="50%" height="50%">
-  <figcaption>"The Book of Information greets you."</figcaption>
+  <figcaption><small>The Book of Information greets you.</small></figcaption>
  </figure>
 </div>
 <br><small>...nothing is ever truly complete...</small>
