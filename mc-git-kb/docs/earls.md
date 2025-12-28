@@ -12,7 +12,11 @@ tags:
 <small>Right-click and Open in New Tab</small>
 
 #### Certs!
+- [AWS Certifications](https://aws.amazon.com/certification/)
+- [Business Analysis Certs (IIBA)](https://www.iiba.org/business-analysis-certifications/iiba-certifications/)
 - [DevOps Institute Cert Paths](https://www.devopsinstitute.com/certifications/)
+- [Red Hat Certs](https://www.redhat.com/en/services/certifications)
+- [Salesforce Certs (Trailhead)](https://trailheadacademy.salesforce.com/all-offerings#f-assetType=Certification&f-siteLanguage=en_US)
 
 #### API-Related
 - [Types of APIs](programming/subpgram/types-of-apis.md)
@@ -39,6 +43,7 @@ tags:
 - [ApexSandbox.io](https://www.apexsandbox.io/) - practice Apex in a Dev Org
 - [Apex Test Class Generator for VSCode](https://marketplace.visualstudio.com/items?itemName=GokulakannanShokkar.apex-test-class-generator)
 - [Apex Well Architected](https://awaf.dev/)
+- [CI/CD for Org Development Model](https://github.com/salto-io/salesforce-ci-cd-org-dev/tree/master)
 - [Expand Exchange](https://thesalesforcerecruiter.com/resources/expand-exchange/)
 - [Focus on Force](https://focusonforce.com/) - training for certifications
 - [Record-Triggered Automation](https://architect.salesforce.com/decision-guides/trigger-automation)
@@ -46,10 +51,9 @@ tags:
 - [Salesforce+](https://www.salesforce.com/plus/)
 - [Salesforce Trailblazer Profile](https://www.salesforce.com/trailblazer/profile/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [CI/CD for Org Development Model](https://github.com/salto-io/salesforce-ci-cd-org-dev/tree/master)
 - [Salesforce Apex Test Class with an Example & Best Practices](https://jayakrishnasfdc.wordpress.com/2021/01/02/salesforce-apex-test-class-with-an-example-annotations-best-practices-of-test-class/)
-- [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 - [Scale Center](https://help.salesforce.com/s/articleView?id=xcloud.scale_center_overview.htm&type=5)
+- [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
 
 #### SF Trails
