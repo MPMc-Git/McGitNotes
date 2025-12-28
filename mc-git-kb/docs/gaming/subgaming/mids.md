@@ -1,7 +1,8 @@
 ### Mids Reborn on Linux Mint (working)
 From Psyonico in the [Discord](https://discord.com/channels/593336669004890113/1453791106755203127/1453943802174902375), plus my edits<br>
 
-Here's what I did step by step<br>
+Here's what I did step by step
+
 1. Open Software Manager
 
 1. Download Bottles (flatpak) and Flatseal (flatpak) from software manager
@@ -10,7 +11,8 @@ Here's what I did step by step<br>
 
 1. When given options of what version, choose 24.08
 
-Once everything is installed, open bottles and click through the menu until it finishes its initial set up, then<br>
+Once everything is installed, open bottles and click through the menu until it finishes its initial set up, then
+
 1. Create New Bottle
 
 1. Name it MidsReborn
@@ -29,7 +31,8 @@ Once everything is installed, open bottles and click through the menu until it f
     - mscoree.dll: Native, then Builtin
 Bottles is now set up
 
-Download Mids<br>
+Download Mids
+
 1. Download latest ZIP file from https://updates.midsreborn.com/full_updates/
 
 1. Extract to ~/.var/app/com.userbottles.bottles/data/bottles/bottles/MidsReborn/drive_c/users/yourusername/AppData/Roaming/LoadedCamel/MidsReborn 
@@ -39,7 +42,8 @@ Download Mids<br>
 
 1. Extract to ~/.var/app/com.userbottles.bottles/data/bottles/bottles/MidsReborn/drive_c/windows/fonts
 
-Back in Bottles<br>
+Back in Bottles
+
 1. Run Executable ~/.var/app/com.userbottles.bottles/data/bottles/bottles/MidsReborn/drive_c/users/yourusername/AppData/Roaming/LoadedCamel/MidsReborn/MidsReborn.exe
 
 1. **NOTE**: Do NOT Update
