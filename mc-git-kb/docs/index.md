@@ -6,7 +6,7 @@ tags:
 ---
 
 <div style="text-align: center;">
- <img src="assets/images/codex-informationum.png" width="50%" height="50%">
+ <img src="assets/images/codex-informationum.png" alt="The Book of Information greets you." width="50%" height="50%">
  <br><small>...nothing is ever truly complete...</small>
 </div>
 
