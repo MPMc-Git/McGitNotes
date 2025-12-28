@@ -85,3 +85,4 @@ tags:
 - [W3 HTML5 Character Reference Chart](https://html.spec.whatwg.org/multipage/named-characters.html)
     - Precede the Name with a &
 - [YouTube Comments](https://myactivity.google.com/page?hl=en&page=youtube_comments&pli=1) - this just makes my life easier
+- [W3 Schools - for Coding](https://www.w3schools.com/)
