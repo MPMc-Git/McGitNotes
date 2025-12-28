@@ -11,6 +11,9 @@ tags:
 ## McBookmarks!
 <small>Right-click and Open in New Tab</small>
 
+#### Certs!
+- [DevOps Institute Cert Paths](https://www.devopsinstitute.com/certifications/)
+
 #### API-Related
 - [Types of APIs](programming/subpgram/types-of-apis.md)
 - [API List (Free API marketplace)](https://apilist.fun/)
