@@ -17,6 +17,7 @@ tags:
 - [COH Icons](https://docs.google.com/spreadsheets/d/1uHUi6BWFTYj4wbfGBs3LjZL88Fym6B-8EwDr18YZcY8/edit?gid=852710698#gid=852710698)
 - [Mids Reborn - GitHub](https://github.com/LoadedCamel/MidsReborn)
 - [Mids Reborn - Install](https://updates.midsreborn.com/full_updates/)
+- [Mids Reborn - Linux](subgaming/mids.md)
 
 ### My Creations
 These **Popmenus** will download automatically<br>
