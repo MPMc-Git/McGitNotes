@@ -33,6 +33,9 @@ Copy/Paste the **Macros**
 | :--- | :--- | :--: |
 | Fast Travel | `/macroimage "badge_defeat_burrspectrum" "Portals" "popmenu FastTravel"` | <img src="../../assets/images/coh-burrspectrum.png"> |
 | LFG | `/macro LFG "lfg Lvl $level $archetype ($primary / $secondary) LFG"` | |
+| Backups | `/macro "SAVE" "chat_save_file chat.txt$$option_save_file option.txt$$wdw_save_file wdw.txt"` | |
+| Loads | `/macro "LOAD" "chat_load_file chat.txt$$option_load_file option.txt$$wdw_load_file wdw.txt"` | |
+
 
 
 ### Macro Notes
