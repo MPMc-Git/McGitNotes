@@ -112,8 +112,9 @@ nav:
     - SOQL/Salesforce: querying/soql.md # ORIGINAL
     - SQL: querying/sql.md # Formatted
   - Salesforce:
-    - Add'l Facts:
+    - Add'l Items:
       - ID18: salesforce/subsfdc/salesforce-id18.md # Formatted
+      - LWC of Objects/Fields: salesforce/subsfdc/lwc-obj-fld.md # Formatted
       - Order of Execution: salesforce/subsfdc/sfdc-ooe.md # Formatted
     - Apps / Extensions: salesforce/sfdc-apps-exts.md # NEEDS TESTING but Formatted
     - Formulas: salesforce/sfdc-formulae.md

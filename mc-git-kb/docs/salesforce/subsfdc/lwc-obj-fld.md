@@ -8,6 +8,8 @@ tags:
 
 ## Display your SFDC Objects and lookup related Fields via LWC
 
+![Sample](../../assets/images/Metadata.png)
+
 #### Apex Class
 
 ??? tip "ObjectSchemaController.cls"
