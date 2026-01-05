@@ -11,7 +11,7 @@ tags:
 #### Apex Class
 
 !!! tip "ObjectSchemaController.cls"
-    ```javascript
+```javascript
         public with sharing class ObjectSchemaController {
         
         @AuraEnabled(cacheable=true)
