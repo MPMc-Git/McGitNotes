@@ -10,8 +10,7 @@ tags:
 
 #### Apex Class
 
-??? tip "ObjectSchemaController.cls"
-    
+!!! tip "ObjectSchemaController.cls"
     ```javascript
         public with sharing class ObjectSchemaController {
         
