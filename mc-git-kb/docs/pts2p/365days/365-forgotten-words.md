@@ -20,7 +20,7 @@ td {
 }
 </style>
 
-**## **365 Days of Forgotten Words (Dae Lee)** [link](https://www.amazon.com/dp/B0D3N26DD3?ref=ppx_yo2ov_dt_b_fed_digi_asin_title_351)
+**365 Days of Forgotten Words (Dae Lee)** [link](https://www.amazon.com/dp/B0D3N26DD3?ref=ppx_yo2ov_dt_b_fed_digi_asin_title_351)
 
 [//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
