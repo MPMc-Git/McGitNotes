@@ -27,6 +27,7 @@ td {
 Continuing my daily study. I’m sharing one key takeaway each day to process these ideas and invite discussion. I'll also try to summarize each month's worth of material. This is definitely not meant as a replacement for the actual material, just me having a specific location as a reminder of the things I have learned and maybe I'll be able to update based on my own personal growth.
 
 ### January
+<table>
  <tr>
   <td><span class="sm-text">Absquatulate /ab-SKWAT-chu-late/</span><br><span class="xs-text">The word's etymology is shrouded in the creativity of linguistic amalgamation, suggesting a blend of "abscond," "squat," and "perambulate."</span></td>
   <td><span class="sm-text">Anfractuous /an-FRAK-choo-us/</span><br><span class="xs-text">It often appears in literary texts to describe complex journeys or the convoluted corridors of the mind, enhancing narratives with a sense of intricate detail and unexpected turns.</span></td>
@@ -37,6 +38,7 @@ Continuing my daily study. I’m sharing one key takeaway each day to process th
  <tr>
   <td colspan=5><span class="sm-text">Thoughts on days 1-5</span><br><span class="xs-text">Etymology is fascinating, but the words that struck me were anfractuous and algedonic. Both are, at least to me, a look into the average mortal psyche. I have memories that cause both pleasure and pain, or at least they inspire each emotion. The corridors of the mind don't come with signposts or guides, so I'm often forced to just exist in them and hope I'm headed down a corridor worth traveling.</span></td>
  </tr>
+</table>
 
 ### February
 ### March
@@ -50,10 +52,12 @@ Continuing my daily study. I’m sharing one key takeaway each day to process th
 ### November
 
 ### December
-<tr>
- <td><span class="sm-text"><td><span class="sm-text"></span><br><span class="xs-text">A person of the same age; a contemporary.</span></td></span><br><span class="xs-text"></span></td>
- <td><span class="sm-text">Yestreen</span><br><span class="xs-text">Last evening or night.</span></td>
- <td><span class="sm-text">Yonic</span><br><span class="xs-text">Relating to or resembling the female genitalia.</span></td>
- <td><span class="sm-text">Yaff</span><br><span class="xs-text">To bark sharply; yelp.</span></td>
- <td><span class="sm-text">Yawp</span><br><span class="xs-text">A harsh or hoarse cry or yelp.</span></td>
-</tr>
+<table>
+ <tr>
+  <td><span class="sm-text"><td><span class="sm-text"></span><br><span class="xs-text">A person of the same age; a contemporary.</span></td></span><br><span class="xs-text"></span></td>
+  <td><span class="sm-text">Yestreen</span><br><span class="xs-text">Last evening or night.</span></td>
+  <td><span class="sm-text">Yonic</span><br><span class="xs-text">Relating to or resembling the female genitalia.</span></td>
+  <td><span class="sm-text">Yaff</span><br><span class="xs-text">To bark sharply; yelp.</span></td>
+  <td><span class="sm-text">Yawp</span><br><span class="xs-text">A harsh or hoarse cry or yelp.</span></td>
+ </tr>
+</table>
