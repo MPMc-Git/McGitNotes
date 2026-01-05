@@ -20,7 +20,7 @@ td {
 }
 </style>
 
-## **365 Days of Philosophy (Dae Lee)** [link](https://www.amazon.com/dp/B0DF5N2HMN?ref=ppx_yo2ov_dt_b_fed_digi_asin_title_351){:target="_blank"}
+**365 Days of Philosophy (Dae Lee)** [link](https://www.amazon.com/dp/B0DF5N2HMN?ref=ppx_yo2ov_dt_b_fed_digi_asin_title_351){:target="_blank"}
 
 [//]: # ( <td><span class="sm-text"></span><br><span class="xs-text"></span></td> )
 
