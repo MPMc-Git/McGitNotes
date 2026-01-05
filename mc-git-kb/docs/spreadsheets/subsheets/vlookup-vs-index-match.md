@@ -30,7 +30,7 @@ What if I want to find information based on more than one criteria?
 ```
 ...but, why? Because the MATCH is looking for a result of 1, and each option will return either a 1 or a 0. Multiply those together.
 
-#### INDEX-MATCH OR Sample
+##### INDEX-MATCH OR Sample
 ```lua
 =INDEX(A:A,MATCH(1,(C:C="Organ")+(E:E="Calypso")))
 ```
