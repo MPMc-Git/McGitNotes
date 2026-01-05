@@ -223,7 +223,6 @@ tags:
 #### LWC - Object HTML
 
 ??? tip "objectListExporter.html"
-        ```html
         <template>
             <lightning-card title="Org Object Metadata" icon-name="standard:multi_select_checkbox">
                 <lightning-button 
@@ -245,7 +244,7 @@ tags:
                 </div>
             </lightning-card>
         </template>
-        ```
+
 
 #### LWC - Field Javascript
 
@@ -357,7 +356,6 @@ tags:
 #### LWC - Field HTML
 
 ??? tip "fieldListExporter.hml"
-        ```html
         <template>
             <lightning-card title="Field List Exporter" icon-name="standard:field_sales">
                 <lightning-button 
@@ -390,4 +388,4 @@ tags:
                 </div>
             </lightning-card>
         </template>
-        ```
+
