@@ -54,7 +54,7 @@ Continuing my daily study. I’m sharing one key takeaway each day to process th
 ### December
 <table>
  <tr>
-  <td><span class="sm-text">Yealing<br>/YEE-ling/<td><span class="sm-text"></span><br><span class="xs-text">A person of the same age; a contemporary.</span></td></span><br><span class="xs-text"></span></td>
+  <td><span class="sm-text">Yealing<br>/YEE-ling/</span><br><span class="xs-text">A person of the same age; a contemporary.</span></td>
   <td><span class="sm-text">Yestreen<br>/yes-TREEN/</span><br><span class="xs-text">Last evening or night.</span></td>
   <td><span class="sm-text">Yonic<br>/YON-ik/</span><br><span class="xs-text">Relating to or resembling the female genitalia.</span></td>
   <td><span class="sm-text">Yaff<br>/YAFF/</span><br><span class="xs-text">To bark sharply; yelp.</span></td>
