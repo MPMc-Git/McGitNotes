@@ -55,6 +55,7 @@ tags:
 - [Scale Center](https://help.salesforce.com/s/articleView?id=xcloud.scale_center_overview.htm&type=5)
 - [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
+- [Lightning Design System 2 (SLDS2)](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 
 #### SF Trails
 - [Agentblazer Status](https://trailhead.salesforce.com/agentblazer)
