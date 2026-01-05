@@ -1,6 +1,6 @@
 ## :mag_right: VLOOKUP or INDEX-MATCH? :mag:
 
-#### VLOOKUP
+**VLOOKUP**<br>
 VLOOKUP is easily the standard lookup method in the various spreadsheet applications that support it. It's simple, it works, so why am I proposing an alternative? Easy. VLOOKUP only goes ONE DIRECTION! INDEX-MATCH lets you go all over the place!
 
 ##### DATA Example
