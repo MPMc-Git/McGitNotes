@@ -53,9 +53,8 @@ tags:
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce Apex Test Class with an Example & Best Practices](https://jayakrishnasfdc.wordpress.com/2021/01/02/salesforce-apex-test-class-with-an-example-annotations-best-practices-of-test-class/)
 - [Scale Center](https://help.salesforce.com/s/articleView?id=xcloud.scale_center_overview.htm&type=5)
-- [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
-- [Lightning Design System 2 (SLDS2)](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
+- [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
     - [Icons Library](https://www.lightningdesignsystem.com/2e1ef8501/p/83309d-icons/b/586464)
 
 #### SF Trails
