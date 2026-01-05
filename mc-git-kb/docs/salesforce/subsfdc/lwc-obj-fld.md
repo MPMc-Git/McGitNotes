@@ -136,3 +136,258 @@ tags:
             }
         }
 
+#### LWC - Object Javascript
+
+??? tip "objectListExporter.js"
+        import { LightningElement, wire, track } from 'lwc';
+        import getObjectList from '@salesforce/apex/ObjectSchemaController.getObjectList';
+
+        const COLUMNS = [
+            { label: 'Object Label', fieldName: 'label', type: 'text' },
+            { label: 'API Name', fieldName: 'apiName', type: 'text' },
+            { label: 'Queryable', fieldName: 'isQueryable', type: 'boolean' }
+        ];
+
+        export default class ObjectListExporter extends LightningElement {
+            @track objects = [];
+            columns = COLUMNS;
+
+            @wire(getObjectList)
+            wiredObjects({ error, data }) {
+                if (data) {
+                    this.objects = data;
+                } else if (error) {
+                    console.error('Error fetching objects:', error);
+                }
+            }
+
+            // Logic for the HTML button disabled attribute
+            get isDownloadDisabled() {
+                return !this.objects || this.objects.length === 0;
+            }
+
+            downloadCSV() {
+                console.log('Object Export Button Clicked');
+                try {
+                    const headers = ['Object Label', 'API Name', 'Is Queryable'];
+                    let csvContent = headers.join(',') + '\n';
+
+                    this.objects.forEach(obj => {
+                        let row = [
+                            `"${obj.label || ''}"`,
+                            `"${obj.apiName || ''}"`,
+                            obj.isQueryable
+                        ];
+                        csvContent += row.join(',') + '\n';
+                    });
+
+                    this.executeDownload(csvContent, 'All_Org_Objects.csv');
+                } catch (error) {
+                    console.error('Export Failed:', error);
+                }
+            }
+
+            executeDownload(csvContent, fileName) {
+            try {
+                // 1. Encode the CSV string to Base64 to bypass LWS MIME type restrictions
+                // btoa() creates a base-64 encoded ASCII string from a "string" of binary data
+                const base64Data = btoa(unescape(encodeURIComponent(csvContent)));
+                const dataUri = 'data:text/csv;base64,' + base64Data;
+
+                // 2. Create the download link
+                const link = document.createElement('a');
+                link.href = dataUri;
+                link.download = fileName;
+
+                // 3. Trigger the download
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+
+                console.log('Download successful via Base64/DataURI');
+            } catch (err) {
+                console.error('LWS Download Error: ', err);
+                
+                // Fallback for very simple browsers if Base64 fails
+                const encodedUri = 'data:text/csv;charset=utf-8,' + encodeURIComponent(csvContent);
+                const link = document.createElement('a');
+                link.setAttribute('href', encodedUri);
+                link.setAttribute('download', fileName);
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                }
+            }
+        }
+
+#### LWC - Object HTML
+
+??? tip "objectListExporter.html"
+        ```html
+        <template>
+            <lightning-card title="Org Object Metadata" icon-name="standard:multi_select_checkbox">
+                <lightning-button 
+                    slot="actions" 
+                    label="Download as CSV" 
+                    icon-name="utility:download" 
+                    onclick={downloadCSV}>
+                </lightning-button>
+
+                <div class="slds-var-p-around_medium">
+                    <div style="height: 600px;">
+                        <lightning-datatable
+                            key-field="apiName"
+                            data={objects}
+                            columns={columns}
+                            hide-checkbox-column="true">
+                        </lightning-datatable>
+                    </div>
+                </div>
+            </lightning-card>
+        </template>
+        ```
+
+#### LWC - Field Javascript
+
+??? tip "fieldListExporter.js"
+        import { LightningElement, wire, track } from 'lwc';
+        import getObjectList from '@salesforce/apex/ObjectSchemaController.getObjectList';
+        import getFieldsForObject from '@salesforce/apex/ObjectSchemaController.getFieldsForObject';
+
+        const COLUMNS = [
+            { label: 'Label', fieldName: 'label', type: 'text', initialWidth: 160 },
+            { label: 'API Name', fieldName: 'apiName', type: 'text', initialWidth: 160 },
+            { label: 'Type', fieldName: 'type', type: 'text', initialWidth: 100 },
+            { label: 'Len', fieldName: 'length', type: 'number', initialWidth: 70 },
+            { label: 'Formula', fieldName: 'isFormula', type: 'boolean', initialWidth: 80 },
+            { label: 'Formula SQL', fieldName: 'formulaSql', type: 'text', initialWidth: 250 },
+            { label: 'Unique', fieldName: 'isUnique', type: 'boolean', initialWidth: 80 },
+            { label: 'Ext ID', fieldName: 'isExternalId', type: 'boolean', initialWidth: 80 }
+        ];
+
+        export default class FieldListExporter extends LightningElement {
+            @track selectedObject = '';
+            @track objectOptions = [];
+            @track fields = [];
+            columns = COLUMNS;
+
+            @wire(getObjectList)
+            wiredObjects({ error, data }) {
+                if (data) {
+                    this.objectOptions = data.map(obj => ({ label: obj.label, value: obj.apiName }));
+                }
+            }
+
+            @wire(getFieldsForObject, { objectApiName: '$selectedObject' })
+            wiredFields({ error, data }) {
+                if (data) {
+                    this.fields = data;
+                } else {
+                    this.fields = [];
+                }
+            }
+
+            get isDownloadDisabled() {
+                return !this.fields || this.fields.length === 0;
+            }
+
+            handleObjectChange(event) {
+                this.selectedObject = event.detail.value;
+            }
+
+            downloadCSV() {
+                console.log('Field Export Button Clicked for: ' + this.selectedObject);
+                try {
+                    const headers = ['Label', 'API Name', 'Type', 'Length', 'Is Formula', 'Formula SQL', 'Unique', 'External ID'];
+                    let csvContent = headers.join(',') + '\n';
+
+                    this.fields.forEach(f => {
+                        let row = [
+                            `"${f.label || ''}"`,
+                            `"${f.apiName || ''}"`,
+                            `"${f.type || ''}"`,
+                            f.length,
+                            f.isFormula,
+                            `"${f.formulaSql ? f.formulaSql.replace(/"/g, '""') : ''}"`,
+                            f.isUnique,
+                            f.isExternalId
+                        ];
+                        csvContent += row.join(',') + '\n';
+                    });
+
+                    this.executeDownload(csvContent, `${this.selectedObject}_Fields.csv`);
+                } catch (error) {
+                    console.error('Field Export Failed:', error);
+                }
+            }
+
+            executeDownload(csvContent, fileName) {
+            try {
+                // 1. Encode the CSV string to Base64 to bypass LWS MIME type restrictions
+                // btoa() creates a base-64 encoded ASCII string from a "string" of binary data
+                const base64Data = btoa(unescape(encodeURIComponent(csvContent)));
+                const dataUri = 'data:text/csv;base64,' + base64Data;
+
+                // 2. Create the download link
+                const link = document.createElement('a');
+                link.href = dataUri;
+                link.download = fileName;
+
+                // 3. Trigger the download
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+
+                console.log('Download successful via Base64/DataURI');
+            } catch (err) {
+                console.error('LWS Download Error: ', err);
+                
+                // Fallback for very simple browsers if Base64 fails
+                const encodedUri = 'data:text/csv;charset=utf-8,' + encodeURIComponent(csvContent);
+                const link = document.createElement('a');
+                link.setAttribute('href', encodedUri);
+                link.setAttribute('download', fileName);
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                }
+            }
+        }
+
+#### LWC - Field HTML
+
+??? tip "fieldListExporter.hml"
+        ```html
+        <template>
+            <lightning-card title="Field List Exporter" icon-name="standard:field_sales">
+                <lightning-button 
+                    slot="actions" 
+                    label="Download as CSV" 
+                    icon-name="utility:download" 
+                    onclick={downloadCSV}
+                    disabled={isDownloadDisabled}>
+                </lightning-button>
+
+                <div class="slds-var-p-around_medium">
+                    <lightning-combobox
+                        name="objectSelector"
+                        label="Select an Object"
+                        value={selectedObject}
+                        placeholder="Search for an object..."
+                        options={objectOptions}
+                        onchange={handleObjectChange}
+                        class="slds-var-m-bottom_medium">
+                    </lightning-combobox>
+
+                    <div style="height: 500px;">
+                        <lightning-datatable
+                            key-field="apiName"
+                            data={fields}
+                            columns={columns}
+                            hide-checkbox-column="true">
+                        </lightning-datatable>
+                    </div>
+                </div>
+            </lightning-card>
+        </template>
+        ```
