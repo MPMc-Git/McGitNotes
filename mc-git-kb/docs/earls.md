@@ -56,7 +56,7 @@ tags:
 - [SFDC Lightning Design System 2](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
 - [SFDC DevOps Center](/sf_devops/DevOpsCenter.app) <- Add to end of Org URL
 - [Lightning Design System 2 (SLDS2)](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2)
-  - [Icons Library](https://www.lightningdesignsystem.com/2e1ef8501/p/83309d-icons/b/586464)
+    - [Icons Library](https://www.lightningdesignsystem.com/2e1ef8501/p/83309d-icons/b/586464)
 
 #### SF Trails
 - [Agentblazer Status](https://trailhead.salesforce.com/agentblazer)
