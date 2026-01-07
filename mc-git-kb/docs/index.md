@@ -24,7 +24,8 @@ tags:
 
 !!! note "Updates"
     Adding Tags to help searches!<br>
-    - See tops of pages for Tags
+    - See tops of pages for Tags<br>
+    - If they're missing; they're missing :stuck_out_tongue:
 
 !!! abstract "About Me"
     [LinkedIn](https://www.linkedin.com/in/matthewpmcvey/)
