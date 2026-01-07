@@ -27,7 +27,7 @@ tags:
     - See tops of pages for Tags
 
 !!! abstract "About Me"
-    Testing
+    [LinkedIn](https://www.linkedin.com/in/matthewpmcvey/)
 
 !!!example "Hashtags You May See Me Use"
     \#McKB #AlwaysBeCurious #BattleTested #ExpertGeneralist #TechMerc #OpenSource<br>
