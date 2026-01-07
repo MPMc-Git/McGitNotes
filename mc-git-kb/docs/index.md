@@ -28,7 +28,7 @@ tags:
     - If they're missing; they're missing :stuck_out_tongue:
 
 !!! abstract "About Me"
-    [LinkedIn](https://www.linkedin.com/in/matthewpmcvey/)
+    [LinkedIn](https://www.linkedin.com/in/matthewpmcvey/){:target="_blank"}
 
 !!!example "Hashtags You May See Me Use"
     \#McKB #AlwaysBeCurious #BattleTested #ExpertGeneralist #TechMerc #OpenSource<br>
