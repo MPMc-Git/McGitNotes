@@ -224,7 +224,7 @@ WHERE Assignee.IsActive = TRUE
                     <lightning-input 
                         type="search" 
                         label="Filter Permissions" 
-                        placeholder="Search by User, Profile, or Permission Set..." 
+                        placeholder="Search by User..." 
                         onchange={handleSearchChange}
                         class="slds-var-m-bottom_small">
                     </lightning-input>
