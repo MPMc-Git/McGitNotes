@@ -115,6 +115,7 @@ nav:
     - Add'l Items:
       - ID18: salesforce/subsfdc/salesforce-id18.md # Formatted
       - LWC of Objects/Fields: salesforce/subsfdc/lwc-obj-fld.md # Formatted
+      - LWC of PermSet Assignments: salesforce/subsfdc/lwc-user-perms.md # Formatted
       - Order of Execution: salesforce/subsfdc/sfdc-ooe.md # Formatted
     - Apps / Extensions: salesforce/sfdc-apps-exts.md # NEEDS TESTING but Formatted
     - Formulas: salesforce/sfdc-formulae.md
