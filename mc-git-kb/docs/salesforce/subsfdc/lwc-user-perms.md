@@ -29,7 +29,6 @@ WHERE Assignee.IsActive = TRUE
                 List<PermissionWrapper> results = new List<PermissionWrapper>();
                 
                 try {
-                    // Updated SOQL with your specific filters
                     for (PermissionSetAssignment psa : [
                         SELECT Id, 
                             PermissionSetId, 
@@ -58,9 +57,7 @@ WHERE Assignee.IsActive = TRUE
                 return results;
             }
 
-            /**
-            * Wrapper class to organize data for the LWC Data Table
-            */
+            // Wrapper class to organize data for the LWC Data Table
             public class PermissionWrapper {
                 @AuraEnabled public String userName;
                 @AuraEnabled public String userEmail;
