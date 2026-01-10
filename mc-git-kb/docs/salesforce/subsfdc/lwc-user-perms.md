@@ -12,8 +12,8 @@ tags:
 
 #### The actual SOQL
 ```sql
-SELECT Id, PermissionSetGroupID, PermissionSetId, PermissionSet.Type, PermissionSet.Label, Assignee.Id, Assignee.Name, Assignee.Email,  Assignee.Profile.Name, Assignee.UserRole.Name
-FROM PermissionSetAssignment 
+SELECT Id, PermissionSetGroupID, PermissionSetId, PermissionSet.Type, PermissionSet.Label, Assignee.Id, Assignee.Name, Assignee.Email, Assignee.Profile.Name, Assignee.UserRole.Name
+FROM PermissionSetAssignment
 WHERE Assignee.IsActive = TRUE 
    AND IsRevoked = FALSE
    AND Assignee.Profile.UserLicense.LicenseDefinitionKey = 'SFDC'
