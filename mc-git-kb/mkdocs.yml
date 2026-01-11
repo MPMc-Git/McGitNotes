@@ -80,6 +80,7 @@ nav:
   - URLz: earls.md # Formatted
   - Business:
     - KPI vs KRI: business/kpi-vs-kri.md # Formatted
+    - Quickbooks: business/quickbooks.md # Formatted
   - Gaming:
     - City of Heroes: gaming/coh.md # Formatted
     - Minecraft: gaming/minecraft.md # Formatted

@@ -3,7 +3,10 @@ tags:
   - Apex
   - Javascript
   - LWC
+  - Permissions
   - Salesforce
+  - User
+  - UsedAI
 ---
 
 ## Display a Salesforce User Permission Set Assignments via LWC

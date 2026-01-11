@@ -3,7 +3,10 @@ tags:
   - Apex
   - Javascript
   - LWC
+  - Objects
+  - Fields
   - Salesforce
+  - UsedAI
 ---
 
 ## Display your SFDC Objects and lookup related Fields via LWC
