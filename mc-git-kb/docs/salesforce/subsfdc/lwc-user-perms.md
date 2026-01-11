@@ -83,7 +83,7 @@ WHERE Assignee.IsActive = TRUE
                     // If the Type is 'Profile', we label it as such using the Profile Name.
                     // Otherwise, we use the standard Permission Set Label.
                     if (psa.PermissionSet.Type == 'Profile') {
-                        this.permSetLabel = 'Profile :: ' + psa.Assignee.Profile.Name;
+                        this.permSetLabel = psa.Assignee.Profile.Name;
                     } else {
                         this.permSetLabel = psa.PermissionSet.Label;
                     }
