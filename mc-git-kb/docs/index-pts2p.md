@@ -3,12 +3,14 @@ tags:
   - 365Days
   - Daily
   - Inspiration
+  - Kaizen
   - Quotes
 ---
 
 #### Thoughts
 - [How to Set Priorities](pts2p/priorities.md)
 - [Japanese Concepts](pts2p/japanese-concepts.md)
+- [Principles of Kaizen](pts2p/kaizen.md)
 - [Storytelling Frameworks](pts2p/storytelling.md)
 
 ## Sayings About Inspiration

@@ -1,6 +1,6 @@
 #### How to Set Priorities When Everything Feels Urgent
-###### (Without feeling guilty for saying no)
--Andrea Patrone<p>
+**(Without feeling guilty for saying no)**<br>
+-Andrea Patrone
 
 1. Don’t start with your tasks, start with your outcomes
     - Ask: “What does success actually look like this week?”
