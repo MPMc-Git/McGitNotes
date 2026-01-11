@@ -13,8 +13,14 @@ tags:
 
 ## CURRENTLY UNTESTED
 
+<small>
+
 **NOTE**: [Transaction Pro Importer](https://www.rightworks.com/products/productivity-software/rightworks-transaction-pro/) is a great tool. This is assuming you don't want to spend the money on that product. You can, however, script mass updates using this tool as well.<br>
-**NOTE 2**: This is also purposely skipping the QuickBooks SDK. Ideally, the steps provided should be repeatable by largely non-technical people. Hopefully.
+This is also purposely skipping the QuickBooks SDK. Ideally, the steps provided should be repeatable by largely non-technical people. Hopefully.
+
+</small>
+
+**Use Case**: If you have an external price list that gets updated, whether on a regular schedule or otherwise, this should help you to import the information into Quickbooks so you don't have to update the information by hand.
 
 ## Importing Items Into Quickbooks Desktop (QBD)
 ??? tip "UpdateQBPrices.ps1"
