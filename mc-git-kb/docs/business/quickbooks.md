@@ -4,7 +4,6 @@ tags:
   - Import
   - Items
   - QBD
-  - QBO
   - Quickbooks
   - PowerShell
   - Prices
@@ -75,10 +74,11 @@ This is also purposely skipping the QuickBooks SDK. Ideally, the steps provided 
         }
         ```
 
-In QBD, **File > Utilities > Import > IIF Files** and navigate to C:\Imports\Mapping.csv<br>
+Then, in QBD, **File > Utilities > Import > IIF Files** and navigate to C:\Imports\Mapping.csv<br>
 ***Warning***: When importing the IIF, QuickBooks might show a prompt saying **"We've improved IIF imports."** If you have the option, choose the **"Import for me I'll fix it later"** (the old manual way) as it is much faster for simple price updates.
 
 ## Updating Imported Items' Prices In QBD
+
 ***This assumes***: You have two files
   - The mapping file built above
   - The new price list
