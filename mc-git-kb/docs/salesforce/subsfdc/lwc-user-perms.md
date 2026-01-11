@@ -6,7 +6,8 @@ tags:
   - Salesforce
 ---
 
-## Display a User Permission Set Assignments via LWC
+## Display a Salesforce User Permission Set Assignments via LWC
+<small>This is based on Salesforce Users only. No Partners.</small>
 
 ![Sample](../../assets/images/UserPerms.png)
 
