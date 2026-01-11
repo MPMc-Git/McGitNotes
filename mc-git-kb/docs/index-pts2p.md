@@ -8,6 +8,7 @@ tags:
 ---
 
 #### Thoughts
+- [Difficult Conversations](pts2p/conversations.md)
 - [How to Set Priorities](pts2p/priorities.md)
 - [Japanese Concepts](pts2p/japanese-concepts.md)
 - [Principles of Kaizen](pts2p/kaizen.md)
