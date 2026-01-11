@@ -293,6 +293,7 @@ th {
 
 ## Schema Stuff
 #### All Record Types
+This only works if you have created Record Types<br>
 This will list Custom Objects first - not sure why
 > SELECT Id, IsActive, SobjectType, Name, DeveloperName, Description
 > FROM RecordType
