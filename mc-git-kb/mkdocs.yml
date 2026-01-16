@@ -115,6 +115,7 @@ nav:
     - SQL: querying/sql.md # Formatted
   - Salesforce:
     - Add'l Items:
+      - Audit Connected Apps: salesforce/subsfdc/audit-connected-apps.md # Formatted
       - ID18: salesforce/subsfdc/salesforce-id18.md # Formatted
       - LWC of Objects/Fields: salesforce/subsfdc/lwc-obj-fld.md # Formatted
       - LWC of PermSet Assignments: salesforce/subsfdc/lwc-user-perms.md # Formatted
