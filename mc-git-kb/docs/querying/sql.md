@@ -1,3 +1,11 @@
+---
+tags:
+  - Data
+  - Fragmentation
+  - SQL
+  - XML PATH
+---
+
 ## Information Gathering
 ### Get All Tables & Fields
 ```sql
