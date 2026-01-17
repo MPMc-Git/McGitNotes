@@ -103,12 +103,14 @@ verify identity before accessing
     - Never grant "Use Any API Client" to business users
 
 ## FINAL THOUGHTS
-**EXTERNAL CLIENT APPS**<br>
+**EXTERNAL CLIENT APPS**
+
 - More secure by default than Connected Apps
 - Can migrate local Connected Apps to External Client Apps for better security
 - Does not stop third parties from using Connected Apps
 - Use API Access Control for full assurance
 
-**ADVANCED MONITORING** (REQUIRES LICENSING)<br>
+**ADVANCED MONITORING** (REQUIRES LICENSING)
+
 - Security Center
 - Event Monitoring
