@@ -120,6 +120,7 @@ nav:
       - LWC of Objects/Fields: salesforce/subsfdc/lwc-obj-fld.md # Formatted
       - LWC of PermSet Assignments: salesforce/subsfdc/lwc-user-perms.md # Formatted
       - Order of Execution: salesforce/subsfdc/sfdc-ooe.md # Formatted
+      - Permissions to Avoid: salesforce/subsfdc/sfdc-never-assign.md # Formatted
     - Apps / Extensions: salesforce/sfdc-apps-exts.md # NEEDS TESTING but Formatted
     - Formulas: salesforce/sfdc-formulae.md
     - Free Tier: salesforce/sfdc-free-tier.md # Formatted

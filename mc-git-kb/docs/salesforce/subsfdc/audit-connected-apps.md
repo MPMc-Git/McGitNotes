@@ -3,6 +3,7 @@ tags:
   - App Policies
   - Connected Apps
   - Event Monitoring
+  - Least Privilege
   - Salesforce
   - Security
 ---

@@ -1,4 +1,13 @@
-### Japanese Concepts That Can Be Helpful
+---
+tags:
+  - Ikigai
+  - Japanese
+  - Kaizen
+  - Kanban
+  - Points 2 Ponder
+---
+
+### Japanese Concepts That Could Be Helpful
 
 1. Gaman (我慢)
     - Staying resilient and patient through challenges.
