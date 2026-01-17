@@ -30,5 +30,5 @@ tags:
 <br>- Manage Custom Report Types :: Create report types that define which objects and fields are reportable together.
 <br>- Manage Territories :: Create, edit, and delete sales territories and assign accounts to territories.
 
-<span style="color: green"><b>LOW</b></span><br>
-The rest? Hopefully?
+<span style="color: green"><b>LOW</b></span>
+**The rest? Hopefully?**
