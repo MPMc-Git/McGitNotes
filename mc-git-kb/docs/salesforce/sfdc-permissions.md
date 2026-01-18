@@ -60,7 +60,7 @@ tags:
     Just me making notes
 
 | Type | Prefix | Primary | Secondary | Purpose/Description |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--: | :--: | :--- |
 | PSG | `Base:` | `Sales`<br>`Marketing` | `Rep`<br>`Mgr`<br>`Ops` | Base level access per User type |
 | PSG | `Temp:` | `Hypercare Support` | 
 | PS | `Object:` | `Lead`<br>`Acct`<br>`Cont`<br>`Opp` | `CreateReadEditDelete`<br>`ViewAll`<br>`ModifyAll` | Access per Object |
