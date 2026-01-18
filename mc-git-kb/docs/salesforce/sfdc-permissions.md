@@ -24,7 +24,6 @@ tags:
 - Manage Territories :: Create, edit, and delete sales territories and assign accounts to territories.
 - Manage Users :: Create users, reset passwords, assign permission sets, and manage licenses.
 - Modify All Data :: Complete read/write/delete access to every record in your org, bypassing all sharing.
-- Transfer Record :: If they have Read access to a Record and Edit on the Object, the User can assign the Record to anybody.
 
 #### <span style="color: orange"><b>High</b></span><br>
 **Causes Silent Chaos**
@@ -33,6 +32,7 @@ tags:
 - Export Reports
 - Transfer Cases :: If they have Read access to a Case and Edit on Cases, the User can assign the Record to anybody.
 - Transfer Leads :: If they have Read access to a Lead and Edit on Leads, the User can assign the Record to anybody.
+- Transfer Record :: If they have Read access to a Record and Edit on the Object, the User can assign the Record to anybody.
 - View All Data :: Read access to every record regardless of sharing rules or ownership.
 
 #### <span style="color: yellow"><b>Medium</b></span><br>
