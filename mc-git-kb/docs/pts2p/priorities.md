@@ -13,21 +13,9 @@ tags:
 
 | | |
 | :--- | :--- |
-| 1. Don’t start with your tasks,<br>start with your outcomes | <small>- Ask: “What does success actually look like this week?”<br>- When you’re clear on results, you can drop what doesn’t serve them.<br>- Busyness ≠ Progress.</small> |
+| Don’t start with your tasks,<br>start with your outcomes | <small>- Ask: “What does success actually look like this week?”<br>- When you’re clear on results, you can drop what doesn’t serve them.<br>- Busyness ≠ Progress.</small> |
+| Use the ‘Impact vs. Effort’ filter | <small>- Not all tasks are equal.<br>- → High impact / low effort = do first<br>→ High impact / high effort = plan and schedule<br>→ Low impact = question if it’s worth doing at all</small>
 
-1. Don’t start with your tasks, start with your outcomes
-    - <small>Ask: “What does success actually look like this week?”</small>
-    - <small>When you’re clear on results, you can drop what doesn’t serve them.</small>
-    - <small>Busyness ≠ Progress.</small>
-
-1. Use the ‘Impact vs. Effort’ filter
-    - Not all tasks are equal.
-Plot your work into 4 categories:
-    - → High impact / low effort = do first
-    - → High impact / high effort = plan and
-schedule
-    - → Low impact = question if it’s worth
-doing at all
 
 1. Prioritize people, not just projects
     - Some of your most important work is
