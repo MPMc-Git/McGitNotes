@@ -12,7 +12,7 @@ tags:
 
 ## Permission Set Risks
 
-<span style="color: red"><b>CRITICAL</b></span><br>
+#### <span style="color: red"><b>CRITICAL</b></span><br>
 **Never Assign to Regular Users**
 
 - [Allow consumer key and secret rotation](https://help.salesforce.com/s/articleView?id=xcloud.connected_app_rotate_consumer_details.htm&type=5)
