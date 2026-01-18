@@ -43,11 +43,13 @@ tags:
 - Manage Reports in Public Folders :: Full control over reports in shared folders accessible to multiple users.
 
 <span style="color: green"><b>LOW</b></span><br>
-**Everything else?**
+**Everything has risk**
+
+- Everything else?
 
 ## Muting Permission Sets
 
-!!! note "They're cool-ish, however..."
-    Can only be assigned to a Permission Set Group.<br>
-    Only affects that Permission Set Group.<br>
-    If a separate PS outside the PSG does the opposite of the MPS, that PS supercedes.
+!!! warning "They're cool-ish, however..."
+    Can only be assigned to a Permission Set Group, and only affects that Permission Set Group.<br>
+    If a separate PS outside the PSG does the opposite of the MPS, that PS supercedes.<br>
+    If you mute "Read" access on an object, Salesforce will automatically mute "Edit," "Delete," "View All," and "Modify All" for that object as well.
