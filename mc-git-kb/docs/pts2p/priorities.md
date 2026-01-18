@@ -12,10 +12,10 @@ tags:
 -Andrea Patrone
 
 1. Don’t start with your tasks, start with your outcomes
-    <small>- Ask: “What does success actually look like this week?”
-    - When you’re clear on results, you can
+    - <small>Ask: “What does success actually look like this week?”</small>
+    - <small>When you’re clear on results, you can</small>
 drop what doesn’t serve them.
-    - Busyness ≠ Progress.</small>
+    - <small>Busyness ≠ Progress.</small>
 
 1. Use the ‘Impact vs. Effort’ filter
     - Not all tasks are equal.
