@@ -12,7 +12,7 @@ tags:
 
 ## Permission Set Risks
 
-#### <span style="color: red"><b>CRITICAL</b></span><br>
+#### <span style="color: red"><b>Critical</b></span><br>
 **Never Assign to Regular Users**
 
 - [Allow consumer key and secret rotation](https://help.salesforce.com/s/articleView?id=xcloud.connected_app_rotate_consumer_details.htm&type=5)
@@ -26,7 +26,7 @@ tags:
 - Modify All Data :: Complete read/write/delete access to every record in your org, bypassing all sharing.
 - Transfer Record :: If they have Read access to a Record and Edit on the Object, the User can assign the Record to anybody.
 
-<span style="color: orange"><b>HIGH</b></span><br>
+#### <span style="color: orange"><b>High</b></span><br>
 **Causes Silent Chaos**
 
 - Apex REST Services
@@ -35,17 +35,17 @@ tags:
 - Transfer Leads :: If they have Read access to a Lead and Edit on Leads, the User can assign the Record to anybody.
 - View All Data :: Read access to every record regardless of sharing rules or ownership.
 
-<span style="color: yellow"><b>MEDIUM</b></span><br>
+#### <span style="color: yellow"><b>Medium</b></span><br>
 **Seems Harmless, but Isn't**
 
 - Manage Custom Report Types :: Create report types that define which objects and fields are reportable together.
 - Manage Public List Views :: Create, edit, and delete list views visible to all users in the organization.
 - Manage Reports in Public Folders :: Full control over reports in shared folders accessible to multiple users.
 
-<span style="color: green"><b>LOW</b></span><br>
-**Everything has risk**
+#### <span style="color: green"><b>Low</b></span><br>
+**Everything has *some* risk**
 
-- Everything else?
+- The rest?
 
 ## Muting Permission Sets
 
