@@ -20,6 +20,8 @@ tags:
 - Bulk API Hard Delete :: Allows users to delete records without them going to the Recycle Bin.
 - Customize Application :: Grants full control over org configuration: fields, objects, page layouts, and flows.
 - Download AppExchange Packages :: Install third-party apps. Auto-enables Customize Application and other permissions.
+- Manage Profiles/Permission Sets :: Create and modify profiles and permission sets that control user access.
+- Manage Territories :: Create, edit, and delete sales territories and assign accounts to territories.
 - Manage Users :: Create users, reset passwords, assign permission sets, and manage licenses.
 - Modify All Data :: Complete read/write/delete access to every record in your org, bypassing all sharing.
 - Transfer Record :: If they have Read access to a Record and Edit on the Object, the User can assign the Record to anybody.
@@ -29,8 +31,6 @@ tags:
 
 - Apex REST Services
 - Export Reports
-- Manage Profiles/Permission Sets :: Create and modify profiles and permission sets that control user access.
-- Manage Territories :: Create, edit, and delete sales territories and assign accounts to territories.
 - Transfer Cases :: If they have Read access to a Case and Edit on Cases, the User can assign the Record to anybody.
 - Transfer Leads :: If they have Read access to a Lead and Edit on Leads, the User can assign the Record to anybody.
 - View All Data :: Read access to every record regardless of sharing rules or ownership.
@@ -53,3 +53,18 @@ tags:
     Can only be assigned to a Permission Set Group, and only affects that Permission Set Group.<br>
     If a separate PS outside the PSG does the opposite of the MPS, that PS supercedes.<br>
     If you mute "Read" access on an object, Salesforce will automatically mute "Edit," "Delete," "View All," and "Modify All" for that object as well.
+
+## Naming Conventions
+
+!!! note "Thoughts On Naming Conventions"
+    Just me making notes
+
+| Type | Prefix | Primary | Secondary | Purpose/Description |
+| :--- | :--- | :--- | :--- | :--- |
+| PSG | `Base:` | `Sales`<br>`Marketing` | `Rep`<br>`Mgr`<br>`Ops` | Base level access per User type |
+| PSG | `Temp:` | `Hypercare Support` | 
+| PS | `Object:` | `Lead`<br>`Acct`<br>`Cont`<br>`Opp` | `CreateReadEditDelete`<br>`ViewAll`<br>`ModifyAll` | Access per Object |
+| PS | `App:` | `Mulesoft`<br>`DocuSign`<br>`Workbench` | `Admin`<br>`User`<br>`View` | If you need a custom PS for third-party apps |
+| PS | `System:` | `Export Reports`<br>`API Enabled` | | High-risk system settings |
+| PS | `Functional:` | `Manage Articles`<br>`Access Activities` | | Lower-risk system settings |
+| PS | `Functional:` | `Manager Can Transfer Records` | | This can also be named after the function |
