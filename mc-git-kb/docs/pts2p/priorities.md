@@ -11,6 +11,10 @@ tags:
 **(Without feeling guilty for saying no)**<br>
 -Andrea Patrone
 
+| | |
+| :--- | :--- |
+| 1. Don’t start with your tasks,<br>start with your outcomes | <small>- Ask: “What does success actually look like this week?”</small><br>- When you’re clear on results, you can drop what doesn’t serve them.<br>- Busyness ≠ Progress.</small> |
+
 1. Don’t start with your tasks, start with your outcomes
     - <small>Ask: “What does success actually look like this week?”</small>
     - <small>When you’re clear on results, you can drop what doesn’t serve them.</small>
