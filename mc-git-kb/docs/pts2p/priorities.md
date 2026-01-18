@@ -1,6 +1,7 @@
 ---
 tags:
   - Business
+  - Points to Ponder
   - Priorities
 ---
 
