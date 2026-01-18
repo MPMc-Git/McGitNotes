@@ -12,7 +12,7 @@ tags:
 -Andrea Patrone
 
 1. Don’t start with your tasks, start with your outcomes
-    - <small>Ask: “What does success actually look like this week?”
+    <small>- Ask: “What does success actually look like this week?”
     - When you’re clear on results, you can
 drop what doesn’t serve them.
     - Busyness ≠ Progress.</small>
