@@ -80,7 +80,7 @@ priorities faster.
 - Non-Urgent & Important: Schedule It
 - Non-Urgent & Non-Important: Delete It
 ###### 3-3-3 Method
-*Plan your day to complete*
+*Plan your day to complete*<br>
 - 3 hours of deep work on an important project
 - 3 urgent tasks like crucial meetings, emails, to-dos
 - 3 maintenance tasks for a smoother life
