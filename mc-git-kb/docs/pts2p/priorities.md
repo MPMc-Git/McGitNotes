@@ -13,8 +13,7 @@ tags:
 
 1. Don’t start with your tasks, start with your outcomes
     - <small>Ask: “What does success actually look like this week?”</small>
-    - <small>When you’re clear on results, you can</small>
-drop what doesn’t serve them.
+    - <small>When you’re clear on results, you can drop what doesn’t serve them.</small>
     - <small>Busyness ≠ Progress.</small>
 
 1. Use the ‘Impact vs. Effort’ filter
