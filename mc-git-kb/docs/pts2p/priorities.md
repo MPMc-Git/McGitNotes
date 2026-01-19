@@ -7,7 +7,7 @@ tags:
 
 ## How to Set Priorities
 
-#### ...When Everything Feels Urgent
+### ...When Everything Feels Urgent
 **(Without feeling guilty for saying no)**<br>
 -Andrea Patrone
 
@@ -21,10 +21,10 @@ tags:
 | Share your focus with your team | <small>- You can’t lead with clarity if you prioritize in silence.<br>- Tell your team what you’re working on—and why. This creates:<br>✓ Alignment<br>✓ Accountability<br>✓ Fewer interruptions</small> |
 | Check in weekly—what’s noise vs what matters? | <small>- Over time, you’ll learn to spot true priorities faster.<br>- Each week, ask:<br>→ What’s the most valuable thing I did?<br>→ What could I drop with no real consequence?</small> |
 
-#### ...When Your Plate Is Too Full
+### ...When Your Plate Is Too Full
 -Eric Partaker
 
-##### For Individuals
+#### For Individuals
 *List out what needs to get done. Use the below 3 tools to make decisions, prioritize, and schedule.*
 
 ###### Eisenhower Matrix
@@ -45,17 +45,31 @@ tags:
 1. Schedule a specific task in each block
 1. Focus only on that task during the assigned block
 
-##### For Teams
+#### For Teams
 *Be sure your team has clear goals. Gather all team tasks, and use the below tools to plan, prioritize, and collaborate*
 
 ###### ABCDE Method
 *Prioritize tasks based on consequences*
 
+- **A** :: Highest priority for today; severe consequences if not completed
+- **B** :: Important to do today; minor consequences if not completed
+- **C** :: Nice to do today; no consequences if not completed
+- **D** :: Delegate if possible
+- **E** :: Eliminate entirely
+
 ###### MoSCoW Method
 *Sort tasks into categories*
+
+- **M** :: Must Have - Crucial tasks for success
+- **S** :: Should Have - Important, not crucial
+- **C** :: Could Have - Nice to have
+- **W** :: Won't Have - Out of scope
 
 ###### Kanboan Board
 *Organize & coordinate your team's priorities*
 
-##### For Leaders
-*Focus is key. Know your top goals and avoid doing too much. Use the below tools to prioritize & streamline.*
+| **To Do** | **Doing** | **Done** |
+| :--: | :--: | :--: |
+| Post-it | Post-it | Post-it |
+| Post-it | Post-it | |
+| Post-it | | |
