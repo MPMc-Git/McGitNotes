@@ -18,7 +18,7 @@ tags:
 | Prioritize people, not just projects | <small>- Some of your most important work is invisible:<br>→ Building trust<br>→ Unblocking teammates<br>→ Clarifying direction</small> |
 | Choose 3 priorities per day | <small>- The brain isn’t built for 10 urgent tasks.<br>- Choose 3 things that matter most.</small> |
 | Say “not now” without guilt | <small>- You protect priorities by protecting your focus.<br>You don’t have to say “no” forever—just not now.<br>→ “Happy to explore this—can we revisit next week?”<br>→ “This deserves full attention, but I’m focused elsewhere today.”</small> |
-| Share your focus with your team | <small>You can’t lead with clarity if you prioritize in silence.<br>Tell your team what you’re working on—and why. This creates:<br>✓ Alignment<br>✓ Accountability<br>✓ Fewer interruptions</small> |
+| Share your focus with your team | <small>- You can’t lead with clarity if you prioritize in silence.<br>- Tell your team what you’re working on—and why. This creates:<br>✓ Alignment<br>✓ Accountability<br>✓ Fewer interruptions</small> |
 | Check in weekly—what’s noise vs what matters? | <small>- Over time, you’ll learn to spot true priorities faster.<br>- Each week, ask:<br>→ What’s the most valuable thing I did?<br>→ What could I drop with no real consequence?</small> |
 
 #### ...When Your Plate Is Too Full
@@ -45,3 +45,17 @@ tags:
 1. Schedule a specific task in each block
 1. Focus only on that task during the assigned block
 
+##### For Teams
+*Be sure your team has clear goals. Gather all team tasks, and use the below tools to plan, prioritize, and collaborate*
+
+###### ABCDE Method
+*Prioritize tasks based on consequences*
+
+###### MoSCoW Method
+*Sort tasks into categories*
+
+###### Kanboan Board
+*Organize & coordinate your team's priorities*
+
+##### For Leaders
+*Focus is key. Know your top goals and avoid doing too much. Use the below tools to prioritize & streamline.*
