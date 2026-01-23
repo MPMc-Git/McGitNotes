@@ -8,6 +8,7 @@ tags:
 ---
 
 #### Thoughts
+- [Decision-Making Framworks](pts2p/decision-making.md)
 - [Difficult Conversations](pts2p/conversations.md)
 - [Japanese Concepts](pts2p/japanese-concepts.md)
 - [Principles of Kaizen](pts2p/kaizen.md)
