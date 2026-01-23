@@ -10,7 +10,7 @@ tags:
 **I BOUGHT BABOK!**
 <br>These are notes; if you want to gain deeper clarity, click the link and buy the materials.
 
-## [IIBA Site](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/) - Click me!
+## [IIBA Site](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/){:target="_blank" rel="noopener noreferrer"} - Click me!
 
 ## Preface
 IIBA was founded in Toronto October 2003, but BABOK release 1.0 showed up January 2005. More versions were created. The Business Analysis Core Concet Model (BACCM) was added. I appreciate the following: "The BABOK® Guide should not be construed to mandate that the practices described in this publication should be followed under all circumstances. Any set of practices must be tailored to the specific conditions under which business analysis is being performed."
