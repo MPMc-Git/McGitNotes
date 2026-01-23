@@ -79,6 +79,7 @@ nav:
   - Start Here: index.md # Formatted
   - URLz: earls.md # Formatted
   - Business:
+    - BABOK®: business/subbiz/babok.md # Formatted
     - KPI vs KRI: business/kpi-vs-kri.md # Formatted
     - Quickbooks: business/quickbooks.md # Formatted
   - Gaming:
