@@ -27,7 +27,7 @@ IIBA was founded in Toronto October 2003, but BABOK release 1.0 showed up Januar
 
 **1.4 Structure of the Guide**<br>
 &emsp;Key Concepts
-- Business Analisys Core Concept Model:tm: (BACCM:tm")
+- Business Analisys Core Concept Model:tm: (BACCM:tm:)
 
 ## 2. BA Key Concepts
 
