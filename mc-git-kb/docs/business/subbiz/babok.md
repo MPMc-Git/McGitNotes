@@ -26,7 +26,8 @@ IIBA was founded in Toronto October 2003, but BABOK release 1.0 showed up Januar
 &emsp;"Business analysts are responsible for discovering, synthesizing, and analyzing information from a variety of sources within an enterprise, including tools, processes, documentation, and stakeholders. The business analyst is responsible for eliciting the actual needs of stakeholders—which frequently involves investigating and clarifying their expressed desires—in order to determine underlying issues and causes."
 
 **1.4 Structure of the Guide**<br>
-&emsp;
+&emsp;Key Concepts
+- Business Analisys Core Concept Model:tm: (BACCM:tm")
 
 ## 2. BA Key Concepts
 
