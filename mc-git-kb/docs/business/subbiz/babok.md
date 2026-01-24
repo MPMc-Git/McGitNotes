@@ -30,17 +30,17 @@ IIBA was founded in Toronto October 2003, but BABOK release 1.0 showed up Januar
 
 <small>
 
-| | | |
-| :--- | :--- | :--- |
-| *Key Concepts* | | *Knowledge Areas* |
-| - Business Analisys Core Concept Model:tm: (BACCM:tm:)<br>- Key Terms<br>- Requirements Classification Schema<br>- Stakeholders<br>- Requirements and Design | | - Business Analysis Planning and Monitoring<br>- Elicitation and Collaboration<br>- Requirements Life Cycle Management<br>- Strategy Analysis<br>- Requirements Analysis and Design Definition<br>- Solution Evaluation |
-| *Tasks* | | *Underlying Competencies* |
-| *Tasks Structure* | | *Underlying Competencies Structure* |
-| - Purpose<br>- Description<br>- Inputs<br>- Elements | - Guidelines/Tools<br>- Techniques<br>- Stakeholders<br>- Outputs | - Purpose<br>- Definition<br>- Effectiveness Measures |
-| *Techniques* | | *Perspectives* |
-| | | - Agile<br>- Business Intelligence<br>- Information Technology<br>- Business Architecture<br>- Business Process Management |
-| | | *Perspectives Structure* |
-| | | - Change Scope<br>- Business Analysis Scope<br>- Methodologies, Approaches, and Techniques<br>- Underlying Competencies<br>- Impact on Knowledge Areas |
+| | |
+| :--- | :--- |
+| *Key Concepts* | *Knowledge Areas* |
+| - Business Analisys Core Concept Model:tm: (BACCM:tm:)<br>- Key Terms<br>- Requirements Classification Schema<br>- Stakeholders<br>- Requirements and Design | - Business Analysis Planning and Monitoring<br>- Elicitation and Collaboration<br>- Requirements Life Cycle Management<br>- Strategy Analysis<br>- Requirements Analysis and Design Definition<br>- Solution Evaluation |
+| *Tasks* | *Underlying Competencies* |
+| *Tasks Structure* | *Underlying Competencies Structure* |
+| - Purpose<br>- Description<br>- Inputs<br>- Elements<br>- Guidelines/Tools<br>- Techniques<br>- Stakeholders<br>- Outputs | - Purpose<br>- Definition<br>- Effectiveness Measures |
+| *Techniques* | *Perspectives* |
+| | - Agile<br>- Business Intelligence<br>- Information Technology<br>- Business Architecture<br>- Business Process Management |
+| | *Perspectives Structure* |
+| | - Change Scope<br>- Business Analysis Scope<br>- Methodologies, Approaches, and Techniques<br>- Underlying Competencies<br>- Impact on Knowledge Areas |
 
 </small>
 
