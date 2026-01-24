@@ -54,7 +54,7 @@ IIBA was founded in Toronto October 2003, but BABOK release 1.0 showed up Januar
 <br>&emsp;- *Solution*: Satisfies a need by resolving a problem faced by stakeholders.
 <br>&emsp;- *Stakeholder*: Group or individual with a relationship to the change, need, or solution, which can include interest in, impact on, influence over the change.
 <br>&emsp;- *Value*: Can be seen as potential or realized returns, gains, improvements.
-<br>&emsp;- *Context*: Circumstances that influence, are influenced by, provide understanding of the change.
+<br>&emsp;- *Context*: Circumstances that influence, are influenced by, provide understanding of the change. Context may include attitudes, behaviours, beliefs, competitors, culture, demographics, goals, governments, infrastructure, languages, losses, processes, products, projects, sales, seasons, terminology, technology, weather, and any other element meeting the definition.
 
 
 ## 3. BA Planning & Monitoring
