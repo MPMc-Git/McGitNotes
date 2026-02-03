@@ -44,3 +44,14 @@ A2 being the Google Sheets Tab ID (gid=1896709346)
 ```excel
 =HYPERLINK("#gid="&A2,REGEXEXTRACT(CELL("address",SheetName!$A$1),"'?([^']+)'?!"))
 ```
+
+#### Dynamic Array with CountIF
+This will show all the Unique values and how many times they show up. Two columns.
+```excel
+=LET(data, B1:B20, u, UNIQUE(data), HSTACK(u, COUNTIF(data, u)))
+```
+
+This will show all the Unique values and how many times they show up, but with one column!
+```excel
+=LET(data, B1:B20, u, UNIQUE(data), u & "  (" & COUNTIF(data, u) & ")")
+```
