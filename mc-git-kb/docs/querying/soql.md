@@ -244,6 +244,14 @@ th {
 </table>
 </div>
 
+#### Group Memberships
+```sql
+SELECT UserOrGroupId, UserOrGroup.Name, Group.Id, Group.Type, Group.Related.Name, Group.Name, Group.DeveloperName, Group.Description, Group.DoesIncludeBosses
+FROM Groupmember
+WHERE UserOrGroup.IsActive = TRUE
+ORDER BY Group.DeveloperName, UserOrGroup.Name
+```
+
 #### All Permission Sets in Permission Set Groups
 > SELECT Id, PermissionSetGroupId, PermissionSetGroup.MasterLabel, PermissionSetId, PermissionSet.Name
 > FROM PermissionSetGroupComponent
