@@ -10,16 +10,16 @@ tags:
 #### Hyperlink to Record
 This creates a Hyperlink that'll work in any Salesforce Organization - no hardcoding the URL<br>
 'Task Link' is what will be displayed<br>
-<small>*NOTE*: 550 is the API Version, so you may need to update this to make sure you're not using a deprecated API Version.</small>
+<small>*NOTE*: 620 is the API Version (v62.0), so you may need to update this to make sure you're not using a deprecated API Version.</small>
 ```sql
 HYPERLINK(
-LEFT($Api.Partner_Server_URL_550, FIND( '/services', $Api.Partner_Server_URL_550)) & Id, 'Task Link')
+LEFT($Api.Partner_Server_URL_620, FIND( '/services', $Api.Partner_Server_URL_620)) & Id, 'Task Link')
 ```
 
 Same code but for a Flow
 ```sql
 HYPERLINK(
-LEFT($Api.Partner_Server_URL_550, FIND( '/services', $Api.Partner_Server_URL_550)) & {!$Record.Id}, 'Task Link')
+LEFT($Api.Partner_Server_URL_620, FIND( '/services', $Api.Partner_Server_URL_620)) & {!$Record.Id}, 'Task Link')
 ```
 
 #### Dynamic URL Button
