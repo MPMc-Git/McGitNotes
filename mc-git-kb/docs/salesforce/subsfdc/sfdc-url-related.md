@@ -22,7 +22,6 @@ HYPERLINK(
 LEFT($Api.Partner_Server_URL_620, FIND( '/services', $Api.Partner_Server_URL_620)) & {!$Record.Id}, 'Task Link')
 ```
 
-
 #### Dynamic URL Button
 This is useful if you connect to an External Application via URL, but it changes depending on which Sandbox you are in.
 
