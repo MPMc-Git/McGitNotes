@@ -43,11 +43,13 @@ This is useful if you connect to an External Application via URL, but it changes
 ```sql
 IF(
   ISBLANK($Setup.Ext_Site_Cfg__c.Ext_Site_Name__c),"https://site.host.tld/",
-  "https://site-" & LOWER($Setup.Ext_Site_Cfg__c.Ext_Site_Name__c) & ".host.tld/")
+  "https://site-" & LOWER($Setup.Ext_Site_Cfg__c.Ext_Site_Name__c) & ".host.tld/"
+)
 ```
     
 ```sql
 IF(
   ISBLANK($Setup.Ext_Site_Cfg__c.Ext_Site_Name__c),"https://site.host.tld/Page.aspx?id="&{!Object.ExtId__c},
-  "https://site-" & LOWER($Setup.Ext_Site_Cfg__c.Ext_Site_Name__c) & ".host.tld/Page.aspx?id="&{!Object.ExtId__c})
+  "https://site-" & LOWER($Setup.Ext_Site_Cfg__c.Ext_Site_Name__c) & ".host.tld/Page.aspx?id="&{!Object.ExtId__c}
+)
 ```
