@@ -36,20 +36,6 @@ MID("ABCDEFGHIJKLMNOPQRSTUVWXYZ012345",(
 ```
 
 ## Formula Fields
-#### Hyperlink to Record
-This creates a Hyperlink that'll work in any Salesforce Organization - no hardcoding the URL<br>
-'Task Link' is what will be displayed
-```sql
-HYPERLINK(
-LEFT($Api.Partner_Server_URL_550, FIND( '/services', $Api.Partner_Server_URL_550)) & Id, 'Task Link')
-```
-
-Same code but for a Flow
-```sql
-HYPERLINK(
-LEFT($Api.Partner_Server_URL_550, FIND( '/services', $Api.Partner_Server_URL_550)) & {!$Record.Id}, 'Task Link')
-```
-
 #### Show a Date Field as YYYY-MM-DD
 
 ```sql
