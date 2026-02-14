@@ -31,7 +31,7 @@ This is useful if you connect to an External Application via URL, but it changes
     - Field Label: "Ext Site Name"
     - API Name: "Ext_Site_Name"
 1. Set Default Organization Level Value
-    - Ext Site Name: <Varies by Org>
+    - Ext Site Name: Varies by Org
     - Leave blank if Production, or add in the Sandbox value for the external site
 1. Create the Detail Page Button in your Object
     - Label: "Go to Ext Site Record"
