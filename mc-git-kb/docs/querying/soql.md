@@ -93,6 +93,18 @@ th {
   </td>
  </tr>
  <tr>
+  <th colspan=2>Users with Frozen status using a subquery</th>
+ </tr>
+ <tr>
+  <td colspan=2>
+   ```sql
+   SELECT Id, Name, Email, UserRole.Name, Profile.Name, (SELECT IsFrozen FROM UserLogins) 
+   FROM User 
+   WHERE IsActive = true
+   ```
+  </td>
+ </tr>
+ <tr>
   <th>...with their Roles & Profiles</th>
   <th>Counts of Types & Profiles</th>
  </tr>
