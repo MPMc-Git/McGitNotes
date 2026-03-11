@@ -7,7 +7,7 @@ tags:
 ---
 
 ## UN Universal Declaration of Human Rights (UHDR)
-**10 December 1948**
+**10 December 1948** <small>[source](https://www.un.org/en/about-us/universal-declaration-of-human-rights)</small>
 
 #### Preamble
 <small>Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,<p>
