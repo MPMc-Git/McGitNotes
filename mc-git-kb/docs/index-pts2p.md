@@ -15,6 +15,8 @@ tags:
 - ["Laws"](pts2p/laws.md)
 - [How to Set Priorities](pts2p/priorities.md)
 - [Storytelling Frameworks](pts2p/storytelling.md)
+- [UN Universal Declaration of Human Rights](pts2p/uhdr.md)
+
 
 ## Sayings About Inspiration
 <small>Pretty sure I can't pronounce any of these</small>
