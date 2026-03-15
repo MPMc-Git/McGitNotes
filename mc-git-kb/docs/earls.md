@@ -72,6 +72,7 @@ tags:
 #### Other
 - [APA Generator](https://www.mybib.com/tools/apa-citation-generator){:target="_blank"}
 - [Diagrams.net](https://app.diagrams.net/){:target="_blank"} - free Visio-like software
+- [FREE](https://www.freefreeforum.org){:target="_blank"} - Form for Real Economic Emancipation
 - [Google Cloud](https://console.cloud.google.com/){:target="_blank"}
 - [Have I Been Pwned](https://haveibeenpwned.com/){:target="_blank"} - free email address lookup related to data breaches
 - [IT Tools](https://it-tools.tech/){:target="_blank"} - most of these tools I don't even understand yet
