@@ -11,8 +11,9 @@ tags:
     City of Heroes was/is a game...
 
 ### URLs
+- [Forums & Installation](https://forums.homecomingservers.com/)
+- [CoH Mod Loader](https://cityofheroes.dev/mods/)
 - [Homecoming Wiki](https://homecoming.wiki/wiki/Main_Page)
-- [Forums](https://forums.homecomingservers.com/)
 - [Advanced Popmenus](https://forums.homecomingservers.com/topic/34883-advanced-popmenus-icons-locking-by-power-and-more/#comment-453221)
 - [COH Icons](https://docs.google.com/spreadsheets/d/1uHUi6BWFTYj4wbfGBs3LjZL88Fym6B-8EwDr18YZcY8/edit?gid=852710698#gid=852710698)
 - [Sidekick](https://coh-sidekick.com/) - Like Mids, but online!
@@ -27,6 +28,7 @@ These **Popmenus** will download automatically<br>
 
 
 [//]: # ( ~/Games/Homecoming/pfx/drive_c/Games/Homecoming/data/texts/English/Menus )
+[//]: # (  )
 
 Copy/Paste the **Macros**
 
@@ -36,8 +38,6 @@ Copy/Paste the **Macros**
 | LFG | `/macro LFG "lfg Lvl $level $archetype ($primary / $secondary) LFG"` | |
 | Backups | `/macro "SAVE" "chat_save_file chat.txt$$option_save_file option.txt$$wdw_save_file wdw.txt"` | |
 | Loads | `/macro "LOAD" "chat_load_file chat.txt$$option_load_file option.txt$$wdw_load_file wdw.txt"` | |
-
-
 
 ### Macro Notes
 
