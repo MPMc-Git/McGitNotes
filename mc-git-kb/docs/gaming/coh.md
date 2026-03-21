@@ -14,12 +14,13 @@ tags:
 - [Forums & Installation](https://forums.homecomingservers.com/)
 - [CoH Mod Loader](https://cityofheroes.dev/mods/)
 - [Homecoming Wiki](https://homecoming.wiki/wiki/Main_Page)
-- [Advanced Popmenus](https://forums.homecomingservers.com/topic/34883-advanced-popmenus-icons-locking-by-power-and-more/#comment-453221)
-- [COH Icons](https://docs.google.com/spreadsheets/d/1uHUi6BWFTYj4wbfGBs3LjZL88Fym6B-8EwDr18YZcY8/edit?gid=852710698#gid=852710698)
+- [Badger - CoH Badge Tracker](https://n15g.github.io/badger/#/characters)
 - [Sidekick](https://coh-sidekick.com/) - Like Mids, but online!
 - [Mids Reborn - GitHub](https://github.com/LoadedCamel/MidsReborn)
 - [Mids Reborn - Install](https://updates.midsreborn.com/full_updates/)
 - [Mids Reborn - Linux](subgaming/mids.md)
+- [Advanced Popmenus](https://forums.homecomingservers.com/topic/34883-advanced-popmenus-icons-locking-by-power-and-more/#comment-453221)
+- [COH Icons](https://docs.google.com/spreadsheets/d/1uHUi6BWFTYj4wbfGBs3LjZL88Fym6B-8EwDr18YZcY8/edit?gid=852710698#gid=852710698)
 
 ### My Creations
 These **Popmenus** will download automatically<br>
