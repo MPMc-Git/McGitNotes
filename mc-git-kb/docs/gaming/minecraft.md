@@ -1,3 +1,11 @@
+---
+tags:
+  - Building
+  - Game
+  - Minecraft
+  - Sandbox
+---
+
 ## Minecraft stuffs, mostly command blocks
 
 #### Show Feedback
