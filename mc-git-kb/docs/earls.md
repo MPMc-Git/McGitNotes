@@ -27,6 +27,11 @@ tags:
 - [The Movie Database](https://developer.themoviedb.org/docs/getting-started){:target="_blank"}
 - [Weather API](https://openweathermap.org/api){:target="_blank"}
 
+#### Artificial Intelligences
+- [AI DevKit](https://ai-devkit.com){:target="_blank"}
+- [Data Center Map](https://www.datacentermap.com){:target="_blank"}
+- [Data Drain: The Land and Water Impacts of the AI Boom](https://www.lincolninst.edu/publications/land-lines-magazine/articles/land-water-impacts-data-centers/){:target="_blank"}
+
 #### Compliance-Related
 - [SOX Compliance 2025 Complete Guide](https://auditboard.com/blog/sox-compliance){:target="_blank"}
 
