@@ -78,6 +78,12 @@ nav:
 # -> FIX THIS    - SOQL: salesforce/soql-cp.md # Copied from Original
   - Start Here: index.md # Formatted
   - URLz: earls.md # Formatted
+  - A.I.:
+    - AI Devkit: ai/ai-devkit.md # Formatted
+    - Claude: ai/claude.md # Formatted
+    - LM Studio: ai/lm-studio.md # Formatted
+    - Notebook LM: ai/notebook-lm.md # Formatted
+    - Skills & Tools: ai/skills-tools.md # Formatted
   - Business:
     - BABOK®: business/subbiz/babok.md # Formatted
     - KPI vs KRI: business/kpi-vs-kri.md # Formatted
