@@ -29,7 +29,6 @@ tags:
 
 #### Artificial Intelligences
 - [AI DevKit](https://ai-devkit.com){:target="_blank"}
-- [Data Center Map](https://www.datacentermap.com){:target="_blank"}
 - [Data Drain: The Land and Water Impacts of the AI Boom](https://www.lincolninst.edu/publications/land-lines-magazine/articles/land-water-impacts-data-centers/){:target="_blank"}
 
 #### Compliance-Related
