@@ -25,6 +25,7 @@ tags:
 | :--: | :--- | :--- |
 | French | Créer, c'est vivre deux fois | "To create is to live twice." |
 | French | Imaginer c'est choisir | "To imagine is to choose." |
+| Latin | Finge Elige | The Imperative Command: "Imagine, choose." |
 | Greek | Μεράκι (Meraki) | This single, untranslatable word is sometimes used as a charm or guiding concept. It means to do something with soul, creativity, or love. |
 | Japanese | Ikigai (生き甲斐) | "A reason for being" or<br/>"The thing that makes life worth living." |
 | Welsh | Awen | Inspiration / Muse / Flowing Spirit<br/>The divine creative force. |
