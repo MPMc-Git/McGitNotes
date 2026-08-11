@@ -9,6 +9,8 @@ markdown_extensions:
   - meta
   - pymdownx.details # For collapsible content
   - pymdownx.emoji # Emoji support
+    # emoji_index: !!python/name:material.extensions.emoji.twemoji
+    # emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.escapeall # Escape special characters
   - pymdownx.highlight # Enhanced syntax highlighting - ISSUES ARE BEING HAD
 #      anchor_linenums: true
@@ -42,7 +44,7 @@ theme:
     # Removed navigation.sections so I could have drop-downs
     # Removed navigation.tabs due to issues with screen sizing
     - navigation.indexes
-    - navigation.insant # Instant navigation
+    - navigation.instant # Instant navigation
     - search.highlight
     - search.share
     - search.suggest # Helpful search suggestions
@@ -90,6 +92,7 @@ nav:
     - Quickbooks: business/quickbooks.md # Formatted
   - Gaming:
     - City of Heroes: gaming/coh.md # Formatted
+    - D&D: gaming/dnd.md # Formatted
     - Minecraft: gaming/minecraft.md # Formatted
     - Valheim: gaming/valheim.md # Formatted
   - Hardware:
