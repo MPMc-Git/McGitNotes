@@ -77,6 +77,13 @@
     padding: 0.5rem;
 }
 
+.char-table td.header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 .char-table td.stat-name {
     font-size: 1.1rem;
     font-weight: bold;
@@ -89,6 +96,10 @@
     font-size: 1.1rem;
     font-variant: small-caps;
     font-weight: bold;
+    text-align: center;
+}
+
+.char-table td.number {
     text-align: center;
 }
 

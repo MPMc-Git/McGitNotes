@@ -12,11 +12,13 @@ tags:
 <table class="char-table">
  <tbody>
   <tr>
+   <td class="skill-name">Test</td>
+   <td></td>
+  </tr>
+  <tr>
    <td class="stat-name">STR</td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td class="number"></td>
+   <td class="number"></td>
   </tr>
   <tr>
    <td class="stat-name">DEX</td>
