@@ -92,7 +92,7 @@ nav:
     - Quickbooks: business/quickbooks.md # Formatted
   - Gaming:
     - City of Heroes: gaming/coh.md # Formatted
-    - D&D: gaming/dnd.md # Formatted
+    - D&D 5th Ed: gaming/dnd5e.md # Formatted
     - Minecraft: gaming/minecraft.md # Formatted
     - Valheim: gaming/valheim.md # Formatted
   - Hardware:
