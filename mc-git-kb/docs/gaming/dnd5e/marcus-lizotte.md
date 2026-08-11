@@ -1,4 +1,5 @@
 ---
+title: Brother Marcus Lizotte
 tags:
   - 5e
   - PC
@@ -7,8 +8,6 @@ tags:
   - Links
   - URLs
 ---
-
-## Brother Marcus Lizotte
 
 <table class="char-table">
  <tbody>
