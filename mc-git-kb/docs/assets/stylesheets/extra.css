@@ -75,6 +75,7 @@
 
 .char-table td {
     padding: 0.5rem;
+    vertical-align: middle;
 }
 
 .char-table td.header {
@@ -85,7 +86,7 @@
 }
 
 .char-table td.small-header {
-    font-size: 0.75rem;
+    font-size: 0.5rem;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase !important;
