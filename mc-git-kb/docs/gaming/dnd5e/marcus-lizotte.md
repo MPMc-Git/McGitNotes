@@ -25,7 +25,8 @@ tags:
    <td></td>
    <td class="small-header">total</td>
    <td class="small-header">mod</td>
-   <td></td>
+   <td class="small-header">save</td>
+   <td class="small-header">prof</td>
   </tr>
   <tr>
    <td class="stat-name">STR</td>
