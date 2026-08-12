@@ -69,8 +69,8 @@
     border-collapse:collapse;
     border-radius: 6px;
     overflow: hidden; /* Required for border-radius to work */
-    width: 90%;
-    margin: 1.5rem auto; /* Centers table on the page */
+    width: 95%;
+    margin: 1rem auto; /* Centers table on the page */
 }
 
 .char-table td {
