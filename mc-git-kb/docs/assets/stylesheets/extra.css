@@ -81,14 +81,14 @@
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: uppercase !important;
 }
 
 .char-table td.small-header {
     font-size: 0.75rem;
     font-weight: bold;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: uppercase !important;
 }
 
 .char-table td.stat-name {
@@ -96,7 +96,7 @@
     font-weight: bold;
     letter-spacing: 0.05em;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: uppercase !important;
 }
 
 .char-table td.skill-name {
