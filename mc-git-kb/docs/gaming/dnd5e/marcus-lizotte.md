@@ -32,13 +32,14 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
    <td class="number">+0</td>
    <td class="number">+0</td>
    <td class="number"></td>
-   <td rowspan=6 class="skill-name">
+   <td rowspan=6 class="small-text">
     <ul>
      <li>Wealth: 8 (Middle-Class)</li>
      <li>Background: Academic (Occultism)</li>
      <li>Languages: Common, Undercommon, Ecclesiastical Latin, TBD</li>
      <li>Weapon Profs: Simple, Martial, Submachine Guns</li>
      <li>Armor Profs: Light, Medium, Shields</li>
+     <li>Tool Profs: Forensics Kit, Herbalism Kit</li>
      <li>Other Profs: Vehicles (Land)</li>
      <li>City Domain: Heart of the City</li>
      <li>Background: Let Me Call an Expert</li>

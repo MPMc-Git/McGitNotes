@@ -110,6 +110,10 @@
     text-align: center;
 }
 
+.char-table td.small-text {
+    font-size: 0.75rem;
+}
+
 /* LIGHT MODE STYLING */
 [data-md-color-scheme="default"] .char-table {
     background-color: #ffffff;
