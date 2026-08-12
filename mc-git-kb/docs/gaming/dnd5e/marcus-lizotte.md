@@ -13,13 +13,13 @@ Race: Human
 Alignment: Chaotic Good
 Class: Cleric (City Domain)
 Wealth: 8 (Middle-Class)
-Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see})
-Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City)?
+Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})
+Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?
 
 <table class="char-table">
  <tbody>
   <tr>
-   <td></td>
+   <td><center>📊</center></td>
    <td class="small-header">total</td>
    <td class="small-header">mod</td>
    <td class="small-header">save</td>
@@ -77,18 +77,18 @@ Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Cel
  </tbody>
 </table>
 
-### Character Summary
+### 🧑‍💼 BACKGROUND & IDENTITY
 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
-Formerly a teacher of occult practices for higher-level clergy, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work.
+Formerly a teacher of occult practices for higher-level clergy in a related reilgious tradition, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work and was directed to The CDGF.
 <p><p>
-<i>The Church he serves:</i> <b>The Church of Divine Guidance & Freedom</b>
+<b>The Church of Divine Guidance & Freedom</b>
  <ul>
-  <li> <i>About:</i>> This church is centered on two core theological principles: divine direction and absolute personal free will. It teaches that the Divine offers protection and guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas.</li>
+  <li> <i>About:</i> This church is centered on two core theological principles: divine direction and absolute personal free will. It teaches that the Divine offers protection and guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas.</li>
   <li> <i>How it influences Marcus:</i> As a Chaotic Good urban minister, Marcus rejects rigid municipal or ecclesiastical bureaucracy. He follows his own conscience and street-level instincts to protect the city's citizenry, using his academic connections, street contacts, and technomagic to serve his community directly.</li>
   <li> <i>Holy Symbol:</i> Ring with Vegsivir, Futhark Runes, Valknuts</li>
-  <li> <i>Deity:</i> The Divine as a title and not any specific name, not even God.</li>
-  <li> <i>Holy Figures:</i> St. John of the Cross, Meister Eckhart, Friedrich Nietzsche</li>
+  <li> <i>Deity:</i> The Divine as a title and not any specific name.</li>
+  <li> <i>Holy Figures:</i> Savras, god of divination and fate, Selûne, goddess of the moon, St. John of the Cross, Meister Eckhart, Friedrich Nietzsche</li>
   <li> <i>Ecclesiastical Latin:</i> This is the style of the Latin language used by the Christian Church, characterized by Italian-style pronunciation, Christian-specific vocabulary, and simpler or scholastic grammar. It serves as the primary language for Catholic liturgies, papal documents, and historical theological texts.</li>
  </ul>
 </div>
@@ -117,7 +117,10 @@ Formerly a teacher of occult practices for higher-level clergy, but stumbled upo
 
 ###### References
 - [Academic](https://homebrewery.naturalcrit.com/share/E9W-mVroT_p8)
+    - When I was looking at Faction Agent, it suggested I leverage Acolyte for the below, so I kept those.
     - Trait (from Acolyte in PHB): I am tolerant of other faiths and respect the worship of other gods.
     - Ideal (from Acolyte in PHB): Charity. I always try to help those in need, no matter what the personal cost. (Good) or Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic) {maybe both?}
     - Bond (from Acolyte in PHB): Everything I do is for the common people.
     - Flaw (from Acolyte in PHB): I am suspicious of strangers and expect the worst of them.
+- [Savras](https://forgottenrealms.fandom.com/wiki/Savras)
+- [Selûne](https://forgottenrealms.fandom.com/wiki/Selûne)
