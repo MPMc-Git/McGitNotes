@@ -80,7 +80,7 @@ Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Cel
 ### Character Summary
 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
-Formerly a teacher of occult practices for higher-level clergy, but stumbled upon some arcane knowledge and became part of the group.
+Formerly a teacher of occult practices for higher-level clergy, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work.
 <p><p>
 <i>The Church he serves:</i> <b>The Church of Divine Guidance & Freedom</b>
  <ul>
