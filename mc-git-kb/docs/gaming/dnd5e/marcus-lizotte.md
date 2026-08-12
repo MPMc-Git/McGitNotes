@@ -30,34 +30,46 @@ tags:
   </tr>
   <tr>
    <td class="stat-name">STR</td>
-   <td class="number">10</td>
+   <td class="number">11</td>
    <td class="number">+0</td>
+   <td class="number">+0</td>
+   <td class="number"></td>
   </tr>
   <tr>
    <td class="stat-name">DEX</td>
-   <td class="number">10</td>
-   <td class="number">+0</td>
+   <td class="number">13</td>
+   <td class="number">+2</td>
+   <td class="number">+2</td>
+   <td class="number"></td>
   </tr>
   <tr>
    <td class="stat-name">CON</td>
-   <td class="number">10</td>
-   <td class="number">+0</td>
+   <td class="number">9</td>
+   <td class="number">-1</td>
+   <td class="number">-1</td>
+   <td class="number"></td>
   </tr>
   <tr>
    <td class="stat-name">INT</td>
-   <td class="number">10</td>
-   <td class="number">+0</td>
+   <td class="number">14</td>
+   <td class="number">+2</td>
+   <td class="number">+2</td>
+   <td class="number"></td>
   </tr>
   <tr>
    <td class="stat-name">WIS</td>
-   <td class="number">10</td>
-   <td class="number">+0</td>
-  </tr>
+   <td class="number">16</td>
+   <td class="number">+3</td>
+   <td class="number">+5</td>
+   <td class="number">X</td>
+</tr>
   <tr>
    <td class="stat-name">CHA</td>
-   <td class="number">10</td>
-   <td class="number">+0</td>
-  </tr>
+   <td class="number">15</td>
+   <td class="number">+2</td>
+   <td class="number">+4</td>
+   <td class="number">X</td>
+</tr>
   <tr>
    <td></td>
    <td></td>
