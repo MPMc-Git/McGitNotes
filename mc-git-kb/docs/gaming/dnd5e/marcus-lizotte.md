@@ -9,6 +9,12 @@ tags:
   - URLs
 ---
 
+### Summary
+
+* **The Church he serves:** **The Church of Divine Guidance & Freedom**
+  * *About:* This church is centered on two core theological principles: divine direction and absolute personal free will. It teaches that the Divine offers protection and guidance through the storms of life—metaphorically mirrored in the Vegvísir runic compass—while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery").
+  * *How it influences Marcus:* As a Chaotic Good urban minister, Marcus rejects rigid municipal or ecclesiastical bureaucracy. He follows his own conscience and street-level instincts to protect the city's citizenry, using his academic connections, street contacts, and technomagic to serve his community directly.
+
 <table class="char-table">
  <tbody>
   <tr>
