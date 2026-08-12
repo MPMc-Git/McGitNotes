@@ -94,7 +94,8 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
 Formerly a teacher of occult practices for higher-level clergy in a related reilgious tradition, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work and was directed to The CDGF.
 <p><p>
-<b>The Church of Divine Guidance & Freedom</b>
+<b>The Church of Divine Guidance & Freedom</b><br />
+<img src="../../assets/images/dnd-ring-vegsivir.jpg" alt="Holy Symbol" style="float: left; width: 35%; margin-right: 1rem; margin-bottom: 1rem;" />
  <ul>
   <li> <i>About:</i> This church is centered on two core theological principles: divine direction and absolute personal free will. It teaches that the Divine offers protection and guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas.</li>
   <li> <i>How it influences Marcus:</i> As a Chaotic Good urban minister, Marcus rejects rigid municipal or ecclesiastical bureaucracy. He follows his own conscience and street-level instincts to protect the city's citizenry, using his academic connections, street contacts, and technomagic to serve his community directly.</li>
@@ -104,6 +105,8 @@ Formerly a teacher of occult practices for higher-level clergy in a related reil
   <li> <i>Ecclesiastical Latin:</i> This is the style of the Latin language used by the Christian Church, characterized by Italian-style pronunciation, Christian-specific vocabulary, and simpler or scholastic grammar. It serves as the primary language for Catholic liturgies, papal documents, and historical theological texts.</li>
  </ul>
 </div>
+
+<div style="clear: both;"></div>
 
 #### 📊 Leveling Up
 **NOTE**: Feats are Legacy thing? Variant Humans are a Legacy thing? TBD.
