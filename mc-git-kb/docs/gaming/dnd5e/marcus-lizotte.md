@@ -28,7 +28,7 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
    <td class="small-header">mod</td>
    <td class="small-header">save</td>
    <td class="small-header">prof</td>
-   <td class="small-header">Languages, Proficiencies, Features</td>
+   <td class="small-header"> 🛠️ Languages, Proficiencies, Features</td>
   </tr>
   <tr>
    <td class="stat-name">STR</td>
