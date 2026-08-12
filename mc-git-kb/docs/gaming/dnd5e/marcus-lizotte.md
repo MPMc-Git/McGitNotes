@@ -95,7 +95,7 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
 Formerly a teacher of occult practices for higher-level clergy in a related reilgious tradition, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work and was directed to The CDGF.
 </div>
 
-![Holy Symbol](../../assets/images/dnd-ring-vegsivir.jpg){: width="60%" }
+![Holy Symbol](../../assets/images/dnd-ring-vegsivir.jpg){: width="40%" }
 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
 <b>The Church of Divine Guidance & Freedom</b><br />
