@@ -78,7 +78,7 @@
 }
 
 .char-table td.header {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase !important;
@@ -92,7 +92,6 @@
 }
 
 .char-table td.stat-name {
-    font-size: 1.1rem;
     font-weight: bold;
     letter-spacing: 0.05em;
     text-align: center;
@@ -100,7 +99,7 @@
 }
 
 .char-table td.skill-name {
-    font-variant: small-caps;
+    font-size: 0.85rem;
     font-weight: bold;
     text-align: center;
 }
