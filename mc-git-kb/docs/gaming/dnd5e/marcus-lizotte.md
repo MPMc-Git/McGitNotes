@@ -12,12 +12,8 @@ tags:
 Race: Human
 Alignment: Chaotic Good
 Class: Cleric (City Domain)
-Wealth: 8 (Middle-Class)
 Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})
 Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?
-Weapon Profs: Simple, Martial, Submachine Guns
-Armor Profs: Light, Medium, Shields
-Other Profs: Vehicles (Land)
 Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
 
 <table class="char-table">
@@ -36,6 +32,18 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
    <td class="number">+0</td>
    <td class="number">+0</td>
    <td class="number"></td>
+   <td rowspan=6 class="skill-name">
+    <ul>
+     <li>Wealth: 8 (Middle-Class)</li>
+     <li>Background: Academic (Occultism)</li>
+     <li>Languages: Common, Undercommon, Ecclesiastical Latin, TBD</li>
+     <li>Weapon Profs: Simple, Martial, Submachine Guns</li>
+     <li>Armor Profs: Light, Medium, Shields</li>
+     <li>Other Profs: Vehicles (Land)</li>
+     <li>City Domain: Heart of the City</li>
+     <li>Background: Let Me Call an Expert</li>
+    </ul>
+   </td>
   </tr>
   <tr>
    <td class="stat-name">DEX</td>
