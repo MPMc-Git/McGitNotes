@@ -93,9 +93,11 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
 Formerly a teacher of occult practices for higher-level clergy in a related reilgious tradition, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work and was directed to The CDGF.
-<p><p>
-<img src="../../assets/images/dnd-ring-vegsivir.jpg" alt="Holy Symbol" style="width: 35%;" />
-<p><p>
+<p>
+
+![Holy Symbol](../../assets/images/dnd-ring-vegsivir.jpg){: width="60%" }
+
+<p>
 <b>The Church of Divine Guidance & Freedom</b><br />
  <ul>
   <li> <i>About:</i> This church is centered on two core theological principles: divine direction and absolute personal free will. It teaches that the Divine offers protection and guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas.</li>
