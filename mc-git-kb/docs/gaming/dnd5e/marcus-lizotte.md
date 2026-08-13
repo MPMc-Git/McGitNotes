@@ -16,6 +16,8 @@ Background: Academic (Occult Practices? {doesn't exist, just seems a better fit 
 Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?
 Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
 
+---
+
 <table class="char-table">
  <tbody>
   <tr>
@@ -71,23 +73,107 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
    <td class="number">+3</td>
    <td class="number">+5</td>
    <td class="number">X</td>
-</tr>
+ </tr>
   <tr>
    <td class="stat-name">CHA</td>
    <td class="number">15</td>
    <td class="number">+2</td>
    <td class="number">+4</td>
    <td class="number">X</td>
-</tr>
+ </tr>
+ </tbody>
+</table>
+
+---
+
+<table class="char-table">
+ <tbody>
   <tr>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td class="small-header">skill name</td>
+   <td class="small-header">abil</td>
+   <td class="small-header">total</td>
+   <td class="small-header">stat</td>
+   <td class="small-header">prof</td>
+   <td class="small-header">other</td>
+   <td rowspan=19>&nbsp;</td>
+   <td class="small-header">0th</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Acrobatics</td>
+   <td class="small-header">dex</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Animals</td>
+   <td class="small-header">wis</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Arcana</td>
+   <td class="small-header">int</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Athletics</td>
+   <td class="small-header">dex</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Deception</td>
+   <td class="small-header">cha</td>
+  </tr>
+  <tr>
+   <td class="skill-name">History</td>
+   <td class="small-header">int</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Insight</td>
+   <td class="small-header">wis</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Intimidation</td>
+   <td class="small-header">cha</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Investigation</td>
+   <td class="small-header">int</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Medicine</td>
+   <td class="small-header">wis</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Nature</td>
+   <td class="small-header">int</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Perception</td>
+   <td class="small-header">wis</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Performance</td>
+   <td class="small-header">cha</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Persuasion</td>
+   <td class="small-header">cha</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Religion</td>
+   <td class="small-header">int</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Sleight</td>
+   <td class="small-header">dex</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Stealth</td>
+   <td class="small-header">dex</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Survival</td>
+   <td class="small-header">wis</td>
   </tr>
  </tbody>
 </table>
+
+---
 
 ### 🧑‍💼 BACKGROUND & IDENTITY
 
