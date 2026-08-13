@@ -11,10 +11,11 @@ tags:
 
 Race: Human
 Alignment: Chaotic Good
-Class: Cleric (City Domain)
-Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})
-Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?
-Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
+🔮 Class: Cleric (City Domain)
+📚 Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})
+🧭 Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?
+💰 Wealth: 8 (Middle-Class)
+⚔️ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
 
 ---
 
@@ -72,14 +73,14 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
    <td class="number">16</td>
    <td class="number">+3</td>
    <td class="number">+5</td>
-   <td class="number">X</td>
+   <td class="number">x</td>
  </tr>
   <tr>
    <td class="stat-name">CHA</td>
    <td class="number">15</td>
    <td class="number">+2</td>
    <td class="number">+4</td>
-   <td class="number">X</td>
+   <td class="number">x</td>
  </tr>
  </tbody>
 </table>
@@ -89,21 +90,44 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
 <table class="char-table">
  <tbody>
   <tr>
+   <td colspan=7></td>
+   <td colspan=10 class="small-text">spell slots per long rest</td>
+  </tr>
+  <tr>
    <td class="small-header">skill name</td>
    <td class="small-header">abil</td>
    <td class="small-header">total</td>
    <td class="small-header">stat</td>
    <td class="small-header">prof</td>
    <td class="small-header">other</td>
-   <td rowspan=19>&nbsp;</td>
+   <td rowspan=19></td>
    <td class="small-header">0th</td>
+   <td class="small-header">1st</td>
+   <td class="small-header">2nd</td>
+   <td class="small-header">3rd</td>
+   <td class="small-header">4th</td>
+   <td class="small-header">5th</td>
+   <td class="small-header">6th</td>
+   <td class="small-header">7th</td>
+   <td class="small-header">8th</td>
+   <td class="small-header">9th</td>
   </tr>
   <tr>
    <td class="skill-name">Acrobatics</td>
    <td class="small-header">dex</td>
+   <td class="small-header">3</td>
+   <td class="small-header">2</td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
   </tr>
   <tr>
-   <td class="skill-name">Animals</td>
+   <td class="skill-name">Animal<br />Handling</td>
    <td class="small-header">wis</td>
   </tr>
   <tr>
@@ -159,7 +183,7 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
    <td class="small-header">int</td>
   </tr>
   <tr>
-   <td class="skill-name">Sleight</td>
+   <td class="skill-name">Sleight<br />of Hand</td>
    <td class="small-header">dex</td>
   </tr>
   <tr>
@@ -178,15 +202,15 @@ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded 
 ### 🧑‍💼 BACKGROUND & IDENTITY
 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
-Formerly a teacher of occult practices for higher-level clergy in a related reilgious tradition, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work and was directed to The CDGF.
+Formerly a teacher of occult practices for higher-level clergy in a related reilgious tradition, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work and was directed to The CDG - which takes on other tasks like exorcisms, INSERT OTHER APPROPRIATE IN-GAME TASKS HERE.
 </div>
 
 ![Holy Symbol](../../assets/images/dnd-ring-vegsivir.jpg){: width="25%" }
 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
-<b>The Church of Divine Guidance & Freedom</b><br />
+☦️ <b>The Church of Divine Guidance</b><br />
  <ul>
-  <li> <i>About:</i> This church is centered on two core theological principles: divine direction and absolute personal free will. It teaches that the Divine offers protection and guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas.</li>
+  <li> <i>About:</i> This church is centered on one core theological principle: divine direction. It teaches that the Divine offers guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas.</li>
   <li> <i>How it influences Marcus:</i> As a Chaotic Good urban minister, Marcus rejects rigid municipal or ecclesiastical bureaucracy. He follows his own conscience and street-level instincts to protect the city's citizenry, using his academic connections, street contacts, and technomagic to serve his community directly.</li>
   <li> <i>Holy Symbol:</i> Ring with Vegsivir, Futhark Runes, Valknuts</li>
   <li> <i>Deity:</i> The Divine as a title and not any specific name.</li>
