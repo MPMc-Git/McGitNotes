@@ -91,7 +91,7 @@ Alignment: Chaotic Good
  <tbody>
   <tr>
    <td colspan=7></td>
-   <td colspan=10 class="small-header">spell slots per long rest</td>
+   <td colspan=10 class="small-header">🔮 spell slots per long rest</td>
   </tr>
   <tr>
    <td class="small-header">skill name</td>
@@ -119,6 +119,8 @@ Alignment: Chaotic Good
    <td class="small-header">2</td>
    <td class="small-header"></td>
    <td class="small-header"></td>
+   <td class="small-header">-</td>
+   <td class="small-header">-</td>
    <td class="small-header">-</td>
    <td class="small-header">-</td>
    <td class="small-header">-</td>
@@ -159,6 +161,7 @@ Alignment: Chaotic Good
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header">c</td>
+   <td colspan=10 class="small-text">1st Level: Heart of the City</td>
   </tr>
   <tr>
    <td class="skill-name">History</td>
@@ -183,6 +186,7 @@ Alignment: Chaotic Good
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header">c</td>
+   <td colspan=10 class="small-text">1st Level: Heart of the City</td>
   </tr>
   <tr>
    <td class="skill-name">Investigation</td>
@@ -231,6 +235,7 @@ Alignment: Chaotic Good
    <td class="small-header">+2</td>
    <td class="small-header">x</td>
    <td class="small-header">c</td>
+   <td colspan=10 class="small-text">1st Level: Heart of the City</td>
   </tr>
   <tr>
    <td class="skill-name">Religion</td>
