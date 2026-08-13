@@ -91,7 +91,7 @@ Alignment: Chaotic Good
  <tbody>
   <tr>
    <td colspan=7></td>
-   <td colspan=10 class="small-text">spell slots per long rest</td>
+   <td colspan=10 class="small-header">spell slots per long rest</td>
   </tr>
   <tr>
    <td class="small-header">skill name</td>
@@ -115,8 +115,10 @@ Alignment: Chaotic Good
   <tr>
    <td class="skill-name">Acrobatics</td>
    <td class="small-header">dex</td>
-   <td class="small-header">3</td>
+   <td class="number">2</td>
    <td class="small-header">2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
    <td class="small-header">-</td>
    <td class="small-header">-</td>
    <td class="small-header">-</td>
@@ -129,70 +131,138 @@ Alignment: Chaotic Good
   <tr>
    <td class="skill-name">Animal<br />Handling</td>
    <td class="small-header">wis</td>
-  </tr>
+   <td class="number">3</td>
+   <td class="small-header">+3</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
+ </tr>
   <tr>
    <td class="skill-name">Arcana</td>
    <td class="small-header">int</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Athletics</td>
    <td class="small-header">dex</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Deception</td>
    <td class="small-header">cha</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header">c</td>
   </tr>
   <tr>
    <td class="skill-name">History</td>
    <td class="small-header">int</td>
+   <td class="number">4</td>
+   <td class="small-header">+2</td>
+   <td class="small-header">x</td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Insight</td>
    <td class="small-header">wis</td>
+   <td class="number">5</td>
+   <td class="small-header">+3</td>
+   <td class="small-header">x</td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Intimidation</td>
    <td class="small-header">cha</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header">c</td>
   </tr>
   <tr>
    <td class="skill-name">Investigation</td>
    <td class="small-header">int</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Medicine</td>
    <td class="small-header">wis</td>
+   <td class="number">3</td>
+   <td class="small-header">+3</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Nature</td>
    <td class="small-header">int</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Perception</td>
    <td class="small-header">wis</td>
+   <td class="number">3</td>
+   <td class="small-header">+3</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Performance</td>
    <td class="small-header">cha</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Persuasion</td>
    <td class="small-header">cha</td>
+   <td class="number">4</td>
+   <td class="small-header">+2</td>
+   <td class="small-header">x</td>
+   <td class="small-header">c</td>
   </tr>
   <tr>
    <td class="skill-name">Religion</td>
    <td class="small-header">int</td>
+   <td class="number">4</td>
+   <td class="small-header">+2</td>
+   <td class="small-header">x</td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Sleight<br />of Hand</td>
    <td class="small-header">dex</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Stealth</td>
    <td class="small-header">dex</td>
+   <td class="number">2</td>
+   <td class="small-header">+2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
   <tr>
    <td class="skill-name">Survival</td>
    <td class="small-header">wis</td>
+   <td class="number">3</td>
+   <td class="small-header">+3</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
   </tr>
  </tbody>
 </table>
