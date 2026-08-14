@@ -9,7 +9,6 @@ tags:
   - URLs
 ---
 
-
 Race: Human<br />
 Alignment: Chaotic Good<br />
 🔮 Class: Cleric (City Domain)<br />
