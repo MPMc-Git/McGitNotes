@@ -128,6 +128,14 @@
     color: #333333;
 }
 
+[data-md-color-scheme="default"] .char-hr {
+    border: none;
+    height: 3px; /* Adjust this to make it thicker or thinner */
+    background-color: #000000; /* Change to whatever color you like */
+    margin: 2rem 0; /* Adds breathing room above and below */
+}
+
+
 /* DARK MODE STYLING (Slate) */
 [data-md-color-scheme="slate"] .char-table {
     background-color: #1e1e1e;
@@ -137,4 +145,11 @@
 [data-md-color-scheme="slate"] .char-table td {
     border-bottom: 1px solid #333333;
     color: #f0f0f0;
+}
+
+[data-md-color-scheme="slate"] .char-hr {
+    border: none;
+    height: 3px; /* Adjust this to make it thicker or thinner */
+    background-color: #FFFFFF; /* Change to whatever color you like */
+    margin: 2rem 0; /* Adds breathing room above and below */
 }

@@ -19,7 +19,7 @@ Alignment: Chaotic Good</br />
 ⚔️ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
 </div>
 
----
+<hr class="char-hr">
 
 <table class="char-table">
  <tbody>
@@ -87,14 +87,10 @@ Alignment: Chaotic Good</br />
  </tbody>
 </table>
 
----
+<hr class="char-hr">
 
 <table class="char-table">
  <tbody>
-  <tr>
-   <td colspan=7></td>
-   <td colspan=10 class="small-header">🔮 spell slots per long rest</td>
-  </tr>
   <tr>
    <td class="small-header">skill name</td>
    <td class="small-header">abil</td>
@@ -102,7 +98,18 @@ Alignment: Chaotic Good</br />
    <td class="small-header">stat</td>
    <td class="small-header">prof</td>
    <td class="small-header">other</td>
-   <td rowspan=19></td>
+   <td rowspan="19" style="width: 1px; padding: 0;">
+    <div style="width: 2px; height: 100%; background-color: #cccccc; margin: 0 auto;"></div>
+  </td>
+   <td colspan=10 class="small-header">🔮 spell slots per long rest</td>
+  </tr>
+  <tr>
+   <td class="skill-name">Acrobatics</td>
+   <td class="small-header">dex</td>
+   <td class="number">2</td>
+   <td class="small-header">2</td>
+   <td class="small-header"></td>
+   <td class="small-header"></td>
    <td class="small-header">0th</td>
    <td class="small-header">1st</td>
    <td class="small-header">2nd</td>
@@ -115,10 +122,10 @@ Alignment: Chaotic Good</br />
    <td class="small-header">9th</td>
   </tr>
   <tr>
-   <td class="skill-name">Acrobatics</td>
-   <td class="small-header">dex</td>
-   <td class="number">2</td>
-   <td class="small-header">2</td>
+   <td class="skill-name">Animal<br />Handling</td>
+   <td class="small-header">wis</td>
+   <td class="number">3</td>
+   <td class="small-header">+3</td>
    <td class="small-header"></td>
    <td class="small-header"></td>
    <td class="small-header">-</td>
@@ -132,14 +139,6 @@ Alignment: Chaotic Good</br />
    <td class="small-header">-</td>
    <td class="small-header">-</td>
   </tr>
-  <tr>
-   <td class="skill-name">Animal<br />Handling</td>
-   <td class="small-header">wis</td>
-   <td class="number">3</td>
-   <td class="small-header">+3</td>
-   <td class="small-header"></td>
-   <td class="small-header"></td>
- </tr>
   <tr>
    <td class="skill-name">Arcana</td>
    <td class="small-header">int</td>
@@ -280,7 +279,7 @@ Alignment: Chaotic Good</br />
  </tbody>
 </table>
 
----
+<hr class="char-hr">
 
 ### 🧑‍💼 BACKGROUND & IDENTITY
 
