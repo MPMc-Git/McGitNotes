@@ -9,8 +9,9 @@ tags:
   - URLs
 ---
 
-Race: Human
-Alignment: Chaotic Good
+
+Race: Human<br />
+Alignment: Chaotic Good<br />
 🔮 Class: Cleric (City Domain)<br />
 📚 Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})<br />
 🧭 Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?<br />
