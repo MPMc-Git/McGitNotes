@@ -146,7 +146,7 @@ Alignment: Chaotic Good</br />
    <td class="small-header"></td>
    <td colspan=10 rowspan=21 class="small-text" style="vertical-align: top;">
     <i>Ritual Casting</i>: If "Ritual" can be cast for free but takes +10 minutes<br />
-    Cantrips Known [3]: On/Off (Domain), Guidance, Word of Radiance<br />
+    Cantrips Known [3+D]: On/Off (D), Guidance, Thaumaturgy, Word of Radiance<br />
     Spells Prepared [6 = Lvl + Wis + Domain]<br />
     - 1st Level<br />
     &emsp;City Domain [Comprehend Languages (R), Remote Access]<br />
