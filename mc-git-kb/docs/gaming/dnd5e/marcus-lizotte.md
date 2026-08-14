@@ -98,8 +98,8 @@ Alignment: Chaotic Good</br />
    <td class="small-header">stat</td>
    <td class="small-header">prof</td>
    <td class="small-header">other</td>
-   <td rowspan="19" style="width: 1px; padding: 0;">
-    <div style="width: 2px; height: 100%; background-color: #cccccc; margin: 0 auto;"></div>
+   <td rowspan="19" class="char-td-ider">
+    <div class="char-div-ider"></div>
   </td>
    <td colspan=10 class="small-header">🔮 spell slots per long rest</td>
   </tr>

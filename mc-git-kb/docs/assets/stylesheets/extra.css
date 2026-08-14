@@ -76,6 +76,18 @@
     margin: 1rem auto; /* Centers table on the page */
 }
 
+.char-div-ider {
+    width: 2px;
+    background-color: var(--md-default-fg-color--lightest); /* Adapts automatically to light/dark mode */
+    min-height: 100%;
+}
+
+.char-td-ider {
+    width: 1px;
+    padding: 0 !important;
+    position: relative;
+}
+
 .char-table td {
     padding: 0.5rem;
     vertical-align: middle;
@@ -88,11 +100,25 @@
     text-transform: uppercase !important;
 }
 
+.char-table td.number {
+    text-align: center;
+}
+
+.char-table td.skill-name {
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-align: center;
+}
+
 .char-table td.small-header {
     font-size: 0.5rem;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase !important;
+}
+
+.char-table td.small-text {
+    font-size: 0.65rem;
 }
 
 .char-table td.stat-name {
@@ -103,19 +129,6 @@
     text-transform: uppercase !important;
 }
 
-.char-table td.skill-name {
-    font-size: 0.75rem;
-    font-weight: bold;
-    text-align: center;
-}
-
-.char-table td.number {
-    text-align: center;
-}
-
-.char-table td.small-text {
-    font-size: 0.65rem;
-}
 
 /* LIGHT MODE STYLING */
 [data-md-color-scheme="default"] .char-table {
