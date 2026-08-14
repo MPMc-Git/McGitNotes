@@ -137,7 +137,7 @@
 }
 
 [data-md-color-scheme="default"] .char-td-ider {
-    width: 2px;
+    width: 0.5px;
     background-color:#000000;
     min-height: 100%;
 }
@@ -162,7 +162,7 @@
 }
 
 [data-md-color-scheme="slate"] .char-td-ider {
-    width: 2px;
+    width: 0.5px;
     background-color:#FFFFFF;
     min-height: 100%;
 }
