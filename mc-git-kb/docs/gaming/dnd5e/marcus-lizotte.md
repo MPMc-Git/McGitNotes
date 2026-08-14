@@ -145,7 +145,13 @@ Alignment: Chaotic Good</br />
    <td class="small-header"></td>
    <td class="small-header"></td>
    <td colspan=10 rowspan=21 class="small-text" style="vertical-align: top;">
-    
+    <i>Ritual Casting</i>: If "Ritual" can be cast for free but takes +10 minutes<br />
+    Cantrips Known [3]: On/Off (Domain), Guidance, Word of Radiance<br />
+    Spells Prepared [6 = Lvl + Wis + Domain]<br />
+    - 1st Level<br />
+    &emsp;City Domain [Comprehend Languages (R), Remote Access]<br />
+    &emsp;As Rituals (R) [Ceremony, Create or Destroy Water, Guiding Hand, Purify Food and Drink]<br />
+    &emsp;For Sabotage [Degauss, Power Device, Command, Guiding Bolt]<br />
    </td>
   </tr>
   <tr>
