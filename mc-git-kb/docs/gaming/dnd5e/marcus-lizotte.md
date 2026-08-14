@@ -98,7 +98,7 @@ Alignment: Chaotic Good</br />
    <td class="small-header">stat</td>
    <td class="small-header">prof</td>
    <td class="small-header">other</td>
-   <td rowspan="19" class="char-td-ider" style="background-clip: content-box;>&nbsp;</td>
+   <td rowspan="19" class="char-td-ider" style="background-clip: content-box;">&nbsp;</td>
    <td colspan=10 class="small-header">🔮 spell slots per long rest</td>
   </tr>
   <tr>
