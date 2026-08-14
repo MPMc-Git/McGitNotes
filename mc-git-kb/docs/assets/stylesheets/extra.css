@@ -76,18 +76,6 @@
     margin: 1rem auto; /* Centers table on the page */
 }
 
-.char-div-ider {
-    width: 2px;
-    background-color: var(--md-default-fg-color--lightest); /* Adapts automatically to light/dark mode */
-    min-height: 100%;
-}
-
-.char-td-ider {
-    width: 1px;
-    padding: 0 !important;
-    position: relative;
-}
-
 .char-table td {
     padding: 0.5rem;
     vertical-align: middle;
@@ -148,6 +136,12 @@
     margin: 0.5rem 0; /* Adds breathing room above and below */
 }
 
+[data-md-color-scheme="default"] .char-td-ider {
+    width: 2px;
+    background-color:#000000;
+    min-height: 100%;
+}
+
 
 /* DARK MODE STYLING (Slate) */
 [data-md-color-scheme="slate"] .char-table {
@@ -165,4 +159,10 @@
     height: 3px; /* Adjust this to make it thicker or thinner */
     background-color: #FFFFFF; /* Change to whatever color you like */
     margin: 0.5rem 0; /* Adds breathing room above and below */
+}
+
+[data-md-color-scheme="slate"] .char-td-ider {
+    width: 2px;
+    background-color:#FFFFFF;
+    min-height: 100%;
 }
