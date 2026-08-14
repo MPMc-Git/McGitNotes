@@ -297,26 +297,25 @@ Formerly a teacher of occult practices for higher-level clergy in a related reil
  </ul>
 </div>
 
-#### 📊 Leveling Up
-**NOTE**: Feats are Legacy thing? Variant Humans are a Legacy thing? TBD.
+### 📊 Leveling Up
 
-###### 1st-Level:
+##### 1st-Level:
 - Racial (Human): All Abilities +1. Common & +1 Language (Undercommon for talking to shady types). Medium-sized. Speed 30ft.
 - Class (Cleric): d8, Proficiencies, Insight, Persuasion
 - Sub-Class (Cleric Modern): +Prof Submachine Guns & Martial Weapons & Vehicles (Land), Heart of the City
 - Background (Academic): Religion, History, Let Me Call an Expert
 
-###### 2nd-Level:
+##### 2nd-Level:
 - Class (Cleric / Modern): Channel Divinity (Turn Undead, Spirits of the City) [1/rest]
 
-###### 3rd-Level:
-- Class (Cleric / Modern): 2nd Level Spells
+##### 3rd-Level:
+- Class (Cleric / Modern): 2nd Level Spell Slots
 
-###### 4th-Level:
+##### 4th-Level:
 - Class (Cleric / Modern): Ability Scores CON +1 [10] & STR +1 [12] {DEX & CHA at 8th}
 
-###### 5th-Level:
-- Class (Cleric / Modern): 3rd Level Spells, Destroy Undead (this might be Legacy which is good, but the PHB now lists Sear Undead)
+##### 5th-Level:
+- Class (Cleric / Modern): 3rd Level Spell Slots, Destroy Undead (this might be Legacy which is good, but the PHB now lists Sear Undead)
 
 
 ###### References
