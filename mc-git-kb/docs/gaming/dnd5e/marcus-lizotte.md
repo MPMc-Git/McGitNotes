@@ -154,6 +154,7 @@ Alignment: Chaotic Good<br />
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header"></td>
+   <td colspan=10 class="small-text"></td>
   </tr>
   <tr>
    <td class="skill-name">Deception</td>
@@ -171,6 +172,7 @@ Alignment: Chaotic Good<br />
    <td class="small-header">+2</td>
    <td class="small-header">x</td>
    <td class="small-header"></td>
+   <td colspan=10 class="small-text"></td>
   </tr>
   <tr>
    <td class="skill-name">Insight</td>
@@ -213,6 +215,7 @@ Alignment: Chaotic Good<br />
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header"></td>
+   <td colspan=10 class="small-text"></td>
   </tr>
   <tr>
    <td class="skill-name">Perception</td>
@@ -230,6 +233,7 @@ Alignment: Chaotic Good<br />
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header"></td>
+   <td colspan=10 class="small-text"></td>
   </tr>
   <tr>
    <td class="skill-name">Persuasion</td>
