@@ -144,7 +144,7 @@ Alignment: Chaotic Good</br />
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header"></td>
-   <td colspan=10 rowspan=21 class="small-text">
+   <td colspan=10 rowspan=21 class="small-text" style="vertical-align: top;">
     - Testing Text
    </td>
   </tr>
