@@ -132,7 +132,7 @@
     border: none;
     height: 3px; /* Adjust this to make it thicker or thinner */
     background-color: #000000; /* Change to whatever color you like */
-    margin: 2rem 0; /* Adds breathing room above and below */
+    margin: 0.5rem 0; /* Adds breathing room above and below */
 }
 
 
@@ -151,5 +151,5 @@
     border: none;
     height: 3px; /* Adjust this to make it thicker or thinner */
     background-color: #FFFFFF; /* Change to whatever color you like */
-    margin: 2rem 0; /* Adds breathing room above and below */
+    margin: 0.5rem 0; /* Adds breathing room above and below */
 }
