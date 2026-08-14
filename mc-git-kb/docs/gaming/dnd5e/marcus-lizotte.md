@@ -303,26 +303,26 @@ Formerly a teacher of occult practices for higher-level clergy in a related reil
 
 ### 📊 Leveling Up
 
-##### 1st-Level:
+##### 1st-Level
 - Racial (Human): All Abilities +1. Common & +1 Language (Undercommon for talking to shady types). Medium-sized. Speed 30ft.
 - Class (Cleric): d8, Proficiencies, Insight, Persuasion
 - Sub-Class (Cleric Modern): +Prof Submachine Guns & Martial Weapons & Vehicles (Land), Heart of the City
 - Background (Academic): Religion, History, Let Me Call an Expert
 
-##### 2nd-Level:
+##### 2nd-Level
 - Class (Cleric / Modern): Channel Divinity (Turn Undead, Spirits of the City) [1/rest]
 
-##### 3rd-Level:
+##### 3rd-Level
 - Class (Cleric / Modern): 2nd Level Spell Slots
 
-##### 4th-Level:
+##### 4th-Level
 - Class (Cleric / Modern): Ability Scores CON +1 [10] & STR +1 [12] {DEX & CHA at 8th}
 
-##### 5th-Level:
+##### 5th-Level
 - Class (Cleric / Modern): 3rd Level Spell Slots, Destroy Undead (this might be Legacy which is good, but the PHB now lists Sear Undead)
 
 
-###### References
+### References
 - [Cleric PHB](https://www.dndbeyond.com/sources/dnd/br-2024/character-classes#Cleric)
 - [Modern Manual](https://homebrewery.naturalcrit.com/share/E9W-mVroT_p8#p97)
 - [Academic Background](https://homebrewery.naturalcrit.com/share/E9W-mVroT_p8)
