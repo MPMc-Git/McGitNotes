@@ -98,7 +98,7 @@ Alignment: Chaotic Good</br />
    <td class="small-header">stat</td>
    <td class="small-header">prof</td>
    <td class="small-header">other</td>
-   <td rowspan="19" class="char-td-ider" style="background-clip: content-box;">&nbsp;</td>
+   <td rowspan="25" class="char-td-ider" style="background-clip: content-box;">&nbsp;</td>
    <td colspan=10 class="small-header">🔮 spell slots per long rest</td>
   </tr>
   <tr>
@@ -161,7 +161,10 @@ Alignment: Chaotic Good</br />
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header">c</td>
-   <td colspan=10 class="small-text">1st Level: Heart of the City</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td colspan=5 class="small-header">1st Level: Heart of the City</td>
   </tr>
   <tr>
    <td class="skill-name">History</td>
@@ -179,7 +182,10 @@ Alignment: Chaotic Good</br />
    <td class="small-header">+3</td>
    <td class="small-header">x</td>
    <td class="small-header">c</td>
-   <td colspan=10 class="small-text">6th Level: Block Watch</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td colspan=5 class="small-header">6th Level: Block Watch</td>
   </tr>
   <tr>
    <td class="skill-name">Intimidation</td>
@@ -188,7 +194,10 @@ Alignment: Chaotic Good</br />
    <td class="small-header">+2</td>
    <td class="small-header"></td>
    <td class="small-header">c</td>
-   <td colspan=10 class="small-text">1st Level: Heart of the City</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td colspan=5 class="small-header">1st Level: Heart of the City</td>
   </tr>
   <tr>
    <td class="skill-name">Investigation</td>
@@ -222,7 +231,10 @@ Alignment: Chaotic Good</br />
    <td class="small-header">+3</td>
    <td class="small-header"></td>
    <td class="small-header">c</td>
-   <td colspan=10 class="small-text">6th Level: Block Watch</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td colspan=5 class="small-header">6th Level: Block Watch</td>
   </tr>
   <tr>
    <td class="skill-name">Performance</td>
@@ -240,7 +252,10 @@ Alignment: Chaotic Good</br />
    <td class="small-header">+2</td>
    <td class="small-header">x</td>
    <td class="small-header">c</td>
-   <td colspan=10 class="small-text">1st Level: Heart of the City</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td colspan=5 class="small-header">1st Level: Heart of the City</td>
   </tr>
   <tr>
    <td class="skill-name">Religion</td>
