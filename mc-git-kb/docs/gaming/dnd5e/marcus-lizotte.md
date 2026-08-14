@@ -9,13 +9,15 @@ tags:
   - URLs
 ---
 
-- Race: Human
+<div>
+Race: Human</br />
 - Alignment: Chaotic Good
 - 🔮 Class: Cleric (City Domain)
 - 📚 Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})
 - 🧭 Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?
 - 💰 Wealth: 8 (Middle-Class)
 - ⚔️ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
+</div>
 
 ---
 
