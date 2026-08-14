@@ -178,7 +178,8 @@ Alignment: Chaotic Good<br />
    <td class="number">5</td>
    <td class="small-header">+3</td>
    <td class="small-header">x</td>
-   <td class="small-header"></td>
+   <td class="small-header">c</td>
+   <td colspan=10 class="small-text">6th Level: Block Watch</td>
   </tr>
   <tr>
    <td class="skill-name">Intimidation</td>
@@ -219,7 +220,8 @@ Alignment: Chaotic Good<br />
    <td class="number">3</td>
    <td class="small-header">+3</td>
    <td class="small-header"></td>
-   <td class="small-header"></td>
+   <td class="small-header">c</td>
+   <td colspan=10 class="small-text">6th Level: Block Watch</td>
   </tr>
   <tr>
    <td class="skill-name">Performance</td>
