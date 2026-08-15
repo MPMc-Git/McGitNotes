@@ -13,8 +13,8 @@ tags:
 Race: Human</br />
 Alignment: Chaotic Good</br />
 🔮 Class: Cleric (City Domain)</br />
-📚 Background: Academic (Occult Practices? {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})</br />
-🧭 Languages: Common, Undercommon, Ecclesiastical Latin, Abyssal or Infernal or Celestial or Primordial (an elemental language of the City?)?</br />
+📚 Background: Academic (General Occultism {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})</br />
+🧭 Languages: Common, Undercommon, Ecclesiastical Latin, "City" Primordial?</br />
 💰 Wealth: 8 (Middle-Class)</br />
 ⚔️ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
 </div>
@@ -38,9 +38,8 @@ Alignment: Chaotic Good</br />
    <td class="number">+0</td>
    <td class="number"></td>
    <td rowspan=6 class="small-text">
-    - Wealth: 8 (Middle-Class)<br />
     - Background: Academic (Occultism)<br />
-    - Languages: Common, Undercommon, Ecclesiastical Latin, TBD<br />
+    - Languages: Common, Undercommon, Ecclesiastical Latin, "City" Primordial"<br />
     - Weapon Profs: Simple, Martial, Submachine Guns<br />
     - Armor Profs: Light, Medium, Shields<br />
     - Tool Profs: Forensics Kit, Herbalism Kit<br />
@@ -307,7 +306,9 @@ Alignment: Chaotic Good</br />
 ### 🧑‍💼 BACKGROUND & IDENTITY
 
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
-Formerly a teacher of occult practices for higher-level clergy in a related reilgious tradition, but stumbled upon some arcane knowledge and decided he needed to be doing street-level work and was directed to The CDG - which takes on other tasks like exorcisms, INSERT OTHER APPROPRIATE IN-GAME TASKS HERE.
+I have some family history I'm working on, but generically his parents died at like 12 and he moved in with his mother's older sister who's basically a sorcerer and would read him The Lesser Key of Solomon before bed, amongst other books. She would leverage what magic she actually knew to help her sound more soothing and convincing. She's wasn't a con artist, she was a couples counselor and did leverage her powers to help people relax so they could see more clearly. When she died she left me everything but also told me that I already knew what my path was.
+<p>
+As my parents had been members of the more public-facing CDG, I turned back to that and started to teach occult practices for higher-level clergy so they knew what to look for and how to speak to them about The Divine, but at some point I decided I needed to take a more active role in the church, and my skillset drew the attention of... someone... who thought I'd be a good fit for this town I don't know the name of.
 </div>
 
 ![Holy Symbol](../../assets/images/dnd-ring-vegsivir.jpg){: width="25%" }
@@ -315,8 +316,8 @@ Formerly a teacher of occult practices for higher-level clergy in a related reil
 <div style="font-size: 0.65rem; margin-left: 1.5rem;">
 ☦️ <b>The Church of Divine Guidance</b><br />
  <ul>
-  <li> <i>About:</i> This church is centered on one core theological principle: divine direction. It teaches that the Divine offers guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas.</li>
-  <li> <i>How it influences Marcus:</i> As a Chaotic Good urban minister, Marcus rejects rigid municipal or ecclesiastical bureaucracy. He follows his own conscience and street-level instincts to protect the city's citizenry, using his academic connections, street contacts, and technomagic to serve his community directly.</li>
+  <li> <i>About:</i> This church is centered on one core theological principle: divine direction. It teaches that the Divine offers guidance through the storms of life — metaphorically mirrored in the Vegvísir runic compass — while honoring the belief that true goodness can only exist through free will (acknowledging that "good without free will is slavery"). The church itself is affiliated with Western Christian Traditions as a political matter, but they're more non-denominational in nature. Borrows heavily from multiple religious and philosophical ideas, including how life is sufferig but a way out can be found - with the help of The Divine.</li>
+  <li> <i>How it influences Marcus:</i> As a Chaotic Good urban minister, Marcus rejects rigid municipal or ecclesiastical bureaucracy, as does the CDG - there are ruling functionaries, but they do operate slightly more democratically than other larger organizations. He follows his own conscience and street-level instincts to protect the city's citizenry, using his academic connections, street contacts, and technomagic to serve his community directly.</li>
   <li> <i>Holy Symbol:</i> Ring with Vegsivir, Futhark Runes, Valknuts</li>
   <li> <i>Deity:</i> The Divine as a title and not any specific name.</li>
   <li> <i>Holy Figures / Patron Saints:</i> Savras, god of divination and fate, Selûne, goddess of the moon, St. John of the Cross, Meister Eckhart, Friedrich Nietzsche {needs write-up}</li>
