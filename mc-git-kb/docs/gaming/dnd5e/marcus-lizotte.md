@@ -345,7 +345,6 @@ As my parents had been members of the more public-facing CDG, I turned back to t
 ##### 5th-Level
 - Class (Cleric / Modern): 3rd Level Spell Slots, Destroy Undead (this might be Legacy which is good, but the PHB now lists Sear Undead)
 
-
 ### References
 - [Cleric PHB](https://www.dndbeyond.com/sources/dnd/br-2024/character-classes#Cleric)
 - [Modern Manual](https://homebrewery.naturalcrit.com/share/E9W-mVroT_p8#p97)
