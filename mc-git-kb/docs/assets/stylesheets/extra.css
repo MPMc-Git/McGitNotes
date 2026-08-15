@@ -143,6 +143,11 @@
     margin: 0.5rem 0; /* Adds breathing room above and below */
 }
 
+[data-md-color-scheme="default"] .char-hr-td {
+    border: none;
+    border-top: 0.5px solid rgba(0, 0, 0, 0.2); /* Adjust this to make it thicker or thinner */
+    margin: 0.5rem 0; /* Adds breathing room above and below */
+}
 
 /* DARK MODE STYLING (Slate) */
 [data-md-color-scheme="slate"] .char-table {
@@ -166,6 +171,12 @@
     border: none;
     height: 3px; /* Adjust this to make it thicker or thinner */
     background-color: #FFFFFF; /* Change to whatever color you like */
+    margin: 0.5rem 0; /* Adds breathing room above and below */
+}
+
+[data-md-color-scheme="slate"] .char-hr-td {
+    border: none;
+    border-top: 0.5px solid rgba(255, 255, 255, 0.2); /* Adjust this to make it thicker or thinner */
     margin: 0.5rem 0; /* Adds breathing room above and below */
 }
 

@@ -147,8 +147,10 @@ Alignment: Chaotic Good</br />
    <td colspan=10 rowspan=21 class="small-text" style="vertical-align: top;">
     <i>Ritual Casting</i><br />
     &emsp;If "Ritual" can be cast for free but takes +10 minutes<br />
+    <hr class="char-hr-td">
     <i>Cantrips Known</i> [3+D]<br />
     &emsp;On/Off (D), Guidance, Thaumaturgy, Word of Radiance<br />
+    <hr class="char-hr-td">
     <i>Spells Prepared</i> [6 = Lvl + Wis + Domain]<br />
     - 1st Level<br />
     &emsp;City Domain [Comprehend Languages (R), Remote Access]<br />
