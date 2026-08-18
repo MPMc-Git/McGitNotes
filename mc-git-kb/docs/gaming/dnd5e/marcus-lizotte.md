@@ -361,11 +361,12 @@ As my parents had been members of the more public-facing CDG, I turned back to t
     - Feature [Let Me Call an Expert]. Just seems to mean I know people, but how it gets used in-game isn't specified, so could be a useful plot point. Maybe it gives me answers, maybe it gives me access to better libraries.
 
 ##### 2nd-Level
-- Class (Cleric / Modern): Channel Divinity (Turn Undead, Spirits of the City) [1/rest]
+- Class (Cleric): Channel Divinity [Divine Spark, Turn Undead]
+- Class (Cleric Modern): Channel Divinity (Turn Undead, Spirits of the City) [1/rest]
 
 ##### 3rd-Level
-- Class (Cleric / Modern): 2nd Level Spell Slots
-- Subclass (Cleric Modern - starts at 3rd it looks like): 
+- Class (Cleric): 2nd Level Spell Slots
+- Subclass (Cleric Modern): Heart of the City
 
 ##### 4th-Level
 - Class (Cleric / Modern): Ability Scores CON +1 [10] & STR +1 [12] {DEX & CHA at 8th}
