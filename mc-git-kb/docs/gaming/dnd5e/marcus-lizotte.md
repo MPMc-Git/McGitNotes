@@ -16,7 +16,8 @@ Alignment: Chaotic Good</br />
 📚 Background: Academic (General Occultism {doesn't exist, just seems a better fit - no real benefits associated that I can see, just flavor})</br />
 🧭 Languages: Common, Undercommon, Ecclesiastical Latin, "City" Primordial?</br />
 💰 Wealth: 8 (Middle-Class)</br />
-⚔️ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)
+⚔️ Starting Equipment: Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Shield {I'd like to sell this}, Holy Symbol (ring)<br />
+The Year is 1980
 </div>
 
 <hr class="char-hr">
@@ -33,9 +34,9 @@ Alignment: Chaotic Good</br />
   </tr>
   <tr>
    <td class="stat-name">STR</td>
-   <td class="number">11</td>
-   <td class="number">+0</td>
-   <td class="number">+0</td>
+   <td class="number">9</td>
+   <td class="number">-1</td>
+   <td class="number">-1</td>
    <td class="number"></td>
    <td rowspan=6 class="small-text">
     - Background: Academic (Occultism)<br />
@@ -50,16 +51,16 @@ Alignment: Chaotic Good</br />
   </tr>
   <tr>
    <td class="stat-name">DEX</td>
-   <td class="number">13</td>
-   <td class="number">+2</td>
-   <td class="number">+2</td>
+   <td class="number">11</td>
+   <td class="number">+0</td>
+   <td class="number">+0</td>
    <td class="number"></td>
   </tr>
   <tr>
    <td class="stat-name">CON</td>
-   <td class="number">9</td>
-   <td class="number">-1</td>
-   <td class="number">-1</td>
+   <td class="number">13</td>
+   <td class="number">+2</td>
+   <td class="number">+2</td>
    <td class="number"></td>
   </tr>
   <tr>
@@ -327,17 +328,44 @@ As my parents had been members of the more public-facing CDG, I turned back to t
 
 ### 📊 Leveling Up
 
-##### 1st-Level
-- Racial (Human): All Abilities +1. Common & +1 Language (Undercommon for talking to shady types). Medium-sized. Speed 30ft.
-- Class (Cleric): d8, Proficiencies, Insight, Persuasion
-- Sub-Class (Cleric Modern): +Prof Submachine Guns & Martial Weapons & Vehicles (Land), Heart of the City
-- Background (Academic): Religion, History, Let Me Call an Expert
+##### 5.5e 1st-Level
+- Abilities :: @Lvl 1
+    - STR 12 :: 12 +1
+    - DEX 10  :: 10 +0
+    - CON  8  :: 10 +0
+    - INT 13  :: 13 +1
+    - WIS 15 :: 16 +3
+    - CHA 14 :: 14 +2
+- Languages (Common +2)
+    - Ecclesiastical Latin, Common Sign Language
+- Racial (Human) (pg 194)
+    - Resourceful [Heroic Inspiration after a Long Rest]
+    - Skillful [Proficiency in any Skill] Investigation
+    - Versatile [Gain an Origin feat] Magic Initiate (pg 200) [Wizard, using WIS] Mage Hand, True Strike. Unseen Servant.
+- Class (Cleric)
+    - HP [D8]. Saving Throws [WIS & CHA]. Skills [Insight, Persuasion]. Weapon [Simple]. Armor [Light, Medium, Shields].
+    - Spellcasting [Divine]. Divine Order Thaumaturge [+1 Cantrip, +WIS to Arcana/Religion]
+    - Cantrips [Guidance, Thaumaturgy, Word of Radiance]
+- Cleric (Modern Manual)
+    - Weapon [Submachine Guns]
+    - Starting Equipment [Collapsible Metal Baton, Soft Panel Vest, Pistol w/2 loaded mags, Explorer's Pack, Holy Symbol (Ring), Shield - trading this in for Calligrapher's Supplies]
+- Background (Sticking with Academic from ModMan)
+    - Ability Scores (taking Sage from PHB) +2 CON, +1 WIS
+    - Skills [+2] [History, Religion]
+    - Tools [+2] [Calligrapher's Supplies, Forensics Kit (MM 37)]
+        - Proficiency with this kit lets you add your proficiency bonus to any ability check you make to investigate any area or body considered as a crime scene.
+    - Languages [+2] [Thieves' Cant, Primordial (City Elemental)]
+    - Wealth [+3] As I am a member of the church, we could make it more equivalent to an Acolyte, so +1 also seems reasonable
+    - Equipment [Backpack, several blank notebooks, common clothes, laptop = trade this in for a Forensic's Kit; libraries exist and my feature could let me access a college library]
+    - Specialty [Occuiltism / Obscure Religions]
+    - Feature [Let Me Call an Expert]. Just seems to mean I know people, but how it gets used in-game isn't specified, so could be a useful plot point. Maybe it gives me answers, maybe it gives me access to better libraries.
 
 ##### 2nd-Level
 - Class (Cleric / Modern): Channel Divinity (Turn Undead, Spirits of the City) [1/rest]
 
 ##### 3rd-Level
 - Class (Cleric / Modern): 2nd Level Spell Slots
+- Subclass (Cleric Modern - starts at 3rd it looks like): 
 
 ##### 4th-Level
 - Class (Cleric / Modern): Ability Scores CON +1 [10] & STR +1 [12] {DEX & CHA at 8th}
