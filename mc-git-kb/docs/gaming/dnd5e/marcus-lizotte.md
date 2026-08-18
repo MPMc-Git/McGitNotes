@@ -355,7 +355,7 @@ As my parents had been members of the more public-facing CDG, I turned back to t
     - Tools [+2] [Calligrapher's Supplies, Forensics Kit (MM 37)]
         - Proficiency with this kit lets you add your proficiency bonus to any ability check you make to investigate any area or body considered as a crime scene.
     - Languages [+2] [Thieves' Cant, Primordial (City Elemental)]
-    - Wealth [+3] As I am a member of the church, we could make it more equivalent to an Acolyte, so +1 also seems reasonable
+    - Wealth [+3] As I am a member of the church, we could make it more equivalent to an Acolyte, or split the difference, so +2 also seems reasonable
     - Equipment [Backpack, several blank notebooks, common clothes, laptop = trade this in for a Forensic's Kit; libraries exist and my feature could let me access a college library]
     - Specialty [Occuiltism / Obscure Religions]
     - Feature [Let Me Call an Expert]. Just seems to mean I know people, but how it gets used in-game isn't specified, so could be a useful plot point. Maybe it gives me answers, maybe it gives me access to better libraries.
