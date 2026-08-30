@@ -60,8 +60,12 @@ dconf dump /org/cinnamon/desktop/keybindings/ > ~/cinnamon-custom-keybinds.dconf
 dconf load /org/cinnamon/desktop/keybindings/ < ~/cinnamon-custom-keybinds.dconf
 ```
 
-[//]: # ( Using WSL2 )
+[//]: # ( ### Using WSL2 ### )
 [//]: # ( code -> To launch VS Code )
 [//]: # ( 4kyoutubetomp3 -> To launch 4k YT 2 MP3 )
 [//]: # ( whisper-ctranslate2 FILENAME.mp3 --output_dir ~/Documents --device cpu -> MP3 to TXT )
+[//]: # ( ffprobe FILENAME.mp3 -> MP3 metadata )
+[//]: # (  )
+[//]: # (  )
+[//]: # (  )
 [//]: # (  )
