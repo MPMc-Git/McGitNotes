@@ -9,5 +9,3 @@ tags:
 
 ### URLs
 
-### My Characters
-- [Brother Marcus Lizotte](../gaming/dnd5e/marcus-lizotte.md)

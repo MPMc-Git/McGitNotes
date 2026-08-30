@@ -2,11 +2,13 @@
 
 | What | Why |
 | :--- | :--- |
+| `df -h /` | Storage Space |
 | `ln -s path/to/file/name.ext new/path/name.ext` | Symbolic Link |
 | `sudo apt update` | Seriously, have APT run an Update Check |
 | <code>apt list --upgradable 2>/dev/null &#124; grep '/' &#124; cut -d/ -f1 > upgrade.txt</code> | Export list of Apps to TXT file |
 | `sudo apt install code` | You guessed it, update ONLY VSCode |
 | <code>cat upgradable_apps.txt &#124; xargs -r sudo apt install -y</code> | Update Apps from that TXT file |
+| `sudo apt upgrade` | Upgrade all the available apps |
 | `sudo strings /sys/firmware/acpi/tables/MSDM` | Get Product Key from BIOS/UEFI |
 | `systemctl list-unit-files --type=service` | See running services |
 | `sudo systemctl soft-reboot` | Reboots the O/S but not the computer |
@@ -57,3 +59,9 @@ sudo apt install playerctl
 dconf dump /org/cinnamon/desktop/keybindings/ > ~/cinnamon-custom-keybinds.dconf
 dconf load /org/cinnamon/desktop/keybindings/ < ~/cinnamon-custom-keybinds.dconf
 ```
+
+[//]: # ( Using WSL2 )
+[//]: # ( code -> To launch VS Code )
+[//]: # ( 4kyoutubetomp3 -> To launch 4k YT 2 MP3 )
+[//]: # ( whisper-ctranslate2 FILENAME.mp3 --output_dir ~/Documents --device cpu -> MP3 to TXT )
+[//]: # (  )
