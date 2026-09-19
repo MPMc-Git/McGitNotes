@@ -60,12 +60,17 @@ dconf dump /org/cinnamon/desktop/keybindings/ > ~/cinnamon-custom-keybinds.dconf
 dconf load /org/cinnamon/desktop/keybindings/ < ~/cinnamon-custom-keybinds.dconf
 ```
 
+#### n8n via Docker on WSL2
+sudo docker volume create n8n_data
+sudo docker run -d --restart always -p 5678:5678 -v n8n_data:/home/node/.n8n --name n8n n8nio/n8n
+http://localhost:5678
+
 [//]: # ( ### Using WSL2 ### )
 [//]: # ( code -> To launch VS Code )
 [//]: # ( 4kyoutubetomp3 -> To launch 4k YT 2 MP3 )
 [//]: # ( whisper-ctranslate2 FILENAME.mp3 --output_dir ~/Documents --device cpu -> MP3 to TXT )
 [//]: # ( ffprobe FILENAME.mp3 -> MP3 metadata )
-[//]: # (  )
-[//]: # (  )
+[//]: # ( libation -> GUI to get Audible to MP3 )
+[//]: # ( calibre -> GUI to get Kindle to EPUB )
 [//]: # (  )
 [//]: # (  )
