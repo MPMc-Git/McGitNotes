@@ -5,8 +5,7 @@ tags:
   - Soundboard
 ---
 
-
-
+<link rel="stylesheet" href="../../assets/stylesheets/extra.css"> 
 
 
 <div id="soundboard-container">
