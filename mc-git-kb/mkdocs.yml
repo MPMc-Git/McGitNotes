@@ -71,6 +71,7 @@ extra_css:
 # Javascript
 extra_javascript:
 - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+- assets/js/soundboard.js
 
 # Define the navigation structure
 nav:
