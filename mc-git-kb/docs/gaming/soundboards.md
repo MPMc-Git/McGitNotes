@@ -7,7 +7,7 @@ tags:
 
 <link rel="stylesheet" href="../../assets/stylesheets/extra.css"> 
 
-<button class="stop-btn">🛑 Stop All Sounds</button>
+<button id="stop-btn">🛑 Stop All Sounds</button>
 
 <div id="soundboard-container">
     <button class="sound-button" data-sound-file="../../assets/audio/sw_imperial_march_short.mp3">🎵 Imperial March</button>
