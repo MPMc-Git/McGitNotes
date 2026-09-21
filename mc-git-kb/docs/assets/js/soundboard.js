@@ -1,4 +1,9 @@
+// This wrapper ensures that all our code waits until the entire HTML page structure is loaded 
+
 document.addEventListener('DOMContentLoaded', () => {
+
+    console.log("Soundboard script initialized!");
+
     const buttons = document.querySelectorAll('.sound-button');
 
     buttons.forEach(button => {
@@ -26,5 +31,5 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
         });
-    });
-});
+    }); // --- END SOUNDBOARD LOGIC ---
+}); // End of DOMContentLoaded listener
