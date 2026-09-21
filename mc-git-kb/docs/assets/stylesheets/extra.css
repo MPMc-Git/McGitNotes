@@ -180,3 +180,60 @@
     margin: 0.5rem 0; /* Adds breathing room above and below */
 }
 
+
+/* For The Soundboards */
+/* =============================== */
+/* 1. CONTAINER STYLING (The Grid)  */
+/* Makes sure all buttons sit nicely together in columns */
+/* =============================== */
+#soundboard-container {
+    display: grid; /* Activates the grid layout system */
+    /* This creates a responsive grid: it will try to fit at least 300px per column. */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+    gap: 20px; /* Space between the buttons */
+    padding: 20px 0; /* Adds vertical padding above and below the board */
+}
+
+/* =============================== */
+/* 2. BUTTON APPEARANCE (The Look)  */
+/* Styles every single button element */
+/* =============================== */
+.sound-button {
+    /* Basic Shape & Size */
+    padding: 15px 30px; /* Internal space for the text/icon inside the button */
+    font-size: 1.2em; /* Makes the text large and easy to read */
+    text-align: center;
+    cursor: pointer; /* CRITICAL: Changes the cursor to a hand icon, indicating it's clickable */
+
+    /* Visual Style */
+    border: none; /* Removes the default browser border */
+    border-radius: 12px; /* Softly curves the corners of the button */
+    background-color: #3498db; /* Choose your primary color (e.g., blue) */
+    color: white; /* Makes the text white for contrast */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a soft lift effect */
+    transition: all 0.15s ease; /* Smooth transition for hover/active effects */
+}
+
+
+/* =============================== */
+/* 3. INTERACTIVE EFFECTS (The Polish)*/
+
+/* What happens when the mouse hovers over the button */
+.sound-button:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+    transform: translateY(-2px); /* Makes it lift up slightly on hover */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Increases the shadow depth */
+}
+
+/* What happens when the button is clicked and held down (the 'press') */
+.sound-button:active {
+    background-color: #217d9f; /* Darkest blue to show it's pressed */
+    transform: translateY(0); /* Resets position, making it feel grounded */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15); /* Reduces shadow depth for the 'squished' look */
+}
+
+/* (Optional) Styling for the Title/Intro text above the board */
+#soundboard-container {
+    margin-top: 2rem;
+    border-top: 1px solid #ccc; /* Adds a visual break before the buttons start */
+}
