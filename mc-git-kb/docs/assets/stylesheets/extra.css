@@ -214,6 +214,14 @@
     transition: all 0.15s ease; /* Smooth transition for hover/active effects */
 }
 
+/* =============================== */
+/* STOP BUTTON SPECIFIC STYLING (THE OVERRIDE)*/
+/* We define the base appearance and then override interaction states. */
+#stop-btn {
+    /* Appearance Override: Make it distinct and clear */
+    background-color: #e74c3c; /* A strong, attention-grabbing red/reddish tone */
+    box-shadow: 0 4px 6px rgba(231, 76, 60, 0.2); /* Shadow matching the new color */
+}
 
 /* =============================== */
 /* 3. INTERACTIVE EFFECTS (The Polish)*/
@@ -225,11 +233,25 @@
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Increases the shadow depth */
 }
 
+/* New Hover Effect for the Stop Button (Crucial override!) */
+#stop-btn:hover {
+    background-color: #c0392b; /* Darker red on hover */
+    transform: translateY(-2px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.25);
+}
+
 /* What happens when the button is clicked and held down (the 'press') */
 .sound-button:active {
     background-color: #217d9f; /* Darkest blue to show it's pressed */
     transform: translateY(0); /* Resets position, making it feel grounded */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15); /* Reduces shadow depth for the 'squished' look */
+}
+
+/* New Active Effect for the Stop Button (Crucial override!) */
+#stop-btn:active {
+    background-color: #c0392b; /* Darkest red when pressed */
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 /* (Optional) Styling for the Title/Intro text above the board */
