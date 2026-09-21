@@ -218,10 +218,19 @@
 /* STOP BUTTON SPECIFIC STYLING (THE OVERRIDE)*/
 /* We define the base appearance and then override interaction states. */
 #stop-btn {
-    /* Appearance Override: Make it distinct and clear */
-    background-color: #e74c3c; /* A strong, attention-grabbing red/reddish tone */
-    border-radius: 12px; /* Softly curves the corners of the button */
-    box-shadow: 0 4px 6px rgba(231, 76, 60, 0.2); /* Shadow matching the new color */
+    /* *** CORE STRUCTURE & BEHAVIOR (COPIED FROM .SOUND-BUTTON) *** */
+    padding: 15px 30px; 
+    font-size: 1.2em;
+    text-align: center;
+    cursor: pointer; 
+    border: none;
+    border-radius: 12px;
+    color: white; /* Ensure text color remains white */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Keep general shadow base */
+    transition: all 0.15s ease;
+
+    /* *** COLOR OVERRIDES (THE CHANGES) *** */
+    background-color: #e74c3c; /* The desired red background */
 }
 
 /* =============================== */
