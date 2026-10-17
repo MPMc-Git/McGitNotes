@@ -60,10 +60,15 @@ dconf dump /org/cinnamon/desktop/keybindings/ > ~/cinnamon-custom-keybinds.dconf
 dconf load /org/cinnamon/desktop/keybindings/ < ~/cinnamon-custom-keybinds.dconf
 ```
 
-#### n8n via Docker on WSL2
+#### n8n/Ollama via Docker on WSL2
 sudo docker volume create n8n_data
 sudo docker run -d --restart always -p 5678:5678 -v n8n_data:/home/node/.n8n --name n8n n8nio/n8n
 http://localhost:5678
+sudo apt-get install zstd
+sudo curl -fsSL https://ollama.com/install.sh | sh
+ollama pull qwen2.5:7b
+docker stop n8n && docker rm n8n
+docker run -d --name n8n --network host -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
 
 [//]: # ( ### Using WSL2 ### )
 [//]: # ( code -> To launch VS Code )
